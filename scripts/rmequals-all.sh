@@ -4,9 +4,9 @@
 
 DST=noequals
 
-for fname in ../raw/*
+for fname in scraped/*
 do
-    echo $(basename $fname) $DST/$(basename $fname)
-    rmequals $fname > $DST/$(basename $fname)
+    echo $(basename "$fname") $DST/$(basename "$fname")
+    rmequals "$fname" > "$DST/$(basename $fname)"
 done
 

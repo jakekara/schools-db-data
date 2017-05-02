@@ -1,0 +1,170 @@
+drg,drg_distname,school_code,district_name_check
+A,DARIEN,0350011,Darien School District
+A,EASTON,0460011,Easton School District
+A,NEW CANAAN,0900011,New Canaan School District
+A,REDDING,1170011,Redding School District
+A,REGIONAL SCHOOL DISTRICT 09 ( Easton  Redding),2090012,Regional School District 09
+A,RIDGEFIELD,1180011,Ridgefield School District
+A,WESTON,1570011,Weston School District
+A,WESTPORT,1580011,Westport School District
+A,WILTON,1610011,Wilton School District
+B,AVON,0040011,Avon School District
+B,BROOKFIELD,0180011,Brookfield School District
+B,CHESHIRE,0250011,Cheshire School District
+B,FAIRFIELD,0510011,Fairfield School District
+B,FARMINGTON,0520011,Farmington School District
+B,GLASTONBURY,0540011,Glastonbury School District
+B,GRANBY,0560011,Granby School District
+B,GREENWICH,0570011,Greenwich School District
+B,GUILFORD,0600011,Guilford School District
+B,MADISON,0760011,Madison School District
+B,MONROE,0850011,Monroe School District
+B,NEW FAIRFIELD,0910011,New Fairfield School District
+B,NEWTOWN,0970011,Newtown School District
+B,ORANGE,1070011,Orange School District
+B,REGIONAL SCHOOL DISTRICT 05 (Bethany  Orange  Woodbridge),2050012,Regional School District 05
+B,REGIONAL SCHOOL DISTRICT 15 (Middlebury  Southbury),2150012,Regional School District 15
+B,SIMSBURY,1280011,Simsbury School District
+B,SOUTH WINDSOR,1320011,South Windsor School District
+B,TRUMBULL,1440011,Trumbull School District
+B,WEST HARTFORD,1550011,West Hartford School District
+B,WOODBRIDGE,1670011,Woodbridge School District
+C,ANDOVER,0010011,Andover School District
+C,BARKHAMSTED,0050011,Barkhamsted School District
+C,BETHANY,0080011,Bethany School District
+C,BOLTON,0120011,Bolton School District
+C,CANTON,0230011,Canton School District
+C,COLUMBIA,0300011,Columbia School District
+C,CORNWALL,0310011,Cornwall School District
+C,ELLINGTON,0480011,Ellington School District
+C,ESSEX,0500011,Essex School District
+C,HEBRON,0670011,Hebron School District
+C,MANSFIELD,0780011,Mansfield School District
+C,MARLBOROUGH,0790011,Marlborough School District
+C,NEW HARTFORD,0920011,New Hartford School District
+C,OXFORD,1080011,Oxford School District
+C,POMFRET,1120011,Pomfret School District
+C,REGIONAL SCHOOL DISTRICT 04 (Chester  Deep River  Essex),2040012,Regional School District 04
+C,REGIONAL SCHOOL DISTRICT 07 (Barkhmstd Colebrk New Htfd Norfolk),2070012,Regional School District 07
+C,REGIONAL SCHOOL DISTRICT 08 (Andover  Hebron  Marlborough),2080012,Regional School District 08
+C,REGIONAL SCHOOL DISTRICT 10 (Burlington  Harwinton),2100012,Regional School District 10
+C,REGIONAL SCHOOL DISTRICT 12 (Bridgewater  Roxbury  Washington),2120012,Regional School District 12
+C,REGIONAL SCHOOL DISTRICT 13 (Durham  Middlefield),2130012,Regional School District 13
+C,REGIONAL SCHOOL DISTRICT 14 (Bethlehem  Woodbury),2140012,Regional School District 14
+C,REGIONAL SCHOOL DISTRICT 17 (Haddam  Killingworth),2170012,Regional School District 17
+C,REGIONAL SCHOOL DISTRICT 18 (Lyme  Old Lyme),2180012,Regional School District 18
+C,REGIONAL SCHOOL DISTRICT 19 (Ashford  Mansfield  Willington),2190012,Regional School District 19
+C,SALEM,1210011,Salem School District
+C,SHERMAN,1270011,Sherman School District
+C,SOMERS,1290011,Somers School District
+C,SUFFIELD,1390011,Suffield School District
+C,TOLLAND,1420011,Tolland School District
+D,BERLIN,0070011,Berlin School District
+D,BETHEL,0090011,Bethel School District
+D,BRANFORD,0140011,Branford School District
+D,CLINTON,0270011,Clinton School District
+D,COLCHESTER,0280011,Colchester School District
+D,CROMWELL,0330011,Cromwell School District
+D,EAST GRANBY,0400011,East Granby School District
+D,EAST HAMPTON,0420011,East Hampton School District
+D,EAST LYME,0450011,East Lyme School District
+D,LEDYARD,0720011,Ledyard School District
+D,MILFORD,0840011,Milford School District
+D,NEW MILFORD,0960011,New Milford School District
+D,NEWINGTON,0940011,Newington School District
+D,NORTH HAVEN,1010011,North Haven School District
+D,OLD SAYBROOK,1060011,Old Saybrook School District
+D,ROCKY HILL,1190011,Rocky Hill School District
+D,SHELTON,1260011,Shelton School District
+D,SOUTHINGTON,1310011,Southington School District
+D,STONINGTON,1370011,Stonington School District
+D,WALLINGFORD,1480011,Wallingford School District
+D,WATERFORD,1520011,Waterford School District
+D,WATERTOWN,1530011,Watertown School District
+D,WETHERSFIELD,1590011,Wethersfield School District
+D,WINDSOR,1640011,Windsor School District
+E,ASHFORD,0030011,Ashford School District
+E,BOZRAH,0130011,Bozrah School District
+E,BROOKLYN,0190011,Brooklyn School District
+E,CANAAN,0210011,Canaan School District
+E,CHAPLIN,0240011,Chaplin School District
+E,CHESTER,0260011,Chester School District
+E,COLEBROOK,0290011,Colebrook School District
+E,COVENTRY,0320011,Coventry School District
+E,DEEP RIVER,0360011,Deep River School District
+E,EAST HADDAM,0410011,East Haddam School District
+E,EASTFORD,0390011,Eastford School District
+E,FRANKLIN,0530011,Franklin School District
+E,HAMPTON,0630011,Hampton School District
+E,HARTLAND,0650011,Hartland School District
+E,KENT,0680011,Kent School District
+E,LEBANON,0710011,Lebanon School District
+E,LISBON,0730011,Lisbon School District
+E,LITCHFIELD,0740011,Litchfield School District
+E,NORFOLK,0980011,Norfolk School District
+E,NORTH BRANFORD,0990011,North Branford School District
+E,NORTH STONINGTON,1020011,North Stonington School District
+E,PORTLAND,1130011,Portland School District
+E,PRESTON,1140011,Preston School District
+E,REGIONAL SCHOOL DISTRICT 01(Canaan Crnwl Kent NCanan Slsby Sharn),2010012,Regional School District 01
+E,REGIONAL SCHOOL DISTRICT 06 (Goshen  Morris  Warren),2060012,Regional School District 06
+E,REGIONAL SCHOOL DISTRICT 16 (Beacon Falls  Prospect),2160012,Regional School District 16
+E,SALISBURY,1220011,Salisbury School District
+E,SCOTLAND,1230011,Scotland School District
+E,SHARON,1250011,Sharon School District
+E,THOMASTON,1400011,Thomaston School District
+E,UNION,1450011,Union School District
+E,WESTBROOK,1540011,Westbrook School District
+E,WILLINGTON,1600011,Willington School District
+E,WOODSTOCK,1690011,Woodstock School District
+E,WOODSTOCK ACADEMY,9030022,Woodstock Academy District
+F,CANTERBURY,0220011,Canterbury School District
+F,EAST WINDSOR,0470011,East Windsor School District
+F,ENFIELD,0490011,Enfield School District
+F,GRISWOLD,0580011,Griswold School District
+F,MONTVILLE,0860011,Montville School District
+F,NORTH CANAAN,1000011,North Canaan School District
+F,PLAINVILLE,1100011,Plainville School District
+F,PLYMOUTH,1110011,Plymouth School District
+F,REGIONAL SCHOOL DISTRICT 11 (Chaplin  Hampton  Scotland),2110012,Regional School District 11
+F,SEYMOUR,1240011,Seymour School District
+F,SPRAGUE,1330011,Sprague School District
+F,STAFFORD,1340011,Stafford School District
+F,STERLING,1360011,Sterling School District
+F,THOMPSON,1410011,Thompson School District
+F,VOLUNTOWN,1470011,Voluntown School District
+F,WINDSOR LOCKS,1650011,Windsor Locks School District
+F,WOLCOTT,1660011,Wolcott School District
+G,BLOOMFIELD,0110011,Bloomfield School District
+G,BRISTOL,0170011,Bristol School District
+G,EAST HAVEN,0440011,East Haven School District
+G,GROTON,0590011,Groton School District
+G,HAMDEN,0620011,Hamden School District
+G,KILLINGLY,0690011,Killingly School District
+G,MANCHESTER,0770011,Manchester School District
+G,MIDDLETOWN,0830011,Middletown School District
+G,NAUGATUCK,0880011,Naugatuck School District
+G,NORWICH FREE ACADEMY,9010022,Norwich Free Academy District
+G,PLAINFIELD,1090011,Plainfield School District
+G,PUTNAM,1160011,Putnam School District
+G,STRATFORD,1380011,Stratford School District
+G,THE GILBERT SCHOOL,9020022,The Gilbert School District
+G,TORRINGTON,1430011,Torrington School District
+G,VERNON,1460011,Vernon School District
+G,WINCHESTER,1620011,Winchester School District
+H,ANSONIA,0020011,Ansonia School District
+H,DANBURY,0340011,Danbury School District
+H,DERBY,0370011,Derby School District
+H,EAST HARTFORD,0430011,East Hartford School District
+H,MERIDEN,0800011,Meriden School District
+H,NORWALK,1030011,Norwalk School District
+H,NORWICH,1040011,Norwich School District
+H,STAMFORD,1350011,Stamford School District
+H,WEST HAVEN,1560011,West Haven School District
+I,BRIDGEPORT,0150011,Bridgeport School District
+I,HARTFORD,0640011,Hartford School District
+I,NEW BRITAIN,0890011,New Britain School District
+I,NEW HAVEN,0930011,New Haven School District
+I,NEW LONDON,0950011,New London School District
+I,WATERBURY,1510011,Waterbury School District
+I,WINDHAM,1630011,Windham School District

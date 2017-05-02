@@ -1,0 +1,16 @@
+# READY TO IMPORT
+
+
+# IMPORTED
+
+schools.csv		- list of schools basic info
+chronic_absenteeism_all
+chronic_absenteeism_ell
+chronic_absenteeism_frpl
+chronic_absenteeism_gender
+chronic_absenteeism_grade
+chronic_absenteeism_race_ethnicity
+chronic_absenteeism_special_ed
+
+start_end_times_df
+attendance_df

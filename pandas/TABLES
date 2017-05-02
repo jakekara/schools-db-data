@@ -1,0 +1,23 @@
+# Datasets needed for schools database
+
+# 1. Basics
+
+schools		DONE
+
+drgs		
+
+days_hours	DONE
+
+	Start and end times and school days per year 
+
+enrollment_trend
+
+	Total student enrollment for each school for 2010-11 through 2015-16
+
+fte_levels
+
+	FTE count by category
+
+hq_teachers
+
+	Pct classes taught by highly qualified teachers

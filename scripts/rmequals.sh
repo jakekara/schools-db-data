@@ -2,5 +2,5 @@
 
 rmequals()
 {
-    cat $1 | sed 's/=//g'
+    cat "$1" | sed 's/=//g'
 }
