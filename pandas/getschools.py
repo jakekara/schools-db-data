@@ -9,6 +9,17 @@ import re
 
 apiurl = "http://localhost:8000/cdata"
 cached = None
+cached_drg = None
+caches = {}
+
+def get_recordset(rs):
+
+    global cached
+    if rs not in caches:
+        caches[rs]  = requests.get( apiurl + "/dataset/" + rs).json()
+
+    return caches
+
 def get_schools():
 
     global cached
@@ -16,6 +27,15 @@ def get_schools():
         cached = requests.get( apiurl + "/dataset/schools").json()
 
     return cached
+
+def get_drgs():
+
+    global cached_drg
+    if cached_drg == None:
+        cached_drg = requests.get( apiurl + "/dataset/drg").json()
+
+    return cached_drg
+
 
 def test_match ( record, k, val ):
 
@@ -78,7 +98,9 @@ def merge_01( df ):
     ret.columns = map(remove_trail, ret.columns)
                                             
     return ret
-    
+
+
+
 
 def add_district_matches( df ):
     if "district" not in df.columns:
@@ -171,3 +193,51 @@ def clean_colnames(df):
 
     return ret
 
+def get_district_drg( district_code ):
+
+    return filter(lambda x: x["school_code"] == district_code, get_drgs())
+    
+
+def get_drg_or_none( district_code ):
+
+    ret = get_district_drg( district_code )
+
+    if len(ret) < 1 or len(ret) > 1:
+        return None
+
+    return ret[0]["drg"]
+
+def get_district_code( school_code ):
+
+    if school_code is None:
+        return None
+
+    schools = get_schools()
+
+    print schools
+    matches = filter(lambda x:x["school_code"] == school_code, schools)
+
+    if matches is None or len(matches) != 1:
+        return None
+
+    if "district_code" not in matches[0]:
+        return None
+    
+    return matches[0]["district_code"]
+
+def add_district_code(df, code_col="school_code"):
+    schools = get_schools()
+
+    ret = df.copy()
+
+    ret["district_code"] = ret.apply(lambda x: get_district_code(x[code_col]), axis=1)
+
+    return ret
+    
+
+def add_drg( df, code_col="district_code" ):
+
+    ret = df.copy()
+    ret["drg"] = ret.apply(lambda x: get_drg_or_none(x[code_col]), axis=1)
+
+    return ret
