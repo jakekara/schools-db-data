@@ -1,0 +1,5 @@
+district,subject,ell,total_numberof_students,total_numbertested,smarter_balancedparticipationrate,total_number_with_scored_tests,level_1not_met_level_1_not_met_count,level_1not_met_pct,level_2approaching_level_2_approaching_count,level_2approaching_pct,level_3met_level_3_met_count,level_3met_pct,level_4exceeded_level_4_exceeded_count,level_4exceeded_pct,level_3_4met_or_exceeded_level_3_4_met_or_exceeded_count,level_3_4met_or_exceeded_pct,year
+State of Connecticut,ELA,N,222550,219587,98.7,219520,43513,19.8,46975,21.4,70158,32.0,58874,26.8,129032,58.8,2015-16
+State of Connecticut,ELA,Y,15470,15401,99.6,15364,10393,67.6,3322,21.6,1374,8.9,275,1.8,1649,10.7,2015-16
+State of Connecticut,Math,N,222496,219047,98.4,218980,55817,25.5,61502,28.1,53800,24.6,47861,21.9,101661,46.4,2015-16
+State of Connecticut,Math,Y,15464,15337,99.2,15304,10439,68.2,3391,22.2,1135,7.4,339,2.2,1474,9.6,2015-16

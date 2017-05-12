@@ -1,0 +1,15 @@
+district,subject,race,total_numberwith_scored_tests,level_1not_met_count,level_1not_met_pct,level_2approaching_count,level_2approaching_pct,level_3met_count,level_3met_pct,level_4exceeded_count,level_4exceeded_pct,level_3_4met_or_exceeded_count,level_3_4met_or_exceeded_pct,level_3_4met_or_exceeded_averagescore,level,year,average_score
+State of Connecticut,ELA,American Indian or Alaska Native,104,*,*,23,22.1,51,49.0,*,*,*,*,507,Statewide,2015-16,507
+State of Connecticut,ELA,Asian,1687,155,9.2,201,11.9,800,47.4,531,31.5,1331,78.9,565,Statewide,2015-16,565
+State of Connecticut,ELA,Black or African American,4666,1707,36.6,1261,27.0,1553,33.3,145,3.1,1698,36.4,451,Statewide,2015-16,451
+State of Connecticut,ELA,Hispanic/Latino of any race,6970,2525,36.2,1729,24.8,2406,34.5,310,4.4,2716,39.0,457,Statewide,2015-16,457
+State of Connecticut,ELA,Native Hawaiian or Other Pacific Islander,31,9,29.0,*,*,12,38.7,*,*,*,*,491,Statewide,2015-16,491
+State of Connecticut,ELA,Two or More Races,755,126,16.7,148,19.6,367,48.6,114,15.1,481,63.7,517,Statewide,2015-16,517
+State of Connecticut,ELA,White,23640,2145,9.1,3187,13.5,12896,54.6,5412,22.9,18308,77.4,548,Statewide,2015-16,548
+State of Connecticut,Math,American Indian or Alaska Native,104,25,24.0,50,48.1,*,*,*,*,29,27.9,487,Statewide,2015-16,487
+State of Connecticut,Math,Asian,1686,141,8.4,412,24.4,596,35.3,537,31.9,1133,67.2,582,Statewide,2015-16,582
+State of Connecticut,Math,Black or African American,4660,2068,44.4,2016,43.3,521,11.2,55,1.2,576,12.4,431,Statewide,2015-16,431
+State of Connecticut,Math,Hispanic/Latino of any race,6956,3039,43.7,2838,40.8,915,13.2,164,2.4,1079,15.5,438,Statewide,2015-16,438
+State of Connecticut,Math,Native Hawaiian or Other Pacific Islander,31,*,*,14,45.2,9,29.0,*,*,*,*,479,Statewide,2015-16,479
+State of Connecticut,Math,Two or More Races,754,189,25.1,313,41.5,172,22.8,80,10.6,252,33.4,493,Statewide,2015-16,493
+State of Connecticut,Math,White,23625,3286,13.9,8547,36.2,8434,35.7,3358,14.2,11792,49.9,529,Statewide,2015-16,529
