@@ -1,0 +1,527 @@
+district,progress,proficient,academic_target_met,all_three_met,dist_code,check_dist_col,district_code,school_code,year,drg
+Ansonia School District,0.8902,0.7904,Yes - Too Few ELs,Yes,0020011,Ansonia School District,0020011,0020011,2010-11,H
+Bethel School District,0.8929,0.694,Yes - Too Few ELs,Yes,0090011,Bethel School District,0090011,0090011,2010-11,D
+Bridgeport School District,0.7917,0.5262,No,No,0150011,Bridgeport School District,0150011,0150011,2010-11,I
+Bristol School District,0.8083,0.6848,No,No,0170011,Bristol School District,0170011,0170011,2010-11,G
+Cheshire School District,1,0.7143,Yes - Too Few ELs,Yes,0250011,Cheshire School District,0250011,0250011,2010-11,B
+Danbury School District,0.8613,0.5541,No,No,0340011,Danbury School District,0340011,0340011,2010-11,H
+Derby School District,0.8356,0.859,No,No,0370011,Derby School District,0370011,0370011,2010-11,H
+East Hartford School District,0.923,0.7405,No,No,0430011,East Hartford School District,0430011,0430011,2010-11,H
+East Haven School District,0.9019,0.7238,No,No,0440011,East Haven School District,0440011,0440011,2010-11,G
+Enfield School District,0.8997,0.7081,Yes - Too Few ELs,Yes,0490011,Enfield School District,0490011,0490011,2010-11,F
+Fairfield School District,0.8952,0.782,No,No,0510011,Fairfield School District,0510011,0510011,2010-11,B
+Glastonbury School District,0.9281,0.8468,No,No,0540011,Glastonbury School District,0540011,0540011,2010-11,B
+Greenwich School District,0.9003,0.8143,No,No,0570011,Greenwich School District,0570011,0570011,2010-11,B
+Groton School District,0.8967,0.5094,Yes - Too Few ELs,Yes,0590011,Groton School District,0590011,0590011,2010-11,G
+Hamden School District,0.9107,0.7246,No,No,0620011,Hamden School District,0620011,0620011,2010-11,G
+Hartford School District,0.7991,0.4309,No,No,0640011,Hartford School District,0640011,0640011,2010-11,I
+Manchester School District,0.8646,0.6739,No,No,0770011,Manchester School District,0770011,0770011,2010-11,G
+Meriden School District,0.7429,0.3933,No,No,0800011,Meriden School District,0800011,0800011,2010-11,H
+Middletown School District,0.9128,0.6052,No,No,0830011,Middletown School District,0830011,0830011,2010-11,G
+Milford School District,0.8579,0.7005,Yes - Too Few ELs,Yes,0840011,Milford School District,0840011,0840011,2010-11,D
+Montville School District,0.9146,0.6218,Yes - Too Few ELs,Yes,0860011,Montville School District,0860011,0860011,2010-11,F
+Naugatuck School District,0.8071,0.6806,No,No,0880011,Naugatuck School District,0880011,0880011,2010-11,G
+New Britain School District,0.7883,0.437,No,No,0890011,New Britain School District,0890011,0890011,2010-11,I
+New Haven School District,0.8409,0.4612,No,No,0930011,New Haven School District,0930011,0930011,2010-11,I
+Newington School District,0.908,0.7833,No,No,0940011,Newington School District,0940011,0940011,2010-11,D
+New London School District,0.7881,0.5656,No,No,0950011,New London School District,0950011,0950011,2010-11,I
+New Milford School District,0.9448,0.6654,No,No,0960011,New Milford School District,0960011,0960011,2010-11,D
+Norwalk School District,0.8547,0.6646,No,No,1030011,Norwalk School District,1030011,1030011,2010-11,H
+Norwich School District,0.8447,0.5003,No,No,1040011,Norwich School District,1040011,1040011,2010-11,H
+Plainville School District,0.9556,0.7366,No,No,1100011,Plainville School District,1100011,1100011,2010-11,F
+Putnam School District,0.7812,0.4667,Yes - Too Few ELs,Yes,1160011,Putnam School District,1160011,1160011,2010-11,G
+Rocky Hill School District,0.9112,0.8609,Yes - Too Few ELs,Yes,1190011,Rocky Hill School District,1190011,1190011,2010-11,D
+Shelton School District,0.8333,0.7045,No,No,1260011,Shelton School District,1260011,1260011,2010-11,D
+Southington School District,0.9726,0.8353,Yes - Too Few ELs,Yes,1310011,Southington School District,1310011,1310011,2010-11,D
+South Windsor School District,0.9178,0.7692,No,No,1320011,South Windsor School District,1320011,1320011,2010-11,B
+Stamford School District,0.8615,0.6252,No,No,1350011,Stamford School District,1350011,1350011,2010-11,H
+Stratford School District,0.8877,0.7861,No,No,1380011,Stratford School District,1380011,1380011,2010-11,G
+Torrington School District,0.9012,0.6476,No,No,1430011,Torrington School District,1430011,1430011,2010-11,G
+Trumbull School District,0.906,0.8621,Yes - Too Few ELs,Yes,1440011,Trumbull School District,1440011,1440011,2010-11,B
+Wallingford School District,0.932,0.7473,No,No,1480011,Wallingford School District,1480011,1480011,2010-11,D
+Waterbury School District,0.8164,0.5589,No,No,1510011,Waterbury School District,1510011,1510011,2010-11,I
+West Hartford School District,0.9085,0.7509,No,No,1550011,West Hartford School District,1550011,1550011,2010-11,B
+West Haven School District,0.883,0.5885,No,No,1560011,West Haven School District,1560011,1560011,2010-11,H
+Wethersfield School District,0.9171,0.6701,No,No,1590011,Wethersfield School District,1590011,1590011,2010-11,D
+Windham School District,0.7826,0.4806,No,No,1630011,Windham School District,1630011,1630011,2010-11,I
+Windsor School District,0.8312,0.7407,Yes - Achieved,Yes,1640011,Windsor School District,1640011,1640011,2010-11,D
+Connecticut Technical High School System School District,0.7732,0.7387,No,No,,,,,2010-11,
+ACES Consortium School District,0.8661,0.693501,Yes - Achieved,Yes,,,,,2010-11,
+Berlin-Cromwell Consortium School District,0.940594,0.714286,Yes - Achieved,Yes,,,,,2010-11,
+Branford-Guilford Consortium School District,0.861057,0.722789,Yes - Achieved,Yes,,,,,2010-11,
+CES Consortium School District,0.907029,0.753546,Yes - Achieved,Yes,,,,,2010-11,
+CREC Consortium School District,0.912201,0.778267,Yes - Achieved,Yes,,,,,2010-11,
+EASTCONN Consortium School District,0.861111,0.822981,Yes - Achieved,Yes,,,,,2010-11,
+EDCONNECTION Consortium School District,0.870394,0.7503,No,No,,,,,2010-11,
+LEARN Consortium School District,0.902883,0.767361,Yes - Achieved,Yes,,,,,2010-11,
+New Canaan-Westport Consortium School District,0.902256,0.853333,Yes - Achieved,Yes,,,,,2010-11,
+Windsor Locks-Avon Consortium School District,0.958005,0.712435,No,No,,,,,2010-11,
+Connecticut School District,0.839,0.581,No,No,,,,,2010-11,
+1AMAO 3 Targets: Percentage of EL AYP Subgroup Attaining Proficiency: CMT 89% for English and 91% for Math; CAPT: 91% for English and 90% for Math. EL subgroup also met the 95 percent participation rate goal. School District,,,,,,,,,2010-11,
+nan School District,,,,,,,,,2010-11,
+RESC Consortia Membership School District,,,,,,,,,2010-11,
+ACES Consortium School District,ACES (District),,,,,,,,2010-11,
+ACES Consortium School District,Orange,,,,,,,,2010-11,
+ACES Consortium School District,Oxford,,,,,,,,2010-11,
+ACES Consortium School District,Region 5,,,,,,,,2010-11,
+ACES Consortium School District,Region 13,,,,,,,,2010-11,
+ACES Consortium School District,Region 16,,,,,,,,2010-11,
+ACES Consortium School District,Seymour,,,,,,,,2010-11,
+ACES Consortium School District,Wolcott,,,,,,,,2010-11,
+ACES Consortium School District,Woodbridge,,,,,,,,2010-11,
+CES Consortium School District,Darien,,,,,,,,2010-11,
+CES Consortium School District,Easton,,,,,,,,2010-11,
+CES Consortium School District,Monroe,,,,,,,,2010-11,
+CES Consortium School District,Region 9,,,,,,,,2010-11,
+CES Consortium School District,Ridgefield,,,,,,,,2010-11,
+CES Consortium School District,Side by Side,,,,,,,,2010-11,
+CES Consortium School District,Weston,,,,,,,,2010-11,
+CES Consortium School District,Wilton,,,,,,,,2010-11,
+CREC Consortium School District,Bloomfield,,,,,,,,2010-11,
+CREC Consortium School District,Bolton,,,,,,,,2010-11,
+CREC Consortium School District,CREC (District),,,,,,,,2010-11,
+CREC Consortium School District,East Granby,,,,,,,,2010-11,
+CREC Consortium School District,East Windsor,,,,,,,,2010-11,
+CREC Consortium School District,Ellington,,,,,,,,2010-11,
+CREC Consortium School District,Farmington,,,,,,,,2010-11,
+CREC Consortium School District,Granby,,,,,,,,2010-11,
+CREC Consortium School District,Killingly,,,,,,,,2010-11,
+CREC Consortium School District,Portland,,,,,,,,2010-11,
+CREC Consortium School District,Region 10,,,,,,,,2010-11,
+CREC Consortium School District,Simsbury,,,,,,,,2010-11,
+CREC Consortium School District,Somers,,,,,,,,2010-11,
+CREC Consortium School District,Vernon,,,,,,,,2010-11,
+EASTCONN Consortium School District,Andover,,,,,,,,2010-11,
+EASTCONN Consortium School District,Ashford,,,,,,,,2010-11,
+EASTCONN Consortium School District,Colchester,,,,,,,,2010-11,
+EASTCONN Consortium School District,Griswold,,,,,,,,2010-11,
+EASTCONN Consortium School District,Mansfield,,,,,,,,2010-11,
+EASTCONN Consortium School District,Marlborough,,,,,,,,2010-11,
+EASTCONN Consortium School District,Plainfield,,,,,,,,2010-11,
+EASTCONN Consortium School District,Pomfret,,,,,,,,2010-11,
+EASTCONN Consortium School District,Region 19,,,,,,,,2010-11,
+EASTCONN Consortium School District,Sprague,,,,,,,,2010-11,
+EASTCONN Consortium School District,Stafford,,,,,,,,2010-11,
+EASTCONN Consortium School District,Tolland,,,,,,,,2010-11,
+EASTCONN Consortium School District,Woodstock,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Brookfield,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Kent,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Litchfield,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,New Fairfield,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,North Canaan,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Plymouth,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Redding,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Region 6,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Region 12,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Region 15,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Thomaston,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Watertown,,,,,,,,2010-11,
+EDCONNECTION Consortium School District,Winchester,,,,,,,,2010-11,
+LEARN Consortium School District,Chester,,,,,,,,2010-11,
+LEARN Consortium School District,Clinton,,,,,,,,2010-11,
+LEARN Consortium School District,Deep River,,,,,,,,2010-11,
+LEARN Consortium School District,East Hampton,,,,,,,,2010-11,
+LEARN Consortium School District,East Lyme,,,,,,,,2010-11,
+LEARN Consortium School District,Essex,,,,,,,,2010-11,
+LEARN Consortium School District,Integrated Day,,,,,,,,2010-11,
+LEARN Consortium School District,ISAAC,,,,,,,,2010-11,
+LEARN Consortium School District,LEARN,,,,,,,,2010-11,
+LEARN Consortium School District,Ledyard,,,,,,,,2010-11,
+LEARN Consortium School District,Old Saybrook,,,,,,,,2010-11,
+LEARN Consortium School District,Region 4,,,,,,,,2010-11,
+LEARN Consortium School District,Waterford,,,,,,,,2010-11,
+LEARN Consortium School District,Westbrook,,,,,,,,2010-11,
+Ansonia School District,0.87156,0.766423,Yes - Too Few ELs,Yes,0020011,Ansonia School District,0020011,0020011,2011-12,H
+Bethel School District,0.862745,0.629921,Yes - Too Few ELs,Yes,0090011,Bethel School District,0090011,0090011,2011-12,D
+Bridgeport School District,0.790395,0.500667,No,No,0150011,Bridgeport School District,0150011,0150011,2011-12,I
+Bristol School District,0.888889,0.645527,Yes,Yes,0170011,Bristol School District,0170011,0170011,2011-12,G
+Cheshire School District,0.806452,0.733945,Yes - Too Few ELs,Yes,0250011,Cheshire School District,0250011,0250011,2011-12,B
+Connecticut Technical High School System School District,0.847209,0.798358,No,No,,,,,2011-12,
+Danbury School District,0.863685,0.546909,No,No,0340011,Danbury School District,0340011,0340011,2011-12,H
+Derby School District,0.772251,0.81864,No,No,0370011,Derby School District,0370011,0370011,2011-12,H
+East Hartford School District,0.950777,0.767178,No,No,0430011,East Hartford School District,0430011,0430011,2011-12,H
+East Haven School District,0.731707,0.534188,Yes - Achieved,No,0440011,East Haven School District,0440011,0440011,2011-12,G
+Enfield School District,0.844504,0.630027,Yes - Too Few ELs,Yes,0490011,Enfield School District,0490011,0490011,2011-12,F
+Fairfield School District,0.881935,0.738916,No,No,0510011,Fairfield School District,0510011,0510011,2011-12,B
+Glastonbury School District,0.84,0.848375,Yes - Too Few ELs,Yes,0540011,Glastonbury School District,0540011,0540011,2011-12,B
+Greenwich School District,0.870968,0.804989,Yes - Achieved,Yes,0570011,Greenwich School District,0570011,0570011,2011-12,B
+Groton School District,0.874636,0.5625,Yes - Achieved,Yes,0590011,Groton School District,0590011,0590011,2011-12,G
+Hamden School District,0.818432,0.581395,No,No,0620011,Hamden School District,0620011,0620011,2011-12,G
+Hartford School District,0.788048,0.431509,No,No,0640011,Hartford School District,0640011,0640011,2011-12,I
+Manchester School District,0.853448,0.680031,Yes - Achieved,Yes,0770011,Manchester School District,0770011,0770011,2011-12,G
+Meriden School District,0.750212,0.365527,No,No,0800011,Meriden School District,0800011,0800011,2011-12,H
+Middletown School District,0.897704,0.660981,No,No,0830011,Middletown School District,0830011,0830011,2011-12,G
+Milford School District,0.940299,0.7625,Yes - Too Few ELs,Yes,0840011,Milford School District,0840011,0840011,2011-12,D
+Montville School District,0.926829,0.632754,Yes - Too Few ELs,Yes,0860011,Montville School District,0860011,0860011,2011-12,F
+Naugatuck School District,0.789889,0.647059,Yes,Yes,0880011,Naugatuck School District,0880011,0880011,2011-12,G
+New Britain School District,0.749592,0.414854,No,No,0890011,New Britain School District,0890011,0890011,2011-12,I
+New Haven School District,0.805065,0.433154,No,No,0930011,New Haven School District,0930011,0930011,2011-12,I
+New London School District,0.958025,0.80618,No,No,0950011,New London School District,0950011,0950011,2011-12,I
+New Milford School District,0.90625,0.778846,No,No,0960011,New Milford School District,0960011,0960011,2011-12,D
+Newington School District,0.888383,0.823529,Yes - Achieved,Yes,0940011,Newington School District,0940011,0940011,2011-12,D
+Norwalk School District,0.822617,0.640163,No,No,1030011,Norwalk School District,1030011,1030011,2011-12,H
+Norwich School District,0.837904,0.415559,No,No,1040011,Norwich School District,1040011,1040011,2011-12,H
+Plainville School District,0.899123,0.570342,Yes - Too Few ELs,Yes,1100011,Plainville School District,1100011,1100011,2011-12,F
+Putnam School District,0.833333,0.327103,Yes - Too Few ELs,Yes,1160011,Putnam School District,1160011,1160011,2011-12,G
+Rocky Hill School District,0.881057,0.867347,Yes - Too Few ELs,Yes,1190011,Rocky Hill School District,1190011,1190011,2011-12,D
+Seymour School District,0.875,0.763473,Yes - Too Few ELs,Yes,1240011,Seymour School District,1240011,1240011,2011-12,F
+Shelton School District,0.84466,0.640569,No,No,1260011,Shelton School District,1260011,1260011,2011-12,D
+South Windsor School District,0.964052,0.755814,Yes - Achieved,Yes,1320011,South Windsor School District,1320011,1320011,2011-12,B
+Southington School District,0.833333,0.71608,Yes - Too Few ELs,Yes,1310011,Southington School District,1310011,1310011,2011-12,D
+Stamford School District,0.779253,0.521773,No,No,1350011,Stamford School District,1350011,1350011,2011-12,H
+Stratford School District,0.814815,0.730337,No,No,1380011,Stratford School District,1380011,1380011,2011-12,G
+Torrington School District,0.876963,0.597015,Yes - Achieved,Yes,1430011,Torrington School District,1430011,1430011,2011-12,G
+Trumbull School District,0.905612,0.835118,Yes - Achieved,Yes,1440011,Trumbull School District,1440011,1440011,2011-12,B
+Vernon School District,0.899054,0.604027,Yes - Too Few ELs,Yes,1460011,Vernon School District,1460011,1460011,2011-12,G
+Wallingford School District,0.876471,0.627158,No,No,1480011,Wallingford School District,1480011,1480011,2011-12,D
+Waterbury School District,0.772406,0.481548,No,No,1510011,Waterbury School District,1510011,1510011,2011-12,I
+West Hartford School District,0.86445,0.673902,No,No,1550011,West Hartford School District,1550011,1550011,2011-12,B
+West Haven School District,0.870811,0.58937,No,No,1560011,West Haven School District,1560011,1560011,2011-12,H
+Wethersfield School District,0.8391,0.679117,Yes - Achieved,Yes,1590011,Wethersfield School District,1590011,1590011,2011-12,D
+Windham School District,0.783582,0.485756,No,No,1630011,Windham School District,1630011,1630011,2011-12,I
+Windsor School District,0.856164,0.763598,Yes - Achieved,Yes,1640011,Windsor School District,1640011,1640011,2011-12,D
+ACES Consortium School District,0.870288,0.748768,Yes - Achieved,Yes,,,,,2011-12,
+Berlin-Cromwell Consortium School District,0.895722,0.734177,Yes - Achieved,Yes,,,,,2011-12,
+Branford-Guilford Consortium School District,0.919854,0.744863,Yes - Achieved,Yes,,,,,2011-12,
+CES Consortium School District,0.89876,0.822684,No,No,,,,,2011-12,
+CREC Consortium School District,0.8679,0.734816,No,No,,,,,2011-12,
+EASTCONN Consortium School District,0.875,0.757143,Yes - Achieved,Yes,,,,,2011-12,
+EDCONNECTION Consortium School District,0.874499,0.686747,Yes - Achieved,Yes,,,,,2011-12,
+LEARN Consortium School District,0.838926,0.688105,No,No,,,,,2011-12,
+New Canaan-Westport Consortium School District,0.923077,0.86758,Yes - Achieved,Yes,,,,,2011-12,
+Windsor Locks-Avon Consortium School District,0.927419,0.758621,Yes - Achieved,Yes,,,,,2011-12,
+Connecticut School District,0.819,0.556,No,No,,,,,2011-12,
+1AMAO 3 Targets: Percentage of EL AYP Subgroup Attaining Proficiency: CMT 89% for English and 91% for Math; CAPT: 91% for English and 90% for Math. EL subgroup also met the 95 percent participation rate goal. School District,,,,,,,,,2011-12,
+nan School District,,,,,,,,,2011-12,
+RESC Consortia Membership School District,,,,,,,,,2011-12,
+ACES Consortium School District,ACES (District),,,,,,,,2011-12,
+ACES Consortium School District,North Haven,,,,,,,,2011-12,
+ACES Consortium School District,Orange,,,,,,,,2011-12,
+ACES Consortium School District,Oxford,,,,,,,,2011-12,
+ACES Consortium School District,Region 5,,,,,,,,2011-12,
+ACES Consortium School District,Region 13,,,,,,,,2011-12,
+ACES Consortium School District,Region 16,,,,,,,,2011-12,
+ACES Consortium School District,Wolcott,,,,,,,,2011-12,
+ACES Consortium School District,Woodbridge,,,,,,,,2011-12,
+CES Consortium School District,Darien,,,,,,,,2011-12,
+CES Consortium School District,Easton,,,,,,,,2011-12,
+CES Consortium School District,Monroe,,,,,,,,2011-12,
+CES Consortium School District,Ridgefield,,,,,,,,2011-12,
+CES Consortium School District,Side by Side,,,,,,,,2011-12,
+CES Consortium School District,Weston,,,,,,,,2011-12,
+CES Consortium School District,Wilton,,,,,,,,2011-12,
+CREC Consortium School District,Bloomfield,,,,,,,,2011-12,
+CREC Consortium School District,Bolton,,,,,,,,2011-12,
+CREC Consortium School District,CREC (District),,,,,,,,2011-12,
+CREC Consortium School District,East Granby,,,,,,,,2011-12,
+CREC Consortium School District,East Windsor,,,,,,,,2011-12,
+CREC Consortium School District,Ellington,,,,,,,,2011-12,
+CREC Consortium School District,Farmington,,,,,,,,2011-12,
+CREC Consortium School District,Granby,,,,,,,,2011-12,
+CREC Consortium School District,Killingly,,,,,,,,2011-12,
+CREC Consortium School District,Portland,,,,,,,,2011-12,
+CREC Consortium School District,Region 10,,,,,,,,2011-12,
+CREC Consortium School District,Simsbury,,,,,,,,2011-12,
+CREC Consortium School District,Somers,,,,,,,,2011-12,
+EASTCONN Consortium School District,Andover,,,,,,,,2011-12,
+EASTCONN Consortium School District,Ashford,,,,,,,,2011-12,
+EASTCONN Consortium School District,Colchester,,,,,,,,2011-12,
+EASTCONN Consortium School District,Griswold,,,,,,,,2011-12,
+EASTCONN Consortium School District,Mansfield,,,,,,,,2011-12,
+EASTCONN Consortium School District,Plainfield,,,,,,,,2011-12,
+EASTCONN Consortium School District,Pomfret,,,,,,,,2011-12,
+EASTCONN Consortium School District,Region 8,,,,,,,,2011-12,
+EASTCONN Consortium School District,Region 19,,,,,,,,2011-12,
+EASTCONN Consortium School District,Sprague,,,,,,,,2011-12,
+EASTCONN Consortium School District,Stafford,,,,,,,,2011-12,
+EASTCONN Consortium School District,Tolland,,,,,,,,2011-12,
+EASTCONN Consortium School District,Woodstock,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Brookfield,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Kent,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Litchfield,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,New Fairfield,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,North Canaan,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Plymouth,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Region 6,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Region 14,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Region 15,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Sherman,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Thomaston,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Watertown,,,,,,,,2011-12,
+EDCONNECTION Consortium School District,Winchester,,,,,,,,2011-12,
+LEARN Consortium School District,Chester,,,,,,,,2011-12,
+LEARN Consortium School District,Clinton,,,,,,,,2011-12,
+LEARN Consortium School District,Deep River,,,,,,,,2011-12,
+LEARN Consortium School District,East Hampton,,,,,,,,2011-12,
+LEARN Consortium School District,East Lyme,,,,,,,,2011-12,
+LEARN Consortium School District,Essex,,,,,,,,2011-12,
+LEARN Consortium School District,Integrated Day,,,,,,,,2011-12,
+LEARN Consortium School District,ISAAC,,,,,,,,2011-12,
+LEARN Consortium School District,LEARN,,,,,,,,2011-12,
+LEARN Consortium School District,Ledyard,,,,,,,,2011-12,
+LEARN Consortium School District,Old Saybrook,,,,,,,,2011-12,
+LEARN Consortium School District,Region 4,,,,,,,,2011-12,
+LEARN Consortium School District,Waterford,,,,,,,,2011-12,
+LEARN Consortium School District,Westbrook,,,,,,,,2011-12,
+Ansonia School District,0.896226,0.764463,No,No,0020011,Ansonia School District,0020011,0020011,2012-13,H
+Bethel School District,0.958904,0.766667,No,No,0090011,Bethel School District,0090011,0090011,2012-13,D
+Bridgeport School District,0.833426,0.543854,No,No,0150011,Bridgeport School District,0150011,0150011,2012-13,I
+Bristol School District,0.865088,0.646123,No,No,0170011,Bristol School District,0170011,0170011,2012-13,G
+Cheshire School District,0.833333,0.719697,Yes - LEA with No Targets for EL subgroup,Yes,0250011,Cheshire School District,0250011,0250011,2012-13,B
+Danbury School District,0.858991,0.547984,No,No,0340011,Danbury School District,0340011,0340011,2012-13,H
+Derby School District,0.873239,0.822102,No,No,0370011,Derby School District,0370011,0370011,2012-13,H
+East Hartford School District,0.958732,0.753769,No,No,0430011,East Hartford School District,0430011,0430011,2012-13,H
+East Haven School District,0.882353,0.674603,No,No,0440011,East Haven School District,0440011,0440011,2012-13,G
+Enfield School District,0.912921,0.702703,No,No,0490011,Enfield School District,0490011,0490011,2012-13,F
+Fairfield School District,0.85048,0.713384,No,No,0510011,Fairfield School District,0510011,0510011,2012-13,B
+Glastonbury School District,0.859375,0.848057,No,No,0540011,Glastonbury School District,0540011,0540011,2012-13,B
+Greenwich School District,0.913133,0.812465,No,No,0570011,Greenwich School District,0570011,0570011,2012-13,B
+Groton School District,0.848214,0.597222,No,No,0590011,Groton School District,0590011,0590011,2012-13,G
+Hamden School District,0.915072,0.698529,No,No,0620011,Hamden School District,0620011,0620011,2012-13,G
+Hartford School District,0.810167,0.474278,No,No,0640011,Hartford School District,0640011,0640011,2012-13,I
+Manchester School District,0.967742,0.799585,No,No,0770011,Manchester School District,0770011,0770011,2012-13,G
+Meriden School District,0.823231,0.44859,No,No,0800011,Meriden School District,0800011,0800011,2012-13,H
+Middletown School District,0.911824,0.690979,No,No,0830011,Middletown School District,0830011,0830011,2012-13,G
+Milford School District,0.892857,0.73913,No,No,0840011,Milford School District,0840011,0840011,2012-13,D
+Montville School District,0.92233,0.597484,No,No,0860011,Montville School District,0860011,0860011,2012-13,F
+Naugatuck School District,0.834543,0.661337,No,No,0880011,Naugatuck School District,0880011,0880011,2012-13,G
+New Britain School District,0.817046,0.474984,No,No,0890011,New Britain School District,0890011,0890011,2012-13,I
+New Haven School District,0.822102,0.433829,No,No,0930011,New Haven School District,0930011,0930011,2012-13,I
+Newington School District,0.981595,0.808967,Yes - Achieved,Yes,0940011,Newington School District,0940011,0940011,2012-13,D
+New London School District,0.921528,0.787827,No,No,0950011,New London School District,0950011,0950011,2012-13,I
+New Milford School District,0.927602,0.762527,No,No,0960011,New Milford School District,0960011,0960011,2012-13,D
+Norwalk School District,0.874774,0.666328,No,No,1030011,Norwalk School District,1030011,1030011,2012-13,H
+Norwich School District,0.92381,0.527009,No,No,1040011,Norwich School District,1040011,1040011,2012-13,H
+Plainville School District,1,0.762712,No,No,1100011,Plainville School District,1100011,1100011,2012-13,F
+Putnam School District,0.952381,0.630631,Yes - Too few Els in subgroup,Yes,1160011,Putnam School District,1160011,1160011,2012-13,G
+Rocky Hill School District,0.907173,0.765306,No,No,1190011,Rocky Hill School District,1190011,1190011,2012-13,D
+Seymour School District,0.73741,0.714286,No,No,1240011,Seymour School District,1240011,1240011,2012-13,F
+Shelton School District,0.900826,0.689415,Yes,Yes,1260011,Shelton School District,1260011,1260011,2012-13,D
+Southington School District,0.936019,0.821206,No,No,1310011,Southington School District,1310011,1310011,2012-13,D
+South Windsor School District,0.953125,0.809249,No,No,1320011,South Windsor School District,1320011,1320011,2012-13,B
+Stamford School District,0.856941,0.566955,No,No,1350011,Stamford School District,1350011,1350011,2012-13,H
+Stratford School District,0.858896,0.742653,No,No,1380011,Stratford School District,1380011,1380011,2012-13,G
+Torrington School District,0.899026,0.578475,No,No,1430011,Torrington School District,1430011,1430011,2012-13,G
+Trumbull School District,0.904523,0.842333,Yes,Yes,1440011,Trumbull School District,1440011,1440011,2012-13,B
+Vernon School District,0.92827,0.610236,No,No,1460011,Vernon School District,1460011,1460011,2012-13,G
+Wallingford School District,0.905045,0.710634,No,No,1480011,Wallingford School District,1480011,1480011,2012-13,D
+Waterbury School District,0.852354,0.562806,No,No,1510011,Waterbury School District,1510011,1510011,2012-13,I
+Watertown School District,0.925926,0.700758,No,No,1530011,Watertown School District,1530011,1530011,2012-13,D
+West Hartford School District,0.914826,0.72636,No,No,1550011,West Hartford School District,1550011,1550011,2012-13,B
+West Haven School District,0.909846,0.646357,No,No,1560011,West Haven School District,1560011,1560011,2012-13,H
+Wethersfield School District,0.920608,0.662252,No,No,1590011,Wethersfield School District,1590011,1590011,2012-13,D
+Windham School District,0.78938,0.460745,No,No,1630011,Windham School District,1630011,1630011,2012-13,I
+Windsor School District,0.845272,0.751121,No,No,1640011,Windsor School District,1640011,1640011,2012-13,D
+Connecticut Technical High School System School District,0.831643,0.752953,No,No,,,,,2012-13,
+ACES Consortium School District,0.850939,0.75,No,No,,,,,2012-13,
+Berlin-Cromwell Consortium School District,0.997151,0.697,No,No,,,,,2012-13,
+Branford-Guilford Consortium School District,0.863539,0.567,No,No,,,,,2012-13,
+CES Consortium School District,0.923913,0.818,No,No,,,,,2012-13,
+CREC Consortium School District,0.898393,0.804,No,No,,,,,2012-13,
+EASTCONN Consortium School District,0.843585,0.735,No,No,,,,,2012-13,
+EDCONNECTION Consortium School District,0.922939,0.739,No,No,,,,,2012-13,
+LEARN Consortium School District,0.910405,0.741,No,No,,,,,2012-13,
+New Canaan-Westport Consortium School District,0.811688,0.817,No,No,,,,,2012-13,
+Windsor Locks-Avon Consortium School District,0.945274,0.747,No,No,,,,,2012-13,
+Connecticut School District,0.857742,0.587,No,No,,,,,2012-13,
+1AMAO 3 Targets: EL subgroup met individualized Annual Measurable Objective (AMO) Targets and 95 percent participation rate goal on the CMT and CAPTassessments for English and Math. School District,,,,,,,,,2012-13,
+nan School District,,,,,,,,,2012-13,
+RESC Consortia Membership School District,,,,,,,,,2012-13,
+ACES Consortium School District,Area Cooperative Educational Services (District)              ,,,,,,,,2012-13,
+ACES Consortium School District,North Haven School District                            ,,,,,,,,2012-13,
+ACES Consortium School District,Orange School District                                 ,,,,,,,,2012-13,
+ACES Consortium School District,Oxford School District                                 ,,,,,,,,2012-13,
+ACES Consortium School District,Wolcott School District                                ,,,,,,,,2012-13,
+ACES Consortium School District,Woodbridge School District                             ,,,,,,,,2012-13,
+ACES Consortium School District,Regional School District 05                            ,,,,,,,,2012-13,
+ACES Consortium School District,Regional School District 13,,,,,,,,2012-13,
+ACES Consortium School District,Regional School District 16,,,,,,,,2012-13,
+CES Consortium School District,Darien School District,,,,,,,,2012-13,
+CES Consortium School District,Easton School District,,,,,,,,2012-13,
+CES Consortium School District,Monroe School District,,,,,,,,2012-13,
+CES Consortium School District,Ridgefield School District,,,,,,,,2012-13,
+CES Consortium School District,Weston School District,,,,,,,,2012-13,
+CES Consortium School District,Wilton School District,,,,,,,,2012-13,
+CES Consortium School District,Regional School District 09,,,,,,,,2012-13,
+CES Consortium School District,Side By Side Charter School District                   ,,,,,,,,2012-13,
+CREC Consortium School District,Bloomfield School District,,,,,,,,2012-13,
+CREC Consortium School District,Bolton School District,,,,,,,,2012-13,
+CREC Consortium School District,East Granby School District,,,,,,,,2012-13,
+CREC Consortium School District,East Windsor School District,,,,,,,,2012-13,
+CREC Consortium School District,Ellington School District,,,,,,,,2012-13,
+CREC Consortium School District,Farmington School District,,,,,,,,2012-13,
+CREC Consortium School District,Granby School District ,,,,,,,,2012-13,
+CREC Consortium School District,Killingly School District,,,,,,,,2012-13,
+CREC Consortium School District,Portland School District,,,,,,,,2012-13,
+CREC Consortium School District,Simsbury School District,,,,,,,,2012-13,
+CREC Consortium School District,Somers School District,,,,,,,,2012-13,
+CREC Consortium School District,Regional School District 10,,,,,,,,2012-13,
+CREC Consortium School District,Capitol Region Education Council (District),,,,,,,,2012-13,
+EASTCONN Consortium School District,Andover School District,,,,,,,,2012-13,
+EASTCONN Consortium School District,Ashford School District,,,,,,,,2012-13,
+EASTCONN Consortium School District,Colchester School District,,,,,,,,2012-13,
+EASTCONN Consortium School District,Griswold School District,,,,,,,,2012-13,
+EASTCONN Consortium School District,Lisbon School District ,,,,,,,,2012-13,
+EASTCONN Consortium School District,Mansfield School District,,,,,,,,2012-13,
+EASTCONN Consortium School District,Plainfield School District,,,,,,,,2012-13,
+EASTCONN Consortium School District,Pomfret School District  ,,,,,,,,2012-13,
+EASTCONN Consortium School District,Sprague School District,,,,,,,,2012-13,
+EASTCONN Consortium School District,Stafford School District ,,,,,,,,2012-13,
+EASTCONN Consortium School District,Tolland School District ,,,,,,,,2012-13,
+EASTCONN Consortium School District,Woodstock School District  ,,,,,,,,2012-13,
+EASTCONN Consortium School District,Regional School District 19,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Brookfield School District,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,New Fairfield School District ,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Newtown School District,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Plymouth School District,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Redding School District ,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Thomaston School District,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Winchester School District,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Regional School District 06,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Regional School District 14,,,,,,,,2012-13,
+EDCONNECTION Consortium School District,Regional School District 15,,,,,,,,2012-13,
+LEARN Consortium School District,Chester School District,,,,,,,,2012-13,
+LEARN Consortium School District,Clinton School District ,,,,,,,,2012-13,
+LEARN Consortium School District,Deep River School District,,,,,,,,2012-13,
+LEARN Consortium School District,East Hampton School District,,,,,,,,2012-13,
+LEARN Consortium School District,East Lyme School District,,,,,,,,2012-13,
+LEARN Consortium School District,Essex School District,,,,,,,,2012-13,
+LEARN Consortium School District,Ledyard School District,,,,,,,,2012-13,
+LEARN Consortium School District,Old Saybrook School District ,,,,,,,,2012-13,
+LEARN Consortium School District,Waterford School District,,,,,,,,2012-13,
+LEARN Consortium School District,Westbrook School District,,,,,,,,2012-13,
+LEARN Consortium School District,Regional School District 04,,,,,,,,2012-13,
+LEARN Consortium School District,Learn (District),,,,,,,,2012-13,
+LEARN Consortium School District,Integrated Day Charter School District,,,,,,,,2012-13,
+LEARN Consortium School District,Interdistrict School for Arts and Comm District        ,,,,,,,,2012-13,
+Bethel School District,0.777385,0.654362,No,No,0090011,Bethel School District,0090011,0090011,2013-14,D
+Bridgeport School District,0.48316,0.23183,No,No,0150011,Bridgeport School District,0150011,0150011,2013-14,I
+Bristol School District,0.652601,0.379347,No,No,0170011,Bristol School District,0170011,0170011,2013-14,G
+Cheshire School District,0.693069,0.470085,LEA with No Targets,No,0250011,Cheshire School District,0250011,0250011,2013-14,B
+Connecticut Technical High School System School District,0.588235,0.531798,Yes,No,,,,,2013-14,
+Danbury School District,0.789474,0.415309,No,No,0340011,Danbury School District,0340011,0340011,2013-14,H
+Derby School District,0.758017,0.796915,No,No,0370011,Derby School District,0370011,0370011,2013-14,H
+East Hartford School District,0.889152,0.612416,No,No,0430011,East Hartford School District,0430011,0430011,2013-14,H
+East Haven School District,0.592357,0.335664,No,No,0440011,East Haven School District,0440011,0440011,2013-14,G
+Enfield School District,0.863787,0.61194,Yes,Yes,0490011,Enfield School District,0490011,0490011,2013-14,F
+Fairfield School District,0.697842,0.57971,No,No,0510011,Fairfield School District,0510011,0510011,2013-14,B
+Glastonbury School District,0.792079,0.642023,Yes,No,0540011,Glastonbury School District,0540011,0540011,2013-14,B
+Greenwich School District,0.793908,0.697875,No,No,0570011,Greenwich School District,0570011,0570011,2013-14,B
+Groton School District,0.588235,0.262346,No,No,0590011,Groton School District,0590011,0590011,2013-14,G
+Hamden School District,0.709877,0.504202,Yes,No,0620011,Hamden School District,0620011,0620011,2013-14,G
+Hartford School District,0.48138,0.21544,No,No,0640011,Hartford School District,0640011,0640011,2013-14,I
+Manchester School District,0.802469,0.607477,No,No,0770011,Manchester School District,0770011,0770011,2013-14,G
+Meriden School District,0.654078,0.346821,No,No,0800011,Meriden School District,0800011,0800011,2013-14,H
+Middletown School District,0.657016,0.343249,Yes,No,0830011,Middletown School District,0830011,0830011,2013-14,G
+Milford School District,0.80402,0.578313,Yes,Yes,0840011,Milford School District,0840011,0840011,2013-14,D
+Montville School District,0.842294,0.599315,No,No,0860011,Montville School District,0860011,0860011,2013-14,F
+Naugatuck School District,0.622867,0.381282,No,No,0880011,Naugatuck School District,0880011,0880011,2013-14,G
+New Britain School District,0.491001,0.257067,No,No,0890011,New Britain School District,0890011,0890011,2013-14,I
+New Haven School District,0.682027,0.259782,No,No,0930011,New Haven School District,0930011,0930011,2013-14,I
+New London School District,0.673012,0.380328,No,No,0950011,New London School District,0950011,0950011,2013-14,I
+New Milford School District,0.685279,0.581683,No,No,0960011,New Milford School District,0960011,0960011,2013-14,D
+Newington School District,0.834915,0.622642,Yes,Yes,0940011,Newington School District,0940011,0940011,2013-14,D
+Norwalk School District,0.597643,0.389874,No,No,1030011,Norwalk School District,1030011,1030011,2013-14,H
+Norwich School District,0.606547,0.272602,No,No,1040011,Norwich School District,1040011,1040011,2013-14,H
+Plainville School District,0.692841,0.546875,Yes,No,1100011,Plainville School District,1100011,1100011,2013-14,F
+Rocky Hill School District,0.769231,0.673854,No,No,1190011,Rocky Hill School District,1190011,1190011,2013-14,D
+Shelton School District,0.847328,0.687679,Yes,Yes,1260011,Shelton School District,1260011,1260011,2013-14,D
+South Windsor School District,0.782748,0.608108,No,No,1320011,South Windsor School District,1320011,1320011,2013-14,B
+Southington School District,0.892857,0.840909,Yes,Yes,1310011,Southington School District,1310011,1310011,2013-14,D
+Stamford School District,0.59284,0.317272,No,No,1350011,Stamford School District,1350011,1350011,2013-14,H
+Stratford School District,0.70841,0.5547,Yes,No,1380011,Stratford School District,1380011,1380011,2013-14,G
+Torrington School District,0.698276,0.281562,No,No,1430011,Torrington School District,1430011,1430011,2013-14,G
+Trumbull School District,0.835616,0.785877,Yes,Yes,1440011,Trumbull School District,1440011,1440011,2013-14,B
+Wallingford School District,0.641153,0.420998,No,No,1480011,Wallingford School District,1480011,1480011,2013-14,D
+Waterbury School District,0.594106,0.313609,No,No,1510011,Waterbury School District,1510011,1510011,2013-14,I
+Watertown School District,0.670732,0.389908,Yes,No,1530011,Watertown School District,1530011,1530011,2013-14,D
+West Hartford School District,0.729699,0.488977,No,No,1550011,West Hartford School District,1550011,1550011,2013-14,B
+West Haven School District,0.634065,0.330168,No,No,1560011,West Haven School District,1560011,1560011,2013-14,H
+Wethersfield School District,0.58319,0.389831,No,No,1590011,Wethersfield School District,1590011,1590011,2013-14,D
+Windham School District,0.580211,0.261941,No,No,1630011,Windham School District,1630011,1630011,2013-14,I
+Windsor School District,0.509642,0.339943,No,No,1640011,Windsor School District,1640011,1640011,2013-14,D
+ACES Consortium School District,0.719274,0.597754,No,No,,,,,2013-14,
+Berlin-Cromwell Consortium School District,0.757576,0.509138,No,No,,,,,2013-14,
+Branford-Guilford Consortium School District,0.788889,0.455556,No,No,,,,,2013-14,
+CES Consortium School District,0.725995,0.685558,No,No,,,,,2013-14,
+CREC Consortium School District,0.72184,0.558912,No,No,,,,,2013-14,
+EASTCONN Consortium School District,0.780347,0.59292,No,No,,,,,2013-14,
+EDCONNECTION Consortium School District,0.764895,0.532847,No,No,,,,,2013-14,
+LEARN Consortium School District,0.654058,0.534569,Yes,No,,,,,2013-14,
+New Canaan-Westport Consortium School District,0.805369,0.748031,No,No,,,,,2013-14,
+Windsor Locks-Avon Consortium School District,0.783699,0.584958,Yes,No,,,,,2013-14,
+Connecticut School District,0.857742,0.58728,No,No,,,,,2013-14,
+"1The English Language Proficiency (ELP) assessment for SY 2012-13 transitioned to was LAS Links Form C, a more rigorous exam that included more challenging academic language than the LAS Links Forms A and B which were used for the ELP in the prior school years. School District",,,,,,,,,2013-14,
+"2AMAO 3 Targets: EL subgroup met individualized Annual Measurable Objective (AMO) Targets and 95 percent participation rate on the CMT and CAPTassessments for English and Math in LEAs administering these assessments. For LEAs that participated in the Smarter Balanced pilot, the Academic targets were that the EL subgroup met the 95 percent participation goals on ELA and Math portions of the Smarter Balanced assessment. School District",,,,,,,,,2013-14,
+nan School District,,,,,,,,,2013-14,
+RESC Consortia Membership School District,,,,,,,,,2013-14,
+ACES Consortium School District,Ansonia School District,,,,,,,,2013-14,
+ACES Consortium School District,Area Cooperative Educational Services (District)              ,,,,,,,,2013-14,
+ACES Consortium School District,North Haven School District                            ,,,,,,,,2013-14,
+ACES Consortium School District,Orange School District                                 ,,,,,,,,2013-14,
+ACES Consortium School District,Oxford School District                                 ,,,,,,,,2013-14,
+ACES Consortium School District,Seymour School District,,,,,,,,2013-14,
+ACES Consortium School District,Wolcott School District                                ,,,,,,,,2013-14,
+ACES Consortium School District,Woodbridge School District                             ,,,,,,,,2013-14,
+ACES Consortium School District,Regional School District 13                            ,,,,,,,,2013-14,
+ACES Consortium School District,Regional School District 16                            ,,,,,,,,2013-14,
+CES Consortium School District,Darien School District,,,,,,,,2013-14,
+CES Consortium School District,Easton School District,,,,,,,,2013-14,
+CES Consortium School District,Monroe School District,,,,,,,,2013-14,
+CES Consortium School District,Ridgefield School District,,,,,,,,2013-14,
+CES Consortium School District,Weston School District,,,,,,,,2013-14,
+CES Consortium School District,Wilton School District,,,,,,,,2013-14,
+CES Consortium School District,Regional School District 09,,,,,,,,2013-14,
+CES Consortium School District,Side By Side Charter School District                   ,,,,,,,,2013-14,
+CREC Consortium School District,Bloomfield School District,,,,,,,,2013-14,
+CREC Consortium School District,Bolton School District,,,,,,,,2013-14,
+CREC Consortium School District,East Granby School District,,,,,,,,2013-14,
+CREC Consortium School District,East Windsor School District,,,,,,,,2013-14,
+CREC Consortium School District,Ellington School District,,,,,,,,2013-14,
+CREC Consortium School District,Farmington School District,,,,,,,,2013-14,
+CREC Consortium School District,Granby School District ,,,,,,,,2013-14,
+CREC Consortium School District,Killingly School District,,,,,,,,2013-14,
+CREC Consortium School District,New Hartford School District,,,,,,,,2013-14,
+CREC Consortium School District,Portland School District,,,,,,,,2013-14,
+CREC Consortium School District,Regional School District 10,,,,,,,,2013-14,
+CREC Consortium School District,Simsbury School District,,,,,,,,2013-14,
+CREC Consortium School District,Somers School District,,,,,,,,2013-14,
+CREC Consortium School District,Vernon School District,,,,,,,,2013-14,
+CREC Consortium School District,Capitol Region Education Council (District),,,,,,,,2013-14,
+EASTCONN Consortium School District,Andover School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Ashford School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Bozrah School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Colchester School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Griswold School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Lisbon School District ,,,,,,,,2013-14,
+EASTCONN Consortium School District,Mansfield School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Plainfield School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Pomfret School District  ,,,,,,,,2013-14,
+EASTCONN Consortium School District,Sprague School District,,,,,,,,2013-14,
+EASTCONN Consortium School District,Stafford School District ,,,,,,,,2013-14,
+EASTCONN Consortium School District,Tolland School District ,,,,,,,,2013-14,
+EASTCONN Consortium School District,Woodstock School District  ,,,,,,,,2013-14,
+EASTCONN Consortium School District,Regional School District 19,,,,,,,,2013-14,
+EASTCONN Consortium School District,EASTCONN (District),,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Brookfield School District,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,New Fairfield School District ,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Newtown School District,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Plymouth School District,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Redding School District ,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Winchester School District,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Regional School District 06,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Regional School District 14,,,,,,,,2013-14,
+EDCONNECTION Consortium School District,Regional School District 15,,,,,,,,2013-14,
+LEARN Consortium School District,Clinton School District ,,,,,,,,2013-14,
+LEARN Consortium School District,Deep River School District,,,,,,,,2013-14,
+LEARN Consortium School District,East Hampton School District,,,,,,,,2013-14,
+LEARN Consortium School District,East Lyme School District,,,,,,,,2013-14,
+LEARN Consortium School District,Essex School District,,,,,,,,2013-14,
+LEARN Consortium School District,Integrated Day Charter School District,,,,,,,,2013-14,
+LEARN Consortium School District,Interdistrict School for Arts and Comm District        ,,,,,,,,2013-14,
+LEARN Consortium School District,Ledyard School District,,,,,,,,2013-14,
+LEARN Consortium School District,Old Saybrook School District ,,,,,,,,2013-14,
+LEARN Consortium School District,Waterford School District,,,,,,,,2013-14,
+LEARN Consortium School District,Westbrook School District,,,,,,,,2013-14,
+LEARN Consortium School District,Regional School District 04,,,,,,,,2013-14,
+LEARN Consortium School District,Learn (District),,,,,,,,2013-14,

@@ -214,7 +214,7 @@ def get_district_code( school_code ):
 
     schools = get_schools()
 
-    print schools
+    # print schools
     matches = filter(lambda x:x["school_code"] == school_code, schools)
 
     if matches is None or len(matches) != 1:
