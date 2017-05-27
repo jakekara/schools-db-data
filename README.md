@@ -17,6 +17,8 @@ profile page:
 
 These sparkline tables show student enrollment by race over time.
 
-The raw files came from [EdSight](http://edsight.ct.gov)
+The raw files came from [EdSight](http://edsight.ct.gov).
+
+They are in the [raw](raw) folder.
 
 
