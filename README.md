@@ -49,5 +49,5 @@ ELL enrollment is also from EdSight.
   sheets](pandas/Enrollment%20subgroup%20trendsheets.ipynb), meaning
   multi-year spreadsheets, is also used to create the ELL trend sheet,
   which is in
-  [clean/csv/enrollment-trend-ell.csv](clean/csv/enrollment-trend-ell.csv]
+  [clean/csv/enrollment-trend-ell.csv](clean/csv/enrollment-trend-ell.csv)
 
