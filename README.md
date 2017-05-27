@@ -19,6 +19,7 @@ These sparkline tables show student enrollment by race over time.
 
 * The raw files came from [EdSight](http://edsight.ct.gov). They are in the [raw](raw) folder, titled
 "EnrollmentYearExport-YYYY-YY-Race.csv" where YYYY-YY is the school year.
-*
+* The Jupyter notebook [Enrollment subgroup trendsheets](pandas/Enrollment%20subgroup%20trendsheets.ipynb) contains the code to combine all of these years of data and export them to:
+* The file [clean/for_db/enrollment_trend_race.csv](clean/for_db/enrollment_trend_race.csv)
 
 
