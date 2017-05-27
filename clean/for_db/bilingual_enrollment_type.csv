@@ -1,0 +1,274 @@
+school_code,district,school,language,ltss,eligible,total_els
+0150111,Bridgeport School District,Barnum School,Spanish,25,67.0,92.0
+0150311,Bridgeport School District,Black Rock School,Spanish,26,60.0,86.0
+0150411,Bridgeport School District,Bryant School,Spanish,9,34.0,43.0
+0150511,Bridgeport School District,Columbus School,Spanish,49,99.0,148.0
+0151011,Bridgeport School District,Luis Munoz Marin School,Spanish,69,217.0,286.0
+0151411,Bridgeport School District,Cesar Batalla School,Spanish,88,341.0,429.0
+0152011,Bridgeport School District,Madison School,Spanish,16,48.0,64.0
+0152511,Bridgeport School District,Read School,Spanish,17,39.0,56.0
+0152611,Bridgeport School District,Roosevelt School,Spanish,29,57.0,86.0
+0153011,Bridgeport School District,Waltersville School,Spanish,16,26.0,42.0
+0153211,Bridgeport School District,Geraldine Johnson School,Spanish,40,92.0,132.0
+0153611,Bridgeport School District,Winthrop School,Spanish,2,20.0,22.0
+0154011,Bridgeport School District,Blackham School,Spanish,47,51.0,98.0
+0154011,Bridgeport School District,Blackham School,Portuguese,10,45.0,55.0
+0154211,Bridgeport School District,Curiale School,Spanish,26,39.0,65.0
+0154611,Bridgeport School District,Multicultural Magnet School,Spanish,7,59.0,66.0
+0156111,Bridgeport School District,Bassick High School,Spanish,88,35.0,123.0
+0156211,Bridgeport School District,Central High School,Spanish,58,46.0,104.0
+0156211,Bridgeport School District,Central High School,Portuguese,9,27.0,36.0
+0156211,Bridgeport School District,Central High School,Creole-Haitian,1,25.0,26.0
+0156311,Bridgeport School District,Harding High School,Spanish,96,191.0,287.0
+0170511,Bristol School District,Greene-Hills School,Spanish,0,30.0,30.0
+0171411,Bristol School District,Ellen P. Hubbell School,Spanish,0,25.0,25.0
+0172011,Bristol School District,West Bristol School,Spanish,0,47.0,47.0
+0176111,Bristol School District,Bristol Central High School,Spanish,0,28.0,28.0
+0176211,Bristol School District,Bristol Eastern High School,Spanish,2,26.0,28.0
+0270311,Clinton School District,Lewin G. Joel Jr. School,Spanish,0,29.0,29.0
+0340211,Danbury School District,Hayestown Avenue School,Spanish,4,80.0,84.0
+0340211,Danbury School District,Hayestown Avenue School,Portuguese,0,21.0,21.0
+0340511,Danbury School District,Mill Ridge Primary School,Spanish,2,41.0,43.0
+0340611,Danbury School District,Morris Street School,Spanish,41,113.0,154.0
+0340811,Danbury School District,Park Avenue School,Spanish,57,151.0,208.0
+0340811,Danbury School District,Park Avenue School,Portuguese,14,61.0,75.0
+0341011,Danbury School District,South Street School,Spanish,22,135.0,157.0
+0341011,Danbury School District,South Street School,Portuguese,5,26.0,31.0
+0341111,Danbury School District,Great Plain School,Spanish,3,108.0,111.0
+0341211,Danbury School District,Shelter Rock School,Spanish,5,90.0,95.0
+0341211,Danbury School District,Shelter Rock School,Portuguese,10,37.0,47.0
+0341311,Danbury School District,King Street Primary School,Spanish,11,88.0,99.0
+0341411,Danbury School District,Ellsworth Avenue School,Spanish,37,131.0,168.0
+0341411,Danbury School District,Ellsworth Avenue School,Portuguese,8,37.0,45.0
+0341511,Danbury School District,Pembroke School,Spanish,3,44.0,47.0
+0341611,Danbury School District,Stadley Rough School,Spanish,20,96.0,116.0
+0341611,Danbury School District,Stadley Rough School,Portuguese,15,29.0,44.0
+0341911,Danbury School District,Western CT Academy of International Studies Elementary Magnet School,Spanish,5,20.0,25.0
+0345111,Danbury School District,Broadview Middle School,Spanish,32,62.0,94.0
+0345211,Danbury School District,Rogers Park Middle School,Spanish,33,138.0,171.0
+0345211,Danbury School District,Rogers Park Middle School,Portuguese,5,26.0,31.0
+0346111,Danbury School District,Danbury High School,Spanish,88,227.0,315.0
+0346111,Danbury School District,Danbury High School,Portuguese,11,46.0,57.0
+0430611,East Hartford School District,Dr. Franklin H. Mayberry School,Spanish,13,38.0,51.0
+0430911,East Hartford School District,Anna E. Norris School,Spanish,17,30.0,47.0
+0431011,East Hartford School District,Dr. Thomas S. O'Connell School,Spanish,0,24.0,24.0
+0431211,East Hartford School District,Silver Lane School,Spanish,0,24.0,24.0
+0431811,East Hartford School District,Robert J. O'Brien School,Spanish,20,51.0,71.0
+0432211,East Hartford School District,Dr. John A. Langford School,Spanish,9,42.0,51.0
+0435111,East Hartford School District,East Hartford Middle School,Spanish,39,34.0,73.0
+0436211,East Hartford School District,East Hartford High School,Spanish,52,59.0,111.0
+0441011,East Haven School District,Grove J. Tuttle School,Spanish,1,22.0,23.0
+0441811,East Haven School District,Overbrook Elementary School,Spanish,0,22.0,22.0
+0445111,East Haven School District,Joseph Melillo Middle School,Spanish,4,31.0,35.0
+0446111,East Haven School District,East Haven High School,Spanish,2,24.0,26.0
+0570211,Greenwich School District,Cos Cob School,Japanese,0,23.0,23.0
+0570311,Greenwich School District,Julian Curtiss School,Spanish,1,22.0,23.0
+0570611,Greenwich School District,New Lebanon School,Spanish,14,34.0,48.0
+0576111,Greenwich School District,Greenwich High School,Spanish,7,32.0,39.0
+0596111,Groton School District,Robert E. Fitch High School,Spanish,1,20.0,21.0
+0620211,Hamden School District,Church Street School,Spanish,0,33.0,33.0
+0620411,Hamden School District,Helen Street School,Spanish,0,22.0,22.0
+0640111,Hartford School District,SAND School,Spanish,20,84.0,104.0
+0640411,Hartford School District,Batchelder School,Spanish,11,105.0,116.0
+0640611,Hartford School District,Burns Latino Studies Academy,Spanish,59,141.0,200.0
+0640711,Hartford School District,Asian Studies Academy,Spanish,30,178.0,208.0
+0640811,Hartford School District,M. D. Fox Elementary School,Spanish,26,150.0,176.0
+0640811,Hartford School District,M. D. Fox Elementary School,Karen,1,23.0,24.0
+0640911,Hartford School District,Environmental Sciences Magnet School at Mary M Hooker,Spanish,8,22.0,30.0
+0641011,Hartford School District,Kennelly School,Spanish,41,119.0,160.0
+0641111,Hartford School District,R.J. Kinsella Magnet School of Performing Arts,Spanish,15,37.0,52.0
+0641211,Hartford School District,McDonough Expeditionary Learning School,Spanish,19,52.0,71.0
+0641411,Hartford School District,Dr. James H Naylor/CCSU Leadership Academy,Spanish,14,114.0,128.0
+0641411,Hartford School District,Dr. James H Naylor/CCSU Leadership Academy,Serbo-Croatian,4,25.0,29.0
+0641511,Hartford School District,Parkville Community School,Spanish,18,131.0,149.0
+0641611,Hartford School District,M. L. King School,Spanish,2,25.0,27.0
+0641711,Hartford School District,Sarah J. Rawson Elementary School,Spanish,1,22.0,23.0
+0641911,Hartford School District,Milner Elementary School,Spanish,22,44.0,66.0
+0642111,Hartford School District,West Middle School,Spanish,14,54.0,68.0
+0642211,Hartford School District,Fred D. Wish Museum School,Spanish,12,40.0,52.0
+0642311,Hartford School District,Burr School,Spanish,21,125.0,146.0
+0642411,Hartford School District,Clark School,Spanish,8,57.0,65.0
+0642611,Hartford School District,Simpson-Waverly School,Spanish,7,40.0,47.0
+0642811,Hartford School District,Dr. Ramon E. Betances Early Reading Lab,Spanish,5,24.0,29.0
+0643011,Hartford School District,Sanchez School,Spanish,29,152.0,181.0
+0643211,Hartford School District,Expeditionary Learning Academy at Moylan School,Spanish,5,91.0,96.0
+0643311,Hartford School District,Breakthrough Magnet School,Spanish,3,27.0,30.0
+0643611,Hartford School District,Global Communications Academy,Spanish,15,45.0,60.0
+0645411,Hartford School District,Hartford Magnet Trinity College Academy,Spanish,31,28.0,59.0
+0646011,Hartford School District,Culinary Arts Academy,Spanish,26,26.0,52.0
+0646111,Hartford School District,Bulkeley High School Lower School,Spanish,39,83.0,122.0
+0646511,Hartford School District,Sports and Medical Sciences Academy,Spanish,24,23.0,47.0
+0647111,Hartford School District,Bulkeley High School Upper School,Spanish,44,53.0,97.0
+0647211,Hartford School District,HPHS Academy of Engineering and Green Technology,Spanish,47,35.0,82.0
+0647411,Hartford School District,HPHS Law and Government Academy,Spanish,43,48.0,91.0
+0647511,Hartford School District,HPHS Academy of Nursing and Health Science,Spanish,42,36.0,78.0
+0647611,Hartford School District,"High School, Inc.",Spanish,14,24.0,38.0
+0771211,Manchester School District,Verplanck School,Spanish,3,20.0,23.0
+0776111,Manchester School District,Manchester High School,Spanish,5,28.0,33.0
+0800311,Meriden School District,Hanover School,Spanish,5,148.0,153.0
+0800411,Meriden School District,Israel Putnam School,Spanish,9,34.0,43.0
+0800511,Meriden School District,John Barry School,Spanish,7,60.0,67.0
+0800711,Meriden School District,Nathan Hale School,Spanish,13,61.0,74.0
+0800811,Meriden School District,Roger Sherman School,Spanish,10,67.0,77.0
+0801011,Meriden School District,Thomas Hooker School,Spanish,0,121.0,121.0
+0801111,Meriden School District,Casimir Pulaski School,Spanish,17,52.0,69.0
+0805211,Meriden School District,Lincoln Middle School,Spanish,33,86.0,119.0
+0805411,Meriden School District,Washington Middle School,Spanish,30,30.0,60.0
+0806111,Meriden School District,Francis T. Maloney High School,Spanish,72,76.0,148.0
+0806211,Meriden School District,Orville H. Platt High School,Spanish,38,40.0,78.0
+0860111,Montville School District,Mohegan School,Cantonese,6,20.0,26.0
+0890311,New Britain School District,Chamberlain  Elementary School,Spanish,3,36.0,39.0
+0890511,New Britain School District,Gaffney School,Spanish,5,21.0,26.0
+0890611,New Britain School District,Holmes School,Arabic,12,23.0,35.0
+0890711,New Britain School District,Jefferson School,Spanish,11,27.0,38.0
+0890711,New Britain School District,Jefferson School,Arabic,0,33.0,33.0
+0890811,New Britain School District,Lincoln School,Spanish,13,83.0,96.0
+0890811,New Britain School District,Lincoln School,Polish,0,21.0,21.0
+0890911,New Britain School District,Northend School,Spanish,1,25.0,26.0
+0891111,New Britain School District,Frank J. DiLoreto School,Spanish,7,163.0,170.0
+0891211,New Britain School District,Smalley Academy,Spanish,8,117.0,125.0
+0891311,New Britain School District,Smith School,Spanish,10,48.0,58.0
+0891511,New Britain School District,Vance School,Spanish,3,45.0,48.0
+0895211,New Britain School District,Slade Middle School,Spanish,26,57.0,83.0
+0895311,New Britain School District,Pulaski Middle School,Spanish,27,72.0,99.0
+0896111,New Britain School District,New Britain High School,Spanish,133,240.0,373.0
+0930211,New Haven School District,Barnard Environmental Magnet School,Spanish,8,35.0,43.0
+0930611,New Haven School District,Clinton Avenue School,Spanish,71,128.0,199.0
+0930711,New Haven School District,Hill Central Music Academy,Spanish,72,113.0,185.0
+0930811,New Haven School District,John S. Martinez School,Spanish,103,120.0,223.0
+0931011,New Haven School District,Ross/Woodward School,Spanish,10,39.0,49.0
+0931311,New Haven School District,John C. Daniels,Spanish,5,120.0,125.0
+0931411,New Haven School District,Nathan Hale School,Spanish,1,37.0,38.0
+0931511,New Haven School District,Augusta Lewis Troup School,Spanish,7,39.0,46.0
+0931611,New Haven School District,Fair Haven School,Spanish,86,257.0,343.0
+0931611,New Haven School District,Fair Haven School,Arabic,0,27.0,27.0
+0931811,New Haven School District,Benjamin Jepson Magnet School,Spanish,1,39.0,40.0
+0931911,New Haven School District,Mauro-Sheridan Magnet School,Spanish,5,32.0,37.0
+0932111,New Haven School District,Katherine Brennan/Clarence Rogers School,Spanish,2,23.0,25.0
+0932811,New Haven School District,Strong 21st Century Communications Magnet and SCSU Lab School,Spanish,29,89.0,118.0
+0932911,New Haven School District,Truman School,Spanish,79,150.0,229.0
+0933111,New Haven School District,Conte/West Hills Magnet School,Spanish,5,53.0,58.0
+0933511,New Haven School District,Quinnipiac Real World Math STEM School,Spanish,22,53.0,75.0
+0933811,New Haven School District,Worthington Hooker School,Mandarin,0,20.0,20.0
+0934111,New Haven School District,Christopher Columbus Academy,Spanish,11,183.0,194.0
+0934211,New Haven School District,Clemente Leadership Academy,Spanish,16,81.0,97.0
+0934311,New Haven School District,Bishop Woods School,Spanish,0,34.0,34.0
+0934611,New Haven School District,East Rock Community Magnet School,Spanish,5,47.0,52.0
+0934811,New Haven School District,"Celentano BioTech, Health and Medical Magnet School",Spanish,1,20.0,21.0
+0936111,New Haven School District,Wilbur Cross High School,Spanish,106,143.0,249.0
+0936211,New Haven School District,James Hillhouse High School,Spanish,27,45.0,72.0
+0950311,New London School District,Jennings School,Spanish,1,263.0,264.0
+0950611,New London School District,Early Childhood Center at Harbor,Spanish,0,21.0,21.0
+0950811,New London School District,Winthrop STEM Elementary Magnet School,Spanish,3,63.0,66.0
+0950911,New London School District,Nathan Hale Arts Magnet School,Spanish,1,77.0,78.0
+0955111,New London School District,Bennie Dover Jackson Middle School,Spanish,22,90.0,112.0
+0956111,New London School District,New London High School,Spanish,67,96.0,163.0
+0960511,New Milford School District,Hill And Plain School,Spanish,0,25.0,25.0
+0960911,New Milford School District,Sarah Noble Intermediate School,Spanish,0,21.0,21.0
+1030211,Norwalk School District,Brookside Elementary School,Spanish,24,71.0,95.0
+1030311,Norwalk School District,Columbus Magnet School,Spanish,6,24.0,30.0
+1030411,Norwalk School District,Cranbury Elementary School,Spanish,10,28.0,38.0
+1030711,Norwalk School District,Jefferson Magnet School,Spanish,29,99.0,128.0
+1030811,Norwalk School District,Kendall Elementary School,Spanish,40,92.0,132.0
+1031311,Norwalk School District,Rowayton School,Spanish,9,30.0,39.0
+1031411,Norwalk School District,Tracey School,Spanish,14,78.0,92.0
+1032011,Norwalk School District,Fox Run Elementary School,Spanish,7,21.0,28.0
+1032111,Norwalk School District,Naramake Elementary School,Spanish,8,33.0,41.0
+1032211,Norwalk School District,Marvin Elementary School,Spanish,13,64.0,77.0
+1032311,Norwalk School District,Silvermine Elementary School,Spanish,2,132.0,134.0
+1032411,Norwalk School District,Wolfpit School,Spanish,7,35.0,42.0
+1035211,Norwalk School District,Nathan Hale Middle School,Spanish,17,33.0,50.0
+1035311,Norwalk School District,Ponus Ridge Middle School,Spanish,23,36.0,59.0
+1035411,Norwalk School District,West Rocks Middle School,Spanish,28,48.0,76.0
+1035511,Norwalk School District,Roton Middle School,Spanish,24,26.0,50.0
+1036111,Norwalk School District,Norwalk High School,Spanish,33,83.0,116.0
+1036211,Norwalk School District,Brien McMahon High School,Spanish,51,76.0,127.0
+1040811,Norwich School District,Samuel Huntington School,Spanish,0,23.0,23.0
+1041411,Norwich School District,John B. Stanton Network School,Spanish,6,51.0,57.0
+1041511,Norwich School District,Wequonnoc Magnet School,Spanish,0,20.0,20.0
+1041711,Norwich School District,Thomas W. Mahan School,Spanish,1,20.0,21.0
+1042011,Norwich School District,Moriarty Magnet School,Spanish,5,35.0,40.0
+1045111,Norwich School District,Kelly Middle School,Spanish,14,29.0,43.0
+1045211,Norwich School District,Teachers' Memorial Middle School,Spanish,10,21.0,31.0
+1190511,Rocky Hill School District,West Hill School,Telugu,0,20.0,20.0
+1350511,Stamford School District,K. T. Murphy School,Spanish,6,45.0,51.0
+1350611,Stamford School District,Newfield School,Spanish,29,71.0,100.0
+1350811,Stamford School District,Rogers International School,Spanish,8,46.0,54.0
+1350911,Stamford School District,Roxbury School,Spanish,14,65.0,79.0
+1351111,Stamford School District,Springdale School,Spanish,21,77.0,98.0
+1351211,Stamford School District,Julia A. Stark School,Spanish,15,44.0,59.0
+1351411,Stamford School District,Westover School,Spanish,0,41.0,41.0
+1351811,Stamford School District,Northeast School,Spanish,20,81.0,101.0
+1351911,Stamford School District,Toquam Magnet School,Spanish,10,86.0,96.0
+1352011,Stamford School District,Davenport Ridge School,Spanish,5,53.0,58.0
+1352111,Stamford School District,Stillmeadow School,Spanish,16,62.0,78.0
+1352211,Stamford School District,Hart School,Spanish,10,42.0,52.0
+1355511,Stamford School District,Turn of River School,Spanish,13,78.0,91.0
+1355811,Stamford School District,Rippowam Middle School,Spanish,35,40.0,75.0
+1356111,Stamford School District,Stamford High School,Spanish,23,94.0,117.0
+1356111,Stamford School District,Stamford High School,Creole-Haitian,1,46.0,47.0
+1356311,Stamford School District,Westhill High School,Spanish,48,235.0,283.0
+1356311,Stamford School District,Westhill High School,Creole-Haitian,0,24.0,24.0
+1381011,Stratford School District,Second Hill Lane School,Spanish,1,32.0,33.0
+1430211,Torrington School District,Forbes School,Spanish,12,39.0,51.0
+1430811,Torrington School District,Southwest School,Spanish,0,38.0,38.0
+1430911,Torrington School District,Torringford School,Spanish,3,34.0,37.0
+1431311,Torrington School District,Vogel-Wetmore School,Spanish,16,66.0,82.0
+1435111,Torrington School District,Torrington Middle School,Spanish,18,24.0,42.0
+1436111,Torrington School District,Torrington High School,Spanish,16,29.0,45.0
+1480111,Wallingford School District,Moses Y. Beach School,Spanish,2,26.0,28.0
+1480311,Wallingford School District,Parker Farms School,Spanish,7,24.0,31.0
+1480911,Wallingford School District,Evarts C. Stevens School,Spanish,0,25.0,25.0
+1481011,Wallingford School District,Cook Hill School,Spanish,0,37.0,37.0
+1510511,Waterbury School District,Bucks Hill School,Spanish,15,189.0,204.0
+1510611,Waterbury School District,Bunker Hill School,Spanish,6,35.0,41.0
+1510711,Waterbury School District,H. S. Chase School,Spanish,31,163.0,194.0
+1510811,Waterbury School District,Wendell L. Cross School,Spanish,1,22.0,23.0
+1510911,Waterbury School District,Driggs School,Spanish,3,52.0,55.0
+1511111,Waterbury School District,Margaret M. Generali Elementary School,Spanish,4,33.0,37.0
+1511311,Waterbury School District,Hopeville School,Spanish,18,147.0,165.0
+1511411,Waterbury School District,F. J. Kingsbury School,Spanish,3,43.0,46.0
+1511611,Waterbury School District,Duggan School,Spanish,3,38.0,41.0
+1512011,Waterbury School District,Sprague School,Spanish,5,45.0,50.0
+1512111,Waterbury School District,B. W. Tinker School,Spanish,7,26.0,33.0
+1512211,Waterbury School District,Walsh School,Spanish,6,48.0,54.0
+1512311,Waterbury School District,Washington School,Spanish,4,44.0,48.0
+1512611,Waterbury School District,Gilmartin School,Spanish,9,32.0,41.0
+1512711,Waterbury School District,Carrington School,Spanish,5,21.0,26.0
+1513211,Waterbury School District,Woodrow Wilson School,Spanish,5,40.0,45.0
+1513411,Waterbury School District,Reed School,Spanish,8,41.0,49.0
+1515111,Waterbury School District,Michael F. Wallace Middle School,Spanish,35,96.0,131.0
+1515211,Waterbury School District,West Side Middle School,Spanish,51,121.0,172.0
+1515311,Waterbury School District,North End Middle School,Spanish,39,101.0,140.0
+1516211,Waterbury School District,Crosby High School,Spanish,34,103.0,137.0
+1516311,Waterbury School District,Wilby High School,Spanish,68,93.0,161.0
+1516411,Waterbury School District,John F. Kennedy High School,Spanish,61,103.0,164.0
+1530211,Watertown School District,John Trumbull Primary School,Albanian,0,21.0,21.0
+1540211,Westbrook School District,Daisy Ingraham School,Spanish,0,22.0,22.0
+1560311,West Haven School District,Forest School,Spanish,20,56.0,76.0
+1560411,West Haven School District,Seth G. Haley School,Spanish,21,27.0,48.0
+1560611,West Haven School District,Edith E. Mackrille School,Spanish,4,24.0,28.0
+1561211,West Haven School District,Washington School,Spanish,26,62.0,88.0
+1561411,West Haven School District,Savin Rock Community School,Spanish,33,62.0,95.0
+1566111,West Haven School District,West Haven High School,Spanish,33,35.0,68.0
+1630111,Windham School District,Natchaug School,Spanish,45,65.0,110.0
+1630311,Windham School District,North Windham School,Spanish,21,132.0,153.0
+1630411,Windham School District,Charles H. Barrows STEM Academy,Spanish,29,33.0,62.0
+1630511,Windham School District,Windham Center School,Spanish,17,60.0,77.0
+1630611,Windham School District,W. B. Sweeney School,Spanish,30,56.0,86.0
+1635111,Windham School District,Windham Middle School,Spanish,68,72.0,140.0
+1636111,Windham School District,Windham High School,Spanish,79,58.0,137.0
+2410314,Capitol Region Education Council,Reggio Magnet School of the Arts,Spanish,0,21.0,21.0
+2410714,Capitol Region Education Council,Academy of Aerospace and Engineering Elementary,Spanish,0,24.0,24.0
+2413114,Capitol Region Education Council,Montessori Magnet School,Spanish,0,27.0,27.0
+2445114,Area Cooperative Educational Services,Thomas Edison Magnet Middle School,Spanish,20,25.0,45.0
+2450114,Learn,Regional Multicultural Magnet School,Spanish,0,82.0,82.0
+2655113,Interdistrict School for Arts and Comm District,Interdistrict School For Arts And Communication,Spanish,0,29.0,29.0
+2795113,Amistad Academy District,Amistad Academy,Spanish,4,97.0,101.0
+2850113,Bridgeport Achievement First District,Achievement First Bridgeport Academy,Spanish,5,106.0,111.0
+2880113,Achievement First Hartford Academy Inc. District,Achievement First Hartford Academy Inc.,Spanish,0,42.0,42.0
+2940113,Great Oaks Charter School District,Great Oaks Charter School,Spanish,4,24.0,28.0
+9001216,Connecticut Technical High School System,Henry Abbott Technical High School,Spanish,5,20.0,25.0
+9001516,Connecticut Technical High School System,A. I. Prince Technical High School,Spanish,39,26.0,65.0
+9016122,Norwich Free Academy District,Norwich Free Academy,Spanish,23,41.0,64.0
+9016122,Norwich Free Academy District,Norwich Free Academy,Creole-Haitian,2,41.0,43.0

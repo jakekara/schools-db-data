@@ -1,0 +1,568 @@
+2009_10_entrance_pct,2009_10_persistence_pct,2010_11_entrance_pct,2010_11_persistence_pct,2011_12_entrance_pct,2011_12_persistence_pct,2012_13_entrance_pct,2012_13_persistence_pct,2013_14_entrance_pct,2013_14_persistence_pct,district,district_code,drg,four_y_percent,group,race_ethnicity,school,school_code
+71.1,74.1,55.6,85.0,64.3,*,63.9,78.3,57.7,*,Ansonia School District,0020011,H,63.9,race,Black or African American,Ansonia High School,0026111
+52.2,*,,*,57.9,81.8,55.0,63.6,58.3,61.9,Ansonia School District,0020011,H,56.45,race,Hispanic or Latino,Ansonia High School,0026111
+67.4,92.2,61.0,95.7,61.9,89.2,55.3,82.7,61.4,90.7,Ansonia School District,0020011,H,61.4,race,White,Ansonia High School,0026111
+,*,,*,,*,78.3,*,,*,Avon School District,0040011,B,78.3,race,Asian,Avon High School,0046111
+81.5,97.0,83.7,95.4,85.9,94.8,87.0,95.7,89.1,94.8,Avon School District,0040011,B,85.9,race,White,Avon High School,0046111
+75.9,94.0,83.5,92.5,81.9,92.7,83.4,96.8,87.8,94.2,Berlin School District,0070011,D,83.4,race,White,Berlin High School,0076111
+,*,,*,,*,,*,77.3,*,Bethel School District,0090011,D,77.3,race,Asian,Bethel High School,0096111
+56.5,*,,*,69.2,*,81.8,*,60.7,*,Bethel School District,0090011,D,64.95,race,Hispanic or Latino,Bethel High School,0096111
+79.1,89.0,82.2,91.4,78.1,91.3,69.3,91.1,81.1,87.3,Bethel School District,0090011,D,79.1,race,White,Bethel High School,0096111
+67.2,77.4,76.2,86.9,68.8,77.9,71.1,84.0,72.7,82.5,Bloomfield School District,0110011,G,71.1,race,Black or African American,Bloomfield High School,0116111
+,,,,,,58.3,*,85.0,*,Bloomfield School District,0110011,G,71.65,race,Black or African American,Global Experience Magnet School,0116311
+85.7,*,89.1,93.0,,*,88.3,94.1,86.0,93.2,Bolton School District,0120011,C,87.15,race,White,Bolton High School,0126111
+,*,,*,,*,,*,81.8,*,Branford School District,0140011,D,81.8,race,Asian,Branford High School,0146111
+,*,,*,,*,,*,71.4,*,Branford School District,0140011,D,71.4,race,Hispanic or Latino,Branford High School,0146111
+80.4,94.7,77.9,90.9,78.7,89.3,77.6,91.8,71.3,91.2,Branford School District,0140011,D,77.9,race,White,Branford High School,0146111
+55.8,69.0,55.6,75.4,51.4,78.9,54.5,76.7,45.5,68.6,Bridgeport School District,0150011,I,54.5,race,Black or African American,Bassick High School,0156111
+44.1,73.3,31.5,57.1,34.3,75.0,43.4,52.8,34.0,74.3,Bridgeport School District,0150011,I,34.3,race,Hispanic or Latino,Bassick High School,0156111
+,,74.1,88.4,72.1,84.1,67.9,*,,*,Bridgeport School District,0150011,I,72.1,race,American Indian or Alaska Native,Central High School,0156211
+81.8,*,73.9,*,,*,,*,,*,Bridgeport School District,0150011,I,77.85,race,Asian,Central High School,0156211
+68.8,85.5,69.8,81.6,67.2,85.5,66.1,81.3,70.1,84.7,Bridgeport School District,0150011,I,68.8,race,Black or African American,Central High School,0156211
+57.6,79.3,61.1,79.1,56.7,80.0,58.9,78.9,53.2,79.2,Bridgeport School District,0150011,I,57.6,race,Hispanic or Latino,Central High School,0156211
+59.7,91.9,54.3,*,60.0,83.3,72.7,87.5,47.1,87.5,Bridgeport School District,0150011,I,59.7,race,White,Central High School,0156211
+58.3,76.2,62.9,75.8,48.4,74.6,53.0,71.0,58.2,75.0,Bridgeport School District,0150011,I,58.2,race,Black or African American,Harding High School,0156311
+41.1,82.4,41.2,72.5,45.5,78.6,34.4,71.0,31.9,86.1,Bridgeport School District,0150011,I,41.1,race,Hispanic or Latino,Harding High School,0156311
+,*,,*,57.1,*,,*,,*,Bristol School District,0170011,G,57.1,race,Black or African American,Bristol Central High School,0176111
+56.3,*,55.9,*,53.7,86.2,39.5,*,44.2,*,Bristol School District,0170011,G,53.7,race,Hispanic or Latino,Bristol Central High School,0176111
+67.5,85.8,67.3,90.8,65.1,90.8,72.6,88.7,67.9,90.3,Bristol School District,0170011,G,67.5,race,White,Bristol Central High School,0176111
+,*,,*,,*,50.0,*,78.3,*,Bristol School District,0170011,G,64.15,race,Black or African American,Bristol Eastern High School,0176211
+,*,55.6,80.0,52.2,*,53.1,*,50.0,*,Bristol School District,0170011,G,52.65,race,Hispanic or Latino,Bristol Eastern High School,0176211
+75.8,86.5,74.9,85.1,67.3,93.2,69.0,87.9,68.6,90.7,Bristol School District,0170011,G,69.0,race,White,Bristol Eastern High School,0176211
+85.5,91.5,80.5,89.5,84.1,91.6,89.4,94.8,87.1,93.4,Brookfield School District,0180011,B,85.5,race,White,Brookfield High School,0186111
+82.4,90.3,74.8,92.2,84.0,94.4,78.0,91.8,78.4,89.8,Canton School District,0230011,C,78.4,race,White,Canton High School,0236111
+80.0,100.0,80.0,100.0,94.3,97.0,78.3,*,84.4,100.0,Cheshire School District,0250011,B,80.0,race,Asian,Cheshire High School,0256111
+87.9,94.8,90.4,94.9,88.0,95.0,87.1,95.7,85.0,93.2,Cheshire School District,0250011,B,87.9,race,White,Cheshire High School,0256111
+76.0,90.5,70.9,90.4,67.0,97.1,76.6,91.8,77.1,91.7,Clinton School District,0270011,D,76.0,race,White,The Morgan School,0276111
+79.5,89.8,79.3,89.2,79.4,86.5,75.8,87.7,77.7,91.0,Colchester School District,0280011,D,79.3,race,White,Bacon Academy,0286111
+,90.0,65.4,88.8,70.1,83.1,71.8,89.9,70.0,92.9,Coventry School District,0320011,E,70.05,race,White,Coventry High School,0326111
+78.1,87.0,80.9,90.9,78.2,89.2,84.6,93.2,79.8,95.2,Cromwell School District,0330011,D,79.8,race,White,Cromwell High School,0336111
+79.2,92.9,,*,,100.0,74.7,94.6,80.3,96.2,Danbury School District,0340011,H,79.2,race,Asian,Danbury High School,0346111
+72.9,94.1,72.6,91.1,76.4,74.5,69.3,94.2,,*,Danbury School District,0340011,H,72.75,race,Black or African American,Danbury High School,0346111
+46.2,83.3,52.5,86.7,57.1,83.9,57.2,83.5,52.5,78.1,Danbury School District,0340011,H,52.5,race,Hispanic or Latino,Danbury High School,0346111
+78.3,92.1,78.1,88.9,75.2,89.6,79.6,88.8,78.6,91.4,Danbury School District,0340011,H,78.3,race,White,Danbury High School,0346111
+83.8,94.3,82.5,96.7,87.2,97.1,90.9,98.1,90.0,97.0,Darien School District,0350011,A,87.2,race,White,Darien High School,0356111
+,*,,*,,*,47.6,*,,*,Derby School District,0370011,H,47.6,race,Hispanic or Latino,Derby High School,0376111
+67.3,80.0,68.3,90.2,67.2,90.2,80.0,89.3,59.0,72.2,Derby School District,0370011,H,67.3,race,White,Derby High School,0376111
+97.4,92.1,83.8,94.7,76.9,90.0,69.0,90.0,81.1,86.0,East Granby School District,0400011,D,81.1,race,White,East Granby High School,0406111
+81.2,*,,*,78.0,91.5,80.0,88.9,64.4,87.9,East Haddam School District,0410011,E,79.0,race,White,Nathan Hale-Ray High School,0416111
+79.7,86.8,78.0,86.5,69.0,85.7,80.7,89.6,84.4,92.4,East Hampton School District,0420011,D,79.7,race,White,East Hampton High School,0426111
+,93.1,,*,,*,61.9,*,,*,East Hartford School District,0430011,H,61.9,race,Asian,East Hartford High School,0436211
+56.3,84.8,64.7,82.6,74.2,80.6,69.7,74.7,65.4,67.1,East Hartford School District,0430011,H,65.4,race,Black or African American,East Hartford High School,0436211
+62.5,85.0,58.6,67.6,61.9,78.2,55.4,76.1,54.6,70.4,East Hartford School District,0430011,H,58.6,race,Hispanic or Latino,East Hartford High School,0436211
+68.8,86.7,63.4,77.5,68.5,80.3,69.2,81.5,71.9,73.9,East Hartford School District,0430011,H,68.8,race,White,East Hartford High School,0436211
+,*,44.8,*,24.1,*,33.3,*,,*,East Hartford School District,0430011,H,33.3,race,Black or African American,Stevens Alternate High school,0436411
+66.7,*,57.1,*,,*,68.6,79.2,74.4,75.9,East Haven School District,0440011,G,67.65,race,Hispanic or Latino,East Haven High School,0446111
+61.5,90.8,72.0,88.8,72.5,88.4,69.7,85.1,64.6,90.4,East Haven School District,0440011,G,69.7,race,White,East Haven High School,0446111
+85.7,*,80.0,*,,*,92.9,100.0,91.7,100.0,East Lyme School District,0450011,D,88.7,race,Asian,East Lyme High School,0456111
+85.8,91.3,81.7,89.7,81.2,88.4,84.1,93.4,84.4,91.8,East Lyme School District,0450011,D,84.1,race,White,East Lyme High School,0456111
+61.3,82.6,58.5,89.5,63.2,80.6,56.9,97.0,66.3,88.7,East Windsor School District,0470011,F,61.3,race,White,East Windsor High School,0476111
+82.9,89.7,84.9,92.6,80.0,93.2,83.7,93.5,73.4,87.9,Ellington School District,0480011,C,82.9,race,White,Ellington High School,0486111
+75.3,84.8,78.7,92.7,67.9,88.7,65.4,80.7,71.1,82.3,Enfield School District,0490011,F,71.1,race,White,Enfield High School,0496111
+79.8,85.6,73.6,85.3,69.2,87.8,71.7,86.2,72.1,84.1,Enfield School District,0490011,F,72.1,race,White,Enrico Fermi High School,0496211
+,*,,*,,*,,*,90.0,*,Fairfield School District,0510011,B,90.0,race,Asian,Fairfield Ludlowe High School,0516011
+,*,,*,,*,62.5,*,,*,Fairfield School District,0510011,B,62.5,race,Hispanic or Latino,Fairfield Ludlowe High School,0516011
+85.4,94.9,83.2,96.6,86.7,91.2,86.6,95.3,84.7,94.5,Fairfield School District,0510011,B,85.4,race,White,Fairfield Ludlowe High School,0516011
+,*,,*,,*,,*,81.0,*,Fairfield School District,0510011,B,81.0,race,Asian,Fairfield Warde High School,0516211
+80.0,70.0,66.7,*,65.9,92.6,81.1,93.3,78.8,96.2,Fairfield School District,0510011,B,78.8,race,Hispanic or Latino,Fairfield Warde High School,0516211
+82.7,93.4,84.3,95.4,86.3,95.2,88.4,94.1,81.4,98.2,Fairfield School District,0510011,B,84.3,race,White,Fairfield Warde High School,0516211
+80.6,96.0,90.0,*,,*,95.0,94.7,84.2,100.0,Farmington School District,0520011,B,87.1,race,Asian,Farmington High School,0526111
+,*,,*,,*,,*,66.7,*,Farmington School District,0520011,B,66.7,race,Hispanic or Latino,Farmington High School,0526111
+82.2,94.1,84.4,94.4,86.9,94.4,87.4,94.9,87.3,92.1,Farmington School District,0520011,B,86.9,race,White,Farmington High School,0526111
+96.0,100.0,84.4,100.0,90.3,96.4,89.5,100.0,90.4,100.0,Glastonbury School District,0540011,B,90.3,race,Asian,Glastonbury High School,0546111
+,*,,*,77.3,*,,*,,*,Glastonbury School District,0540011,B,77.3,race,Black or African American,Glastonbury High School,0546111
+69.2,*,77.3,*,80.0,91.7,85.2,91.3,71.4,96.7,Glastonbury School District,0540011,B,77.3,race,Hispanic or Latino,Glastonbury High School,0546111
+84.5,95.8,84.0,95.9,89.3,95.3,88.1,96.5,86.8,94.3,Glastonbury School District,0540011,B,86.8,race,White,Glastonbury High School,0546111
+78.6,90.9,90.2,90.4,81.5,90.3,89.9,91.9,88.6,97.6,Granby School District,0560011,B,88.6,race,White,Granby Memorial High School,0566111
+73.1,94.7,69.4,88.0,71.7,97.0,77.3,94.1,65.1,89.3,Greenwich School District,0570011,B,71.7,race,Asian,Greenwich High School,0576111
+62.4,84.9,73.3,89.2,62.2,94.1,74.5,88.6,73.1,86.2,Greenwich School District,0570011,B,73.1,race,Hispanic or Latino,Greenwich High School,0576111
+79.4,93.7,80.9,95.4,81.1,95.0,85.8,95.4,85.2,92.2,Greenwich School District,0570011,B,81.1,race,White,Greenwich High School,0576111
+64.8,81.6,68.8,80.6,58.7,90.1,69.5,74.7,61.8,79.8,Griswold School District,0580011,F,64.8,race,White,Griswold High School,0586211
+75.9,86.4,,*,82.6,*,85.0,*,73.9,*,Groton School District,0590011,G,79.25,race,Asian,Robert E. Fitch High School,0596111
+73.3,75.8,67.6,68.0,60.0,76.2,61.0,72.0,52.6,90.0,Groton School District,0590011,G,61.0,race,Black or African American,Robert E. Fitch High School,0596111
+,*,78.6,81.8,69.2,*,68.0,*,43.9,*,Groton School District,0590011,G,68.6,race,Hispanic or Latino,Robert E. Fitch High School,0596111
+75.3,89.9,79.2,89.0,75.1,87.8,70.5,83.1,67.7,78.0,Groton School District,0590011,G,75.1,race,White,Robert E. Fitch High School,0596111
+86.9,94.2,83.1,91.4,78.0,92.4,86.3,94.7,86.1,94.8,Guilford School District,0600011,B,86.1,race,White,Guilford High School,0606111
+62.4,80.6,63.7,86.0,65.0,75.5,60.7,75.0,66.2,77.6,Hamden School District,0620011,G,63.7,race,Black or African American,Hamden High School,0626111
+58.9,72.7,66.1,91.9,64.8,88.6,68.4,87.2,69.4,86.0,Hamden School District,0620011,G,66.1,race,Hispanic or Latino,Hamden High School,0626111
+80.1,90.7,79.2,91.6,74.5,94.8,75.0,91.7,78.8,91.4,Hamden School District,0620011,G,78.8,race,White,Hamden High School,0626111
+47.3,65.4,50.7,62.9,48.9,77.3,47.5,*,42.9,*,Hartford School District,0640011,I,47.5,race,Black or African American,Bulkeley High School,0647111
+49.1,70.9,46.3,72.0,44.0,60.4,41.8,70.7,23.0,73.9,Hartford School District,0640011,I,44.0,race,Hispanic or Latino,Bulkeley High School,0647111
+71.4,*,,*,,*,,*,,*,Hartford School District,0640011,I,71.4,race,White,Bulkeley High School,0647111
+,*,,*,81.0,*,,*,88.5,73.9,Hartford School District,0640011,I,84.75,race,Black or African American,Capital Preparatory Magnet School,0646911
+89.7,91.4,92.1,91.4,88.6,84.6,92.3,91.7,88.6,80.6,Hartford School District,0640011,I,89.7,race,Black or African American,Classical Magnet School,0646411
+,*,75.0,*,,*,87.5,95.2,90.0,*,Hartford School District,0640011,I,87.5,race,Hispanic or Latino,Classical Magnet School,0646411
+,66.7,,61.9,27.3,*,40.7,*,32.7,*,Hartford School District,0640011,I,32.7,race,Black or African American,Culinary Arts Academy,0646011
+,,,,,,73.3,90.9,86.7,76.9,Hartford School District,0640011,I,80.0,race,Black or African American,Great Path Academy High School at MCC,0647911
+,*,48.5,*,43.6,*,46.9,*,60.9,*,Hartford School District,0640011,I,47.7,race,Black or African American,HPHS Academy of Engineering and Green Technology,0647211
+43.9,*,42.0,76.2,24.5,*,19.6,*,31.0,*,Hartford School District,0640011,I,31.0,race,Hispanic or Latino,HPHS Academy of Engineering and Green Technology,0647211
+67.5,81.5,61.4,74.1,53.8,78.6,66.0,83.9,69.4,68.0,Hartford School District,0640011,I,66.0,race,Black or African American,HPHS Academy of Nursing and Health Science,0647511
+39.0,*,46.4,*,43.2,*,41.5,72.7,41.7,50.0,Hartford School District,0640011,I,41.7,race,Hispanic or Latino,HPHS Academy of Nursing and Health Science,0647511
+55.2,*,60.6,80.0,,*,51.9,75.0,57.9,77.3,Hartford School District,0640011,I,56.55,race,Black or African American,HPHS Law and Government Academy,0647411
+42.9,*,57.8,69.2,58.9,66.7,47.9,69.6,34.5,*,Hartford School District,0640011,I,47.9,race,Hispanic or Latino,HPHS Law and Government Academy,0647411
+,,,,,*,70.8,70.6,51.5,*,Hartford School District,0640011,I,61.15,race,Black or African American,"High School, Inc.",0647611
+,,,,,*,70.4,*,,*,Hartford School District,0640011,I,70.4,race,Hispanic or Latino,"High School, Inc.",0647611
+,,,,44.1,73.1,52.4,77.3,51.3,60.0,Hartford School District,0640011,I,51.3,race,Black or African American,Journalism and Media Academy Magnet School,0647711
+,,33.3,*,,*,40.9,*,,*,Hartford School District,0640011,I,37.1,race,Black or African American,OPPortunity High School,0647811
+,*,42.9,*,,*,25.0,*,,*,Hartford School District,0640011,I,33.95,race,Hispanic or Latino,OPPortunity High School,0647811
+66.7,79.2,64.9,87.5,60.4,89.7,61.5,*,73.1,*,Hartford School District,0640011,I,64.9,race,Black or African American,Pathways Academy of Technology and Design,0646611
+84.6,63.6,90.3,75.0,,*,69.2,*,55.0,*,Hartford School District,0640011,I,76.9,race,Hispanic or Latino,Pathways Academy of Technology and Design,0646611
+78.8,88.5,58.1,*,78.1,92.0,70.8,*,78.3,*,Hartford School District,0640011,I,78.1,race,Black or African American,Sports and Medical Sciences Academy,0646511
+74.1,90.0,65.9,77.8,60.5,78.3,85.0,67.6,56.4,59.1,Hartford School District,0640011,I,65.9,race,Hispanic or Latino,Sports and Medical Sciences Academy,0646511
+,*,77.3,*,87.5,85.7,,*,96.2,84.0,Hartford School District,0640011,I,87.5,race,White,Sports and Medical Sciences Academy,0646511
+91.7,86.4,,*,85.0,91.2,86.1,93.5,83.9,80.8,Hartford School District,0640011,I,85.55,race,Black or African American,University High School of Science and Engineering,0646711
+,*,80.0,90.0,81.0,*,,*,,*,Hartford School District,0640011,I,80.5,race,Hispanic or Latino,University High School of Science and Engineering,0646711
+,*,,*,,*,100.0,96.2,87.0,95.0,Hartford School District,0640011,I,93.5,race,White,University High School of Science and Engineering,0646711
+49.6,79.4,40.3,68.8,,,,,,,Hartford School District,0640011,I,44.95,race,Black or African American,Weaver High School,0646311
+68.2,84.2,50.4,80.6,64.5,79.8,60.0,78.5,64.6,82.4,Killingly School District,0690011,G,64.5,race,White,Killingly High School,0696111
+,*,,*,74.1,86.7,77.9,87.7,71.8,90.2,Lebanon School District,0710011,E,74.1,race,White,Lyman Memorial High School,0716211
+72.7,*,,*,,*,,*,,*,Ledyard School District,0720011,D,72.7,race,Hispanic or Latino,Ledyard High School,0726111
+77.5,87.9,69.0,86.4,78.1,83.5,78.3,90.5,76.3,87.9,Ledyard School District,0720011,D,77.5,race,White,Ledyard High School,0726111
+78.6,85.2,,*,80.2,92.2,71.1,88.1,85.2,*,Litchfield School District,0740011,E,79.4,race,White,Litchfield High School,0746111
+84.6,93.3,86.0,96.7,88.5,96.3,87.4,96.5,88.4,96.8,Madison School District,0760011,B,87.4,race,White,Daniel Hand High School,0766111
+80.8,90.5,75.8,92.0,,*,100.0,95.0,81.5,81.8,Manchester School District,0770011,G,81.15,race,Asian,Manchester High School,0776111
+64.5,89.8,63.6,75.5,61.6,77.8,70.8,79.4,64.6,75.5,Manchester School District,0770011,G,64.5,race,Black or African American,Manchester High School,0776111
+60.0,88.1,58.2,79.5,61.8,74.5,43.8,71.9,42.4,60.7,Manchester School District,0770011,G,58.2,race,Hispanic or Latino,Manchester High School,0776111
+75.2,88.8,69.9,89.2,73.5,85.0,72.6,83.3,60.3,86.7,Manchester School District,0770011,G,72.6,race,White,Manchester High School,0776111
+62.5,65.0,60.7,*,43.8,*,50.0,*,46.3,*,Meriden School District,0800011,H,50.0,race,Black or African American,Francis T. Maloney High School,0806111
+43.2,62.5,51.1,57.8,44.9,72.9,49.1,72.7,58.9,87.5,Meriden School District,0800011,H,49.1,race,Hispanic or Latino,Francis T. Maloney High School,0806111
+76.5,88.6,74.6,93.6,70.5,91.9,78.2,91.9,61.5,88.1,Meriden School District,0800011,H,74.6,race,White,Francis T. Maloney High School,0806111
+,*,58.1,*,43.3,*,40.6,*,73.7,78.6,Meriden School District,0800011,H,50.7,race,Black or African American,Orville H. Platt High School,0806211
+43.9,69.4,53.7,68.2,40.2,77.1,56.0,72.5,51.9,72.2,Meriden School District,0800011,H,51.9,race,Hispanic or Latino,Orville H. Platt High School,0806211
+59.6,86.8,63.7,87.7,69.6,87.5,56.2,76.0,66.3,78.9,Meriden School District,0800011,H,63.7,race,White,Orville H. Platt High School,0806211
+61.6,80.0,64.2,85.3,50.6,88.1,60.0,84.6,52.4,81.8,Middletown School District,0830011,G,60.0,race,Black or African American,Middletown High School,0836211
+50.0,*,,*,70.6,79.2,74.1,80.0,56.8,85.7,Middletown School District,0830011,G,63.7,race,Hispanic or Latino,Middletown High School,0836211
+72.4,88.6,74.2,85.5,77.9,87.1,64.5,89.3,81.8,89.6,Middletown School District,0830011,G,74.2,race,White,Middletown High School,0836211
+,*,,*,,*,59.1,*,,*,Milford School District,0840011,D,59.1,race,Black or African American,Jonathan Law High School,0846211
+78.3,*,,*,,*,52.2,*,,*,Milford School District,0840011,D,65.25,race,Hispanic or Latino,Jonathan Law High School,0846211
+69.1,86.5,74.9,93.8,70.9,88.2,67.8,91.0,68.2,92.5,Milford School District,0840011,D,69.1,race,White,Jonathan Law High School,0846211
+76.9,92.5,79.8,94.0,78.3,90.6,77.8,87.5,79.6,93.0,Milford School District,0840011,D,78.3,race,White,Joseph A. Foran High School,0846311
+87.1,92.2,84.3,96.2,84.6,96.2,84.0,91.2,82.5,92.2,Monroe School District,0850011,B,84.3,race,White,Masuk High School,0856111
+74.5,85.0,72.3,81.9,66.7,83.7,63.4,88.7,67.2,87.5,Montville School District,0860011,F,67.2,race,White,Montville High School,0866111
+,*,57.7,*,,*,61.3,*,50.0,*,Naugatuck School District,0880011,G,57.7,race,Black or African American,Naugatuck High School,0886111
+61.8,85.7,60.0,85.7,58.3,85.7,67.6,76.0,52.2,87.5,Naugatuck School District,0880011,G,60.0,race,Hispanic or Latino,Naugatuck High School,0886111
+59.0,85.7,68.9,90.2,64.7,87.3,70.0,86.5,67.8,89.8,Naugatuck School District,0880011,G,67.8,race,White,Naugatuck High School,0886111
+63.6,71.4,67.1,80.0,50.0,75.6,67.1,76.4,69.9,81.0,New Britain School District,0890011,I,67.1,race,Black or African American,New Britain High School,0896111
+44.4,70.8,48.7,73.4,51.1,66.7,46.2,60.6,54.0,71.9,New Britain School District,0890011,I,48.7,race,Hispanic or Latino,New Britain High School,0896111
+63.1,88.1,64.8,87.3,67.3,92.1,68.8,94.2,68.7,85.6,New Britain School District,0890011,I,67.3,race,White,New Britain High School,0896111
+81.0,94.1,79.4,95.9,85.6,95.6,86.3,97.0,87.2,95.1,New Canaan School District,0900011,A,85.6,race,White,New Canaan High School,0906111
+82.1,88.6,80.3,91.8,85.4,92.8,84.1,92.3,83.5,94.4,New Fairfield School District,0910011,B,83.5,race,White,New Fairfield High School,0916111
+55.1,74.1,75.6,73.5,80.0,91.1,68.2,75.9,73.1,78.9,New Haven School District,0930011,I,73.1,race,Black or African American,Cooperative High School,0936411
+47.8,*,68.0,*,,*,,*,,*,New Haven School District,0930011,I,57.9,race,Hispanic or Latino,Cooperative High School,0936411
+80.0,75.0,58.3,*,73.1,*,81.6,93.5,85.0,70.6,New Haven School District,0930011,I,80.0,race,White,Cooperative High School,0936411
+55.6,60.0,69.6,*,,*,,*,,*,New Haven School District,0930011,I,62.6,race,Black or African American,High School In The Community,0936611
+77.6,84.7,83.1,88.4,85.1,84.1,82.5,82.7,80.6,76.0,New Haven School District,0930011,I,82.5,race,Black or African American,Hill Regional Career High School,0936311
+68.8,84.8,75.7,85.7,78.1,80.0,75.0,73.3,71.7,78.9,New Haven School District,0930011,I,75.0,race,Hispanic or Latino,Hill Regional Career High School,0936311
+,*,,*,,91.3,67.7,85.7,71.4,100.0,New Haven School District,0930011,I,69.55,race,White,Hill Regional Career High School,0936311
+63.6,*,,*,55.9,*,,*,73.1,*,New Haven School District,0930011,I,63.6,race,Black or African American,"Hyde School of Health, Science and Sports Medicine",0936811
+63.5,70.1,63.0,78.4,63.6,78.0,57.0,77.6,64.9,70.8,New Haven School District,0930011,I,63.5,race,Black or African American,James Hillhouse High School,0936211
+,*,,*,,*,47.1,*,44.4,80.0,New Haven School District,0930011,I,45.75,race,Hispanic or Latino,James Hillhouse High School,0936211
+,*,,*,80.0,*,68.9,71.0,68.4,69.2,New Haven School District,0930011,I,68.9,race,Black or African American,Metropolitan Business Academy,0936011
+,*,,*,,*,46.2,*,74.2,60.9,New Haven School District,0930011,I,60.2,race,Hispanic or Latino,Metropolitan Business Academy,0936011
+,*,63.3,*,,*,67.6,72.0,72.4,76.2,New Haven School District,0930011,I,67.6,race,Black or African American,New Haven Academy,0937011
+55.0,*,,*,,*,,*,,*,New Haven School District,0930011,I,55.0,race,Hispanic or Latino,Sound School,0936711
+62.5,72.5,74.4,78.1,77.6,77.8,64.7,78.8,78.8,92.7,New Haven School District,0930011,I,74.4,race,White,Sound School,0936711
+60.4,71.1,55.2,65.0,49.6,76.8,59.8,78.8,60.2,68.0,New Haven School District,0930011,I,59.8,race,Black or African American,Wilbur Cross High School,0936111
+45.7,60.5,44.4,57.1,47.3,69.4,43.0,56.8,46.2,67.3,New Haven School District,0930011,I,45.7,race,Hispanic or Latino,Wilbur Cross High School,0936111
+67.9,91.7,,*,81.0,91.2,,96.0,,*,New Haven School District,0930011,I,74.45,race,White,Wilbur Cross High School,0936111
+93.8,100.0,88.5,95.7,85.0,*,80.5,100.0,96.6,100.0,Newington School District,0940011,D,88.5,race,Asian,Newington High School,0946111
+75.0,*,,*,,*,,*,71.4,*,Newington School District,0940011,D,73.2,race,Black or African American,Newington High School,0946111
+69.0,85.0,57.1,85.0,75.0,85.7,69.0,89.7,79.1,79.4,Newington School District,0940011,D,69.0,race,Hispanic or Latino,Newington High School,0946111
+78.0,90.1,83.8,89.5,79.8,95.0,78.0,92.2,79.5,94.8,Newington School District,0940011,D,79.5,race,White,Newington High School,0946111
+54.5,73.3,64.5,87.5,66.7,75.0,55.3,69.2,62.1,72.2,New London School District,0950011,I,62.1,race,Black or African American,New London High School,0956111
+48.1,61.5,50.0,66.7,57.1,62.5,48.6,80.0,52.4,69.8,New London School District,0950011,I,50.0,race,Hispanic or Latino,New London High School,0956111
+53.1,*,53.7,81.8,75.0,66.7,70.0,74.3,61.3,*,New London School District,0950011,I,61.3,race,White,New London High School,0956111
+65.4,*,71.4,*,79.2,*,76.2,*,80.0,85.0,New Milford School District,0960011,D,76.2,race,Hispanic or Latino,New Milford High School,0966111
+78.6,88.9,75.2,92.4,81.5,92.3,75.9,92.2,77.3,94.1,New Milford School District,0960011,D,77.3,race,White,New Milford High School,0966111
+,*,86.4,*,,*,,*,76.0,*,Newtown School District,0970011,B,81.2,race,Hispanic or Latino,Newtown High School,0976111
+83.5,92.9,85.5,90.9,83.7,93.4,85.6,92.9,86.7,94.6,Newtown School District,0970011,B,85.5,race,White,Newtown High School,0976111
+82.0,93.9,79.5,93.6,80.4,93.7,80.7,93.2,73.6,88.0,North Branford School District,0990011,E,80.4,race,White,North Branford High School,0996111
+91.3,100.0,,*,90.9,100.0,72.7,*,,*,North Haven School District,1010011,D,90.9,race,Asian,North Haven High School,1016111
+,*,,*,,*,66.7,*,,*,North Haven School District,1010011,D,66.7,race,Hispanic or Latino,North Haven High School,1016111
+83.5,90.1,80.9,93.8,81.6,94.9,84.6,92.8,79.3,91.1,North Haven School District,1010011,D,81.6,race,White,North Haven High School,1016111
+,*,72.7,80.0,53.2,80.0,73.8,80.6,64.8,*,North Stonington School District,1020011,E,68.75,race,White,Wheeler High School,1026111
+,*,,*,95.0,*,,*,90.0,*,Norwalk School District,1030011,H,92.5,race,Asian,Brien McMahon High School,1036211
+65.7,84.5,68.3,87.2,76.5,85.7,73.7,87.1,74.5,83.6,Norwalk School District,1030011,H,73.7,race,Black or African American,Brien McMahon High School,1036211
+64.5,87.0,73.6,91.7,65.9,83.1,76.2,92.5,66.4,81.3,Norwalk School District,1030011,H,66.4,race,Hispanic or Latino,Brien McMahon High School,1036211
+82.9,87.3,84.1,90.5,79.1,92.2,83.0,95.7,83.1,88.9,Norwalk School District,1030011,H,83.0,race,White,Brien McMahon High School,1036211
+73.8,88.9,60.8,71.1,77.4,85.4,73.2,87.8,78.8,74.6,Norwalk School District,1030011,H,73.8,race,Black or African American,Norwalk High School,1036111
+60.8,91.1,62.7,85.9,66.0,80.3,70.2,84.9,59.6,83.0,Norwalk School District,1030011,H,62.7,race,Hispanic or Latino,Norwalk High School,1036111
+82.0,89.0,85.5,91.5,82.4,92.4,85.4,96.1,85.3,92.4,Norwalk School District,1030011,H,85.3,race,White,Norwalk High School,1036111
+85.1,93.8,87.3,97.8,82.8,95.3,83.6,90.2,82.6,93.7,Old Saybrook School District,1060011,D,83.6,race,White,Old Saybrook Senior High School,1066111
+72.8,93.3,81.0,91.0,80.5,94.9,84.7,90.5,83.4,92.1,Oxford School District,1080011,C,81.0,race,White,Oxford High School,1086011
+62.0,79.8,58.7,83.5,51.8,78.2,48.8,76.9,66.7,74.5,Plainfield School District,1090011,G,58.7,race,White,Plainfield High School,1096111
+71.5,87.3,70.9,86.6,72.1,87.4,81.8,90.8,80.0,85.6,Plainville School District,1100011,F,72.1,race,White,Plainville High School,1106111
+64.4,88.2,,83.3,60.7,86.5,60.7,86.2,75.2,90.2,Plymouth School District,1110011,F,62.55,race,White,Terryville High School,1116111
+82.1,89.1,75.0,88.3,78.8,92.1,86.3,98.4,83.3,86.3,Portland School District,1130011,E,82.1,race,White,Portland High School,1136111
+64.8,67.4,51.9,82.1,,*,63.2,72.1,,*,Putnam School District,1160011,G,63.2,race,White,Putnam High School,1166111
+,*,,*,,*,,*,91.3,95.2,Ridgefield School District,1180011,A,91.3,race,Asian,Ridgefield High School,1186111
+88.2,96.3,87.2,95.5,89.1,94.2,87.6,96.0,88.5,97.0,Ridgefield School District,1180011,A,88.2,race,White,Ridgefield High School,1186111
+82.5,89.0,82.9,90.1,81.1,92.2,84.0,91.8,81.3,92.0,Rocky Hill School District,1190011,D,82.5,race,White,Rocky Hill High School,1196111
+69.6,*,,*,,*,,*,,*,Seymour School District,1240011,F,69.6,race,Hispanic or Latino,Seymour High School,1246111
+78.8,90.4,80.1,89.0,80.8,95.0,74.8,90.5,77.9,91.4,Seymour School District,1240011,F,78.8,race,White,Seymour High School,1246111
+,*,73.1,*,65.2,*,67.5,81.5,66.7,90.0,Shelton School District,1260011,D,67.1,race,Hispanic or Latino,Shelton High School,1266111
+78.8,89.9,75.8,92.6,76.1,92.6,82.5,89.6,76.7,91.9,Shelton School District,1260011,D,76.7,race,White,Shelton High School,1266111
+,*,,*,82.6,*,,*,,*,Simsbury School District,1280011,B,82.6,race,Asian,Simsbury High School,1286111
+,*,,*,90.9,95.0,,*,,*,Simsbury School District,1280011,B,90.9,race,Hispanic or Latino,Simsbury High School,1286111
+85.5,93.8,82.7,96.7,82.9,94.6,87.2,94.8,87.0,96.2,Simsbury School District,1280011,B,85.5,race,White,Simsbury High School,1286111
+82.4,96.1,79.5,92.4,78.0,95.8,82.0,93.3,81.1,99.0,Somers School District,1290011,C,81.1,race,White,Somers High School,1296111
+,*,,*,86.4,*,,*,,*,Southington School District,1310011,D,86.4,race,Asian,Southington High School,1316211
+52.4,*,60.0,*,,*,,*,65.5,*,Southington School District,1310011,D,60.0,race,Hispanic or Latino,Southington High School,1316211
+81.0,89.2,81.1,89.5,78.1,90.9,80.4,89.3,78.9,89.9,Southington School District,1310011,D,80.4,race,White,Southington High School,1316211
+88.5,100.0,96.3,92.3,88.9,91.7,91.4,96.9,95.8,100.0,South Windsor School District,1320011,B,91.4,race,Asian,South Windsor High School,1326211
+90.9,95.0,81.8,*,82.6,*,,*,,*,South Windsor School District,1320011,B,82.6,race,Black or African American,South Windsor High School,1326211
+,*,,*,,*,76.9,85.0,,*,South Windsor School District,1320011,B,76.9,race,Hispanic or Latino,South Windsor High School,1326211
+85.4,92.8,82.3,91.9,86.0,92.6,83.4,93.9,87.2,93.1,South Windsor School District,1320011,B,85.4,race,White,South Windsor High School,1326211
+73.6,89.1,65.7,89.6,56.0,82.7,67.6,87.7,61.0,81.3,Stafford School District,1340011,F,65.7,race,White,Stafford High School,1346111
+79.3,91.3,75.0,*,,*,80.0,95.8,,*,Stamford School District,1350011,H,79.3,race,Asian,Stamford High School,1356111
+74.0,85.1,68.0,76.5,66.7,81.3,60.9,82.1,71.4,82.1,Stamford School District,1350011,H,68.0,race,Black or African American,Stamford High School,1356111
+60.9,83.0,58.3,76.8,70.9,87.5,71.3,82.9,68.6,82.7,Stamford School District,1350011,H,68.6,race,Hispanic or Latino,Stamford High School,1356111
+74.4,92.0,84.4,93.4,80.0,95.2,83.8,92.7,85.7,94.4,Stamford School District,1350011,H,83.8,race,White,Stamford High School,1356111
+87.5,82.1,92.0,95.7,84.8,82.1,74.3,92.3,76.5,96.2,Stamford School District,1350011,H,84.8,race,Black or African American,The Academy of Information Technology,1356411
+57.6,*,67.6,95.7,71.4,92.0,80.0,100.0,87.9,82.8,Stamford School District,1350011,H,71.4,race,Hispanic or Latino,The Academy of Information Technology,1356411
+78.6,93.2,88.9,89.3,84.0,89.7,89.2,97.3,87.0,93.3,Stamford School District,1350011,H,87.0,race,White,The Academy of Information Technology,1356411
+73.1,*,,92.3,,*,,*,,*,Stamford School District,1350011,H,73.1,race,Asian,Westhill High School,1356311
+58.7,80.3,76.1,83.3,68.5,87.6,56.5,80.8,63.3,77.4,Stamford School District,1350011,H,63.3,race,Black or African American,Westhill High School,1356311
+52.7,87.4,54.9,83.3,61.2,88.1,66.7,83.3,61.1,76.6,Stamford School District,1350011,H,61.1,race,Hispanic or Latino,Westhill High School,1356311
+81.6,91.9,75.1,95.0,82.5,94.7,82.1,96.9,83.2,92.2,Stamford School District,1350011,H,82.1,race,White,Westhill High School,1356311
+75.0,90.8,82.8,91.6,71.4,90.0,75.9,89.9,73.8,94.5,Stonington School District,1370011,D,75.0,race,White,Stonington High School,1376111
+67.2,83.7,73.1,86.8,81.7,85.7,79.3,89.1,76.1,86.3,Stratford School District,1380011,G,76.1,race,Black or African American,Bunnell High School,1386211
+57.1,80.0,68.9,88.1,74.0,83.8,73.2,90.2,70.1,81.5,Stratford School District,1380011,G,70.1,race,Hispanic or Latino,Bunnell High School,1386211
+79.2,91.0,79.1,89.0,76.1,90.7,79.6,90.1,80.6,92.0,Stratford School District,1380011,G,79.2,race,White,Bunnell High School,1386211
+55.4,87.8,73.2,82.7,62.3,81.4,65.6,77.5,,*,Stratford School District,1380011,G,63.95,race,Black or African American,Stratford High School,1386111
+52.5,81.0,61.5,78.1,71.4,91.1,55.4,87.1,70.5,90.9,Stratford School District,1380011,G,61.5,race,Hispanic or Latino,Stratford High School,1386111
+73.7,83.3,75.6,83.1,71.8,84.8,75.4,94.2,72.2,89.0,Stratford School District,1380011,G,73.7,race,White,Stratford High School,1386111
+83.5,93.6,82.7,91.4,79.3,89.9,83.5,94.9,83.2,96.9,Suffield School District,1390011,C,83.2,race,White,Suffield High School,1396111
+68.5,90.5,,*,,*,,*,79.1,86.8,Thomaston School District,1400011,E,73.8,race,White,Thomaston High School,1406211
+,*,,*,65.9,83.9,64.9,90.0,,*,Thompson School District,1410011,F,65.4,race,White,Tourtellotte Memorial High School,1416111
+79.2,92.3,84.0,88.3,82.8,92.7,77.2,94.3,88.0,90.3,Tolland School District,1420011,C,82.8,race,White,Tolland High School,1426111
+,*,,*,44.0,*,,*,,*,Torrington School District,1430011,G,44.0,race,Black or African American,Torrington High School,1436111
+50.0,*,55.6,*,65.5,*,51.9,81.5,68.2,73.3,Torrington School District,1430011,G,55.6,race,Hispanic or Latino,Torrington High School,1436111
+66.1,89.9,70.1,89.1,63.6,87.2,61.0,91.0,61.9,86.9,Torrington School District,1430011,G,63.6,race,White,Torrington High School,1436111
+,*,73.9,*,80.8,81.0,90.0,*,92.6,96.0,Trumbull School District,1440011,B,85.4,race,Asian,Trumbull High School,1446111
+83.3,95.0,77.4,100.0,82.9,93.1,74.1,85.0,84.4,88.9,Trumbull School District,1440011,B,82.9,race,Black or African American,Trumbull High School,1446111
+69.2,*,72.4,95.2,81.6,100.0,75.6,88.2,68.9,87.1,Trumbull School District,1440011,B,72.4,race,Hispanic or Latino,Trumbull High School,1446111
+85.7,93.5,84.6,92.9,88.0,95.3,86.1,93.6,88.7,94.0,Trumbull School District,1440011,B,86.1,race,White,Trumbull High School,1446111
+90.0,*,,*,85.0,*,,*,,*,Vernon School District,1460011,G,87.5,race,Asian,Rockville High School,1466111
+57.7,*,62.5,*,56.0,*,54.2,*,54.5,*,Vernon School District,1460011,G,56.0,race,Black or African American,Rockville High School,1466111
+72.0,85.5,68.6,87.6,76.1,85.5,71.0,85.4,70.0,92.9,Vernon School District,1460011,G,71.0,race,White,Rockville High School,1466111
+,*,46.7,*,40.0,*,48.1,*,37.5,*,Wallingford School District,1480011,D,43.35,race,Hispanic or Latino,Lyman Hall High School,1486111
+73.6,89.4,71.3,91.8,80.6,89.1,73.4,88.3,72.5,93.1,Wallingford School District,1480011,D,73.4,race,White,Lyman Hall High School,1486111
+,*,,*,,*,80.0,*,61.5,*,Wallingford School District,1480011,D,70.75,race,Hispanic or Latino,Mark T. Sheehan High School,1486211
+76.8,89.9,78.5,94.3,81.6,90.5,81.2,95.4,71.3,93.7,Wallingford School District,1480011,D,78.5,race,White,Mark T. Sheehan High School,1486211
+,80.6,52.7,66.7,63.5,76.6,60.8,77.1,57.8,78.8,Waterbury School District,1510011,I,59.3,race,Black or African American,Crosby High School,1516211
+45.1,69.6,47.0,72.3,46.6,80.5,45.7,72.1,56.3,66.7,Waterbury School District,1510011,I,46.6,race,Hispanic or Latino,Crosby High School,1516211
+64.3,94.4,64.3,93.3,46.4,92.3,54.5,76.7,65.2,74.4,Waterbury School District,1510011,I,64.3,race,White,Crosby High School,1516211
+,*,55.6,77.1,55.1,77.8,51.7,71.0,49.1,81.5,Waterbury School District,1510011,I,53.4,race,Black or African American,John F. Kennedy High School,1516411
+48.4,75.0,61.5,81.3,55.7,69.5,52.3,69.6,53.8,75.4,Waterbury School District,1510011,I,53.8,race,Hispanic or Latino,John F. Kennedy High School,1516411
+68.1,89.1,70.6,90.9,65.5,87.3,75.9,85.9,59.1,87.3,Waterbury School District,1510011,I,68.1,race,White,John F. Kennedy High School,1516411
+,*,76.2,*,77.8,76.2,59.1,*,66.7,86.4,Waterbury School District,1510011,I,71.45,race,Black or African American,Waterbury Arts Magnet School (High),1516011
+,*,51.9,*,,*,70.4,*,65.2,*,Waterbury School District,1510011,I,65.2,race,Hispanic or Latino,Waterbury Arts Magnet School (High),1516011
+66.2,86.0,82.7,93.0,90.3,87.5,77.4,83.3,86.2,88.0,Waterbury School District,1510011,I,82.7,race,White,Waterbury Arts Magnet School (High),1516011
+44.0,75.0,46.7,72.1,44.3,68.1,53.6,76.9,50.5,64.6,Waterbury School District,1510011,I,46.7,race,Black or African American,Wilby High School,1516311
+49.5,72.5,47.5,66.7,40.0,68.2,39.7,67.2,54.5,62.7,Waterbury School District,1510011,I,47.5,race,Hispanic or Latino,Wilby High School,1516311
+,*,35.3,*,,*,56.7,*,54.5,*,Waterbury School District,1510011,I,54.5,race,White,Wilby High School,1516311
+77.1,85.5,78.0,82.5,74.9,86.4,71.2,87.0,81.0,92.4,Waterford School District,1520011,D,77.1,race,White,Waterford High School,1526111
+72.1,90.3,74.9,87.6,74.8,90.1,81.7,91.0,76.7,93.1,Watertown School District,1530011,D,74.9,race,White,Watertown High School,1536111
+74.2,93.9,80.6,92.6,79.2,91.2,,*,80.3,83.0,Westbrook School District,1540011,E,79.75,race,White,Westbrook High School,1546111
+86.0,100.0,87.1,92.6,77.1,88.9,95.1,97.4,97.7,90.5,West Hartford School District,1550011,B,87.1,race,Asian,Conard High School,1556111
+,*,86.2,76.0,61.3,*,84.1,86.5,,*,West Hartford School District,1550011,B,84.1,race,Black or African American,Conard High School,1556111
+63.0,82.4,71.9,89.1,69.6,89.6,60.3,92.7,78.0,80.4,West Hartford School District,1550011,B,69.6,race,Hispanic or Latino,Conard High School,1556111
+91.7,94.5,85.3,95.1,88.8,94.0,90.9,94.5,85.4,93.2,West Hartford School District,1550011,B,88.8,race,White,Conard High School,1556111
+90.9,93.3,76.0,*,95.3,95.1,89.2,100.0,94.7,94.4,West Hartford School District,1550011,B,90.9,race,Asian,Hall High School,1556211
+84.4,89.5,84.2,90.6,80.6,89.7,82.2,86.5,85.0,88.2,West Hartford School District,1550011,B,84.2,race,Black or African American,Hall High School,1556211
+55.3,85.7,72.5,75.7,66.7,81.6,78.4,92.5,68.1,78.1,West Hartford School District,1550011,B,68.1,race,Hispanic or Latino,Hall High School,1556211
+88.7,95.5,84.8,94.9,80.3,94.4,88.0,92.7,86.0,95.6,West Hartford School District,1550011,B,86.0,race,White,Hall High School,1556211
+73.4,82.5,67.9,80.0,71.0,81.6,65.5,73.7,68.7,87.7,West Haven School District,1560011,H,68.7,race,Black or African American,West Haven High School,1566111
+66.2,58.1,60.3,91.4,56.9,70.7,63.2,77.1,56.7,82.4,West Haven School District,1560011,H,60.3,race,Hispanic or Latino,West Haven High School,1566111
+68.3,92.9,66.9,84.3,63.6,88.8,60.0,86.2,64.1,89.3,West Haven School District,1560011,H,64.1,race,White,West Haven High School,1566111
+88.9,97.6,86.9,96.7,85.5,94.6,90.2,97.1,90.6,96.6,Weston School District,1570011,A,88.9,race,White,Weston High School,1576111
+,*,,*,100.0,95.0,,*,,*,Westport School District,1580011,A,100.0,race,Asian,Staples High School,1586111
+84.2,97.4,79.0,96.2,84.5,96.5,88.4,97.1,91.9,97.0,Westport School District,1580011,A,84.5,race,White,Staples High School,1586111
+74.2,78.3,69.7,91.3,81.3,80.8,72.7,70.8,79.5,83.9,Wethersfield School District,1590011,D,74.2,race,Hispanic or Latino,Wethersfield High School,1596111
+85.6,93.2,80.7,90.8,86.7,94.5,89.2,93.6,82.6,94.6,Wethersfield School District,1590011,D,85.6,race,White,Wethersfield High School,1596111
+85.4,96.7,88.0,96.4,88.8,97.2,85.3,96.6,87.6,96.6,Wilton School District,1610011,A,87.6,race,White,Wilton High School,1616111
+47.8,69.8,49.4,68.4,46.5,67.5,49.5,64.4,44.0,60.6,Windham School District,1630011,I,47.8,race,Hispanic or Latino,Windham High School,1636111
+73.1,80.9,74.4,90.2,68.8,90.9,74.0,82.5,66.0,85.7,Windham School District,1630011,I,73.1,race,White,Windham High School,1636111
+68.1,82.3,70.4,81.3,64.7,80.0,77.2,88.5,80.3,81.0,Windsor School District,1640011,D,70.4,race,Black or African American,Windsor High School,1646111
+75.0,*,67.6,82.6,68.6,75.0,60.5,91.3,60.0,79.2,Windsor School District,1640011,D,67.6,race,Hispanic or Latino,Windsor High School,1646111
+75.0,92.0,75.0,88.0,75.0,90.3,76.1,91.4,79.1,89.7,Windsor School District,1640011,D,75.0,race,White,Windsor High School,1646111
+70.5,86.5,60.7,92.6,65.7,83.6,64.8,92.6,69.1,84.6,Windsor Locks School District,1650011,F,65.7,race,White,Windsor Locks High School,1656111
+75.9,93.7,72.9,89.9,82.1,89.7,78.8,91.7,76.0,90.5,Wolcott School District,1660011,F,76.0,race,White,Wolcott High School,1666111
+,*,60.9,91.4,63.4,89.7,55.4,94.1,65.3,89.4,Regional School District 01,2010012,E,62.15,race,White,Housatonic Valley Regional High School,2016112
+74.0,87.6,67.7,91.1,75.0,90.7,75.5,89.2,77.2,93.7,Regional School District 04,2040012,C,75.0,race,White,Valley Regional High School,2046112
+79.5,93.5,85.4,97.1,76.6,100.0,90.2,94.6,83.7,100.0,Regional School District 05,2050012,B,83.7,race,Asian,Amity Regional High School,2056112
+88.2,97.3,82.9,94.3,85.0,92.4,88.6,94.0,87.4,95.4,Regional School District 05,2050012,B,87.4,race,White,Amity Regional High School,2056112
+64.9,93.8,,*,76.5,88.7,71.9,89.1,,*,Regional School District 06,2060012,E,71.9,race,White,Wamogo Regional High School,2066112
+81.8,88.2,74.9,92.4,72.7,86.4,,*,77.5,89.1,Regional School District 07,2070012,C,76.2,race,White,Northwestern Regional High School,2076112
+83.2,96.4,84.9,93.0,86.1,94.3,79.1,95.6,83.9,95.4,Regional School District 08,2080012,C,83.9,race,White,RHAM High School,2086112
+85.7,93.0,81.1,93.7,83.1,94.5,86.7,95.6,86.9,96.0,Regional School District 09,2090012,A,85.7,race,White,Joel Barlow High School,2096112
+82.8,89.0,82.0,93.9,80.7,86.8,82.5,93.6,81.0,92.4,Regional School District 10,2100012,C,82.0,race,White,Lewis S. Mills High School,2106112
+80.0,85.7,71.4,100.0,,*,69.7,*,73.3,*,Regional School District 11,2110012,F,72.35,race,White,Parish Hill High School,2116112
+,*,68.8,85.5,73.7,92.9,83.6,91.8,,,Regional School District 12,2120012,C,73.7,race,White,Shepaug Valley High School,2126112
+89.4,95.2,87.8,94.4,77.3,89.2,85.4,88.0,83.3,95.0,Regional School District 13,2130012,C,85.4,race,White,Coginchaug Regional High School,2136112
+78.9,94.7,79.6,89.0,71.7,93.2,85.7,88.7,81.1,91.4,Regional School District 14,2140012,C,79.6,race,White,Nonnewaug High School,2146112
+86.8,93.3,83.3,94.3,83.6,95.4,80.3,92.7,82.7,90.4,Regional School District 15,2150012,B,83.3,race,White,Pomperaug Regional High School,2156212
+78.1,88.8,76.9,87.8,72.7,89.6,79.9,95.9,77.2,88.8,Regional School District 16,2160012,E,77.2,race,White,Woodland Regional High School,2166012
+87.2,89.9,75.5,*,80.2,93.5,84.8,93.0,84.2,92.3,Regional School District 17,2170012,C,84.2,race,White,Haddam-Killingworth High School,2176112
+76.3,94.6,76.9,86.0,76.3,93.0,80.4,94.9,90.9,92.2,Regional School District 18,2180012,C,76.9,race,White,Lyme-Old Lyme High School,2186112
+68.2,*,,*,,*,84.0,95.2,,*,Regional School District 19,2190012,C,76.1,race,Asian,E. O. Smith High School,2196112
+,*,,*,,*,85.0,*,,*,Regional School District 19,2190012,C,85.0,race,Hispanic or Latino,E. O. Smith High School,2196112
+69.6,91.3,73.5,93.9,75.3,90.2,73.6,94.0,69.7,87.9,Regional School District 19,2190012,C,73.5,race,White,E. O. Smith High School,2196112
+76.7,82.6,70.4,73.7,75.0,81.0,,,,,Capitol Region Education Council,2410014,,75.0,race,Black or African American,Great Path Academy at MCC,2416314
+84.4,66.7,72.4,81.0,,*,,,,,Capitol Region Education Council,2410014,,78.4,race,White,Great Path Academy at MCC,2416314
+,,,*,66.7,75.0,76.0,*,,*,Capitol Region Education Council,2410014,,71.35,race,Black or African American,Greater Hartford Academy of  the Arts High School - Full Time,2416414
+,,,*,85.2,65.2,,*,80.0,75.0,Capitol Region Education Council,2410014,,82.6,race,Hispanic or Latino,Greater Hartford Academy of  the Arts High School - Full Time,2416414
+,,79.2,*,72.0,*,95.8,91.3,85.7,86.7,Capitol Region Education Council,2410014,,82.45,race,White,Greater Hartford Academy of  the Arts High School - Full Time,2416414
+,,,,,,,,81.8,*,Capitol Region Education Council,2410014,,81.8,race,Black or African American,Medical Professions and Teacher Preparation Academy,2416514
+74.0,86.5,84.0,88.1,88.6,84.6,84.7,84.0,93.0,92.5,Capitol Region Education Council,2410014,,84.7,race,Black or African American,Metropolitan Learning Center for Global and International Studies,2416114
+85.7,83.3,74.2,87.0,,*,,*,80.0,*,Capitol Region Education Council,2410014,,80.0,race,White,Metropolitan Learning Center for Global and International Studies,2416114
+,,,*,78.1,76.0,,*,66.7,*,Eastern Connecticut Regional Educational Service Center (EASTCONN),2530014,,72.4,race,White,Arts at the Capitol Theater Magnet School (ACT),2536014
+,*,48.0,*,,*,33.3,*,,*,Eastern Connecticut Regional Educational Service Center (EASTCONN),2530014,,40.65,race,White,Quinebaug Middle College,2536114
+,*,,*,70.8,*,77.3,*,85.7,*,The Bridge Academy District,2690013,,77.3,race,Black or African American,The Bridge Academy,2696113
+46.4,*,26.1,*,,*,38.1,*,,*,Explorations District,2720013,,38.1,race,White,Explorations,2726113
+,*,40.0,*,,*,,*,,*,Stamford Academy District,2820013,,40.0,race,Black or African American,Stamford Academy,2826013
+,72.2,,71.4,,*,58.6,64.7,63.8,63.6,Connecticut Technical High School System,9000016,,61.2,race,Black or African American,A. I. Prince Technical High School,9001516
+48.1,*,48.1,68.4,55.0,76.4,48.9,83.7,60.6,59.6,Connecticut Technical High School System,9000016,,48.9,race,Hispanic or Latino,A. I. Prince Technical High School,9001516
+,78.7,70.5,88.4,71.8,82.4,68.2,86.7,55.9,81.6,Connecticut Technical High School System,9000016,,69.35,race,Black or African American,Bullard-Havens Technical High School,9001116
+47.8,75.9,55.7,78.0,57.8,84.7,61.0,63.9,53.7,88.9,Connecticut Technical High School System,9000016,,55.7,race,Hispanic or Latino,Bullard-Havens Technical High School,9001116
+,*,,*,,*,57.1,*,,*,Connecticut Technical High School System,9000016,,57.1,race,White,Bullard-Havens Technical High School,9001116
+,*,,*,,*,,*,59.1,*,Connecticut Technical High School System,9000016,,59.1,race,Black or African American,E. C. Goodwin Technical High School,9001916
+41.0,*,40.4,69.6,50.7,60.0,56.1,71.9,48.1,48.6,Connecticut Technical High School System,9000016,,48.1,race,Hispanic or Latino,E. C. Goodwin Technical High School,9001916
+29.0,*,20.0,*,,*,32.0,*,,*,Connecticut Technical High School System,9000016,,29.0,race,White,E. C. Goodwin Technical High School,9001916
+,*,48.9,65.2,,*,26.9,*,35.4,*,Connecticut Technical High School System,9000016,,35.4,race,Black or African American,Eli Whitney Technical High School,9001416
+37.5,*,,85.0,50.8,69.7,38.8,42.3,,*,Connecticut Technical High School System,9000016,,38.8,race,Hispanic or Latino,Eli Whitney Technical High School,9001416
+53.5,69.6,39.1,*,37.8,*,72.1,87.1,53.7,81.8,Connecticut Technical High School System,9000016,,53.5,race,Hispanic or Latino,Ella T. Grasso Southeastern Technical High School,9002716
+44.2,61.8,35.5,63.0,35.1,63.0,26.6,66.7,26.5,*,Connecticut Technical High School System,9000016,,35.1,race,White,Ella T. Grasso Southeastern Technical High School,9002716
+35.2,67.7,44.1,75.6,43.4,67.4,38.6,85.3,44.8,67.4,Connecticut Technical High School System,9000016,,43.4,race,White,Emmett O'Brien Technical High School,9002516
+60.5,84.6,48.1,69.2,50.0,87.1,53.8,85.7,55.8,66.7,Connecticut Technical High School System,9000016,,53.8,race,Hispanic or Latino,H. C. Wilcox Technical High School,9001716
+40.0,77.5,34.2,76.3,49.2,70.5,49.5,81.8,39.0,69.6,Connecticut Technical High School System,9000016,,40.0,race,White,H. C. Wilcox Technical High School,9001716
+28.9,*,,*,27.1,68.8,,*,26.5,69.2,Connecticut Technical High School System,9000016,,27.1,race,White,H. H. Ellis Technical High School,9001316
+,*,45.2,*,35.9,*,,*,57.1,75.0,Connecticut Technical High School System,9000016,,45.2,race,Hispanic or Latino,Henry Abbott Technical High School,9001216
+35.2,81.3,38.6,74.4,36.4,69.4,40.4,64.3,40.8,96.6,Connecticut Technical High School System,9000016,,38.6,race,White,Henry Abbott Technical High School,9001216
+,*,,*,,*,77.8,76.2,62.9,81.8,Connecticut Technical High School System,9000016,,70.35,race,Black or African American,Howell Cheney Technical High School,9001616
+,*,,*,46.2,*,,*,58.3,47.6,Connecticut Technical High School System,9000016,,52.25,race,Hispanic or Latino,Howell Cheney Technical High School,9001616
+40.6,63.4,35.7,82.9,33.0,71.0,38.0,80.5,41.0,87.5,Connecticut Technical High School System,9000016,,38.0,race,White,Howell Cheney Technical High School,9001616
+35.8,69.0,38.4,72.7,30.9,65.8,35.5,60.5,40.2,68.1,Connecticut Technical High School System,9000016,,35.8,race,White,Norwich Technical High School,9002016
+46.9,79.3,41.5,72.7,40.0,75.0,43.0,70.3,47.6,80.0,Connecticut Technical High School System,9000016,,43.0,race,White,Oliver Wolcott Technical High School,9002216
+,*,62.1,*,,*,,*,,*,Connecticut Technical High School System,9000016,,62.1,race,Black or African American,Platt Technical High School,9002616
+44.8,92.3,57.5,65.2,66.7,78.1,58.2,84.4,59.2,79.3,Connecticut Technical High School System,9000016,,58.2,race,Hispanic or Latino,Platt Technical High School,9002616
+48.7,74.1,34.2,87.8,48.5,88.9,35.2,82.2,43.8,90.6,Connecticut Technical High School System,9000016,,43.8,race,White,Platt Technical High School,9002616
+35.3,77.8,33.0,67.6,34.7,75.8,43.4,76.7,37.7,82.5,Connecticut Technical High School System,9000016,,35.3,race,White,Vinal Technical High School,9001816
+,*,65.0,*,,75.0,54.8,*,,*,Connecticut Technical High School System,9000016,,59.9,race,Black or African American,W. F. Kaynor Technical High School,9002316
+44.8,76.9,58.1,80.0,57.4,83.9,52.3,91.3,59.5,84.0,Connecticut Technical High School System,9000016,,57.4,race,Hispanic or Latino,W. F. Kaynor Technical High School,9002316
+43.6,64.7,38.8,83.9,52.9,84.4,50.5,87.0,49.5,83.0,Connecticut Technical High School System,9000016,,49.5,race,White,W. F. Kaynor Technical High School,9002316
+61.8,76.2,,*,52.6,75.0,,*,64.0,*,Connecticut Technical High School System,9000016,,61.8,race,Hispanic or Latino,Windham Technical High School,9002416
+49.4,76.3,45.2,73.8,41.2,82.9,35.6,72.2,35.4,77.1,Connecticut Technical High School System,9000016,,41.2,race,White,Windham Technical High School,9002416
+,92.9,73.5,96.0,,*,87.9,96.6,81.4,91.4,Norwich Free Academy District,9010022,G,81.4,race,Asian,Norwich Free Academy,9016122
+59.7,76.7,61.0,86.1,56.5,*,53.8,71.4,57.6,86.8,Norwich Free Academy District,9010022,G,57.6,race,Black or African American,Norwich Free Academy,9016122
+71.4,87.5,68.4,79.5,58.9,75.8,69.0,79.6,68.4,76.9,Norwich Free Academy District,9010022,G,68.4,race,Hispanic or Latino,Norwich Free Academy,9016122
+,,,*,,*,75.0,85.7,,*,Norwich Free Academy District,9010022,G,75.0,race,Native Hawaiian or Other Pacific Islander,Norwich Free Academy,9016122
+,,,*,59.1,82.1,,*,,,Norwich Free Academy District,9010022,G,59.1,race,Two or More Races,Norwich Free Academy,9016122
+76.0,88.0,75.8,89.0,75.8,87.0,77.3,88.0,73.2,90.7,Norwich Free Academy District,9010022,G,75.8,race,White,Norwich Free Academy,9016122
+79.8,73.3,82.4,90.5,65.3,80.9,74.1,76.7,69.5,75.6,The Gilbert School District,9020022,G,74.1,race,White,The Gilbert School,9026122
+,*,,*,,*,,*,70.0,95.2,Woodstock Academy District,9030022,E,70.0,race,Asian,Woodstock Academy,9036122
+83.1,89.6,79.8,89.9,78.3,90.3,81.0,91.3,79.1,90.8,Woodstock Academy District,9030022,E,79.8,race,White,Woodstock Academy,9036122
+,,,,,,,,63.9,82.6,Learn,2450014,,63.9,race,Black or African American,Connecticut River Academy,2456014
+,,,,,,,,71.4,*,Learn,2450014,,71.4,race,Hispanic or Latino,Connecticut River Academy,2456014
+,,,,,,,*,78.6,90.9,Learn,2450014,,78.6,race,White,Connecticut River Academy,2456014
+67.1,88.0,61.0,87.2,62.1,85.2,58.0,78.2,59.4,78.5,Ansonia School District,0020011,H,61.0,all,All,Ansonia High School,0026111
+81.8,96.9,84.3,95.2,86.4,95.0,86.8,94.2,88.2,95.0,Avon School District,0040011,B,86.4,all,All,Avon High School,0046111
+75.7,94.4,83.5,92.3,81.7,93.2,82.5,95.8,88.1,92.0,Berlin School District,0070011,D,82.5,all,All,Berlin High School,0076111
+78.3,89.4,81.1,90.7,77.9,92.8,70.6,91.3,77.7,85.6,Bethel School District,0090011,D,77.9,all,All,Bethel High School,0096111
+66.0,79.4,76.3,84.9,66.2,74.5,68.2,84.1,73.2,81.1,Bloomfield School District,0110011,G,68.2,all,All,Bloomfield High School,0116111
+,,,,,,56.3,*,73.1,*,Bloomfield School District,0110011,G,64.7,all,All,Global Experience Magnet School,0116311
+86.4,93.0,88.2,93.3,87.9,93.1,88.8,94.4,84.4,92.6,Bolton School District,0120011,C,87.9,all,All,Bolton High School,0126111
+79.4,95.2,78.0,90.9,78.3,88.0,76.2,89.7,73.0,92.2,Branford School District,0140011,D,78.0,all,All,Branford High School,0146111
+52.8,68.9,45.1,71.3,44.9,77.5,50.9,67.6,41.7,71.0,Bridgeport School District,0150011,I,45.1,all,All,Bassick High School,0156111
+64.5,84.7,66.0,81.8,63.7,84.0,64.6,82.0,61.8,83.0,Bridgeport School District,0150011,I,64.5,all,All,Central High School,0156211
+49.8,77.7,51.9,74.8,46.8,77.1,44.4,70.8,46.1,78.3,Bridgeport School District,0150011,I,46.8,all,All,Harding High School,0156311
+66.8,85.4,66.2,86.9,62.7,90.1,65.8,86.6,63.4,87.4,Bristol School District,0170011,G,65.8,all,All,Bristol Central High School,0176111
+72.3,88.0,71.7,83.2,66.2,92.4,65.9,85.6,67.0,90.3,Bristol School District,0170011,G,67.0,all,All,Bristol Eastern High School,0176211
+85.3,91.9,79.3,89.7,83.7,91.9,89.0,94.3,85.5,93.3,Brookfield School District,0180011,B,85.3,all,All,Brookfield High School,0186111
+82.0,89.9,73.0,91.7,82.8,94.8,78.8,92.5,77.6,89.4,Canton School District,0230011,C,78.8,all,All,Canton High School,0236111
+86.9,95.0,89.0,94.6,88.7,95.2,85.9,95.4,84.7,93.9,Cheshire School District,0250011,B,86.9,all,All,Cheshire High School,0256111
+75.7,90.6,70.2,87.9,67.8,96.3,76.2,90.9,75.8,91.8,Clinton School District,0270011,D,75.7,all,All,The Morgan School,0276111
+77.8,89.0,80.2,88.1,78.2,85.5,75.9,87.4,78.4,91.1,Colchester School District,0280011,D,78.2,all,All,Bacon Academy,0286111
+73.0,88.9,65.8,89.6,67.4,82.8,71.5,89.2,71.1,91.2,Coventry School District,0320011,E,71.1,all,All,Coventry High School,0326111
+75.5,86.1,79.2,90.5,78.1,88.8,80.5,91.6,78.5,93.1,Cromwell School District,0330011,D,78.5,all,All,Cromwell High School,0336111
+,*,,*,,*,,*,30.0,*,Danbury School District,0340011,H,30.0,all,All,Alternative Center For Excellence,0346211
+68.5,90.7,69.5,89.0,70.4,87.1,71.3,89.0,68.0,87.4,Danbury School District,0340011,H,69.5,all,All,Danbury High School,0346111
+83.2,94.3,81.6,96.1,86.6,97.3,90.2,97.8,89.3,96.9,Darien School District,0350011,A,86.6,all,All,Darien High School,0356111
+53.5,80.4,60.0,92.6,62.2,87.5,68.8,84.1,54.5,72.2,Derby School District,0370011,H,60.0,all,All,Derby High School,0376111
+93.5,93.0,82.7,93.5,76.7,91.3,67.6,89.1,80.0,83.3,East Granby School District,0400011,D,80.0,all,All,East Granby High School,0406111
+80.2,84.7,66.7,94.8,77.2,91.5,81.1,88.3,62.9,88.5,East Haddam School District,0410011,E,77.2,all,All,Nathan Hale-Ray High School,0416111
+80.0,84.8,79.1,87.3,69.3,84.9,81.0,90.2,82.9,91.8,East Hampton School District,0420011,D,80.0,all,All,East Hampton High School,0426111
+82.1,95.7,81.8,85.2,100.0,100.0,94.6,100.0,95.6,95.3,East Hartford School District,0430011,H,94.6,all,All,Connecticut IB Academy,0436311
+63.7,85.9,63.8,78.4,68.8,81.3,64.0,77.9,63.8,72.3,East Hartford School District,0430011,H,63.8,all,All,East Hartford High School,0436211
+24.6,*,23.9,*,19.4,*,27.2,28.0,20.8,*,East Hartford School District,0430011,H,23.9,all,All,Stevens Alternate High school,0436411
+62.8,90.3,70.0,87.2,72.2,88.5,69.3,85.0,65.6,86.0,East Haven School District,0440011,G,69.3,all,All,East Haven High School,0446111
+85.4,91.4,82.1,90.5,81.8,88.0,84.8,94.4,85.3,93.2,East Lyme School District,0450011,D,84.8,all,All,East Lyme High School,0456111
+63.3,82.3,58.8,89.4,61.3,85.7,59.8,95.9,63.0,85.7,East Windsor School District,0470011,F,61.3,all,All,East Windsor High School,0476111
+84.7,89.0,83.6,92.3,79.0,93.2,83.6,92.8,71.9,87.0,Ellington School District,0480011,C,83.6,all,All,Ellington High School,0486111
+74.2,82.3,77.9,91.6,69.3,90.2,63.8,80.4,71.2,77.6,Enfield School District,0490011,F,71.2,all,All,Enfield High School,0496111
+79.2,86.4,73.4,85.3,69.8,88.5,70.3,86.1,70.6,83.4,Enfield School District,0490011,F,70.6,all,All,Enrico Fermi High School,0496211
+85.1,95.0,81.6,96.0,85.2,91.3,84.3,94.9,83.3,93.2,Fairfield School District,0510011,B,84.3,all,All,Fairfield Ludlowe High School,0516011
+82.0,91.4,81.3,93.2,83.2,94.8,86.2,94.7,81.6,96.8,Fairfield School District,0510011,B,82.0,all,All,Fairfield Warde High School,0516211
+82.8,93.0,84.0,94.0,84.8,93.5,87.8,94.9,85.4,91.6,Farmington School District,0520011,B,84.8,all,All,Farmington High School,0526111
+84.6,94.9,83.9,96.2,88.1,95.2,88.0,96.2,85.6,95.0,Glastonbury School District,0540011,B,85.6,all,All,Glastonbury High School,0546111
+77.1,91.3,88.8,91.0,82.5,90.4,90.5,91.8,86.9,97.1,Granby School District,0560011,B,86.9,all,All,Granby Memorial High School,0566111
+76.5,92.8,78.9,93.1,76.8,95.0,83.2,94.6,81.5,90.1,Greenwich School District,0570011,B,78.9,all,All,Greenwich High School,0576111
+64.7,79.1,67.1,81.6,57.7,87.6,69.0,76.6,63.3,76.3,Griswold School District,0580011,F,64.7,all,All,Griswold High School,0586211
+74.3,86.5,77.6,85.6,73.3,86.6,69.6,81.9,62.7,77.5,Groton School District,0590011,G,73.3,all,All,Robert E. Fitch High School,0596111
+86.8,94.2,82.1,91.5,78.4,92.3,86.3,94.7,86.6,94.4,Guilford School District,0600011,B,86.3,all,All,Guilford High School,0606111
+71.7,86.0,73.4,90.4,70.0,87.4,70.2,86.7,73.0,86.8,Hamden School District,0620011,G,71.7,all,All,Hamden High School,0626111
+50.8,72.4,49.4,70.6,47.4,68.7,44.7,72.2,31.6,75.0,Hartford School District,0640011,I,47.4,all,All,Bulkeley High School,0647111
+78.6,86.4,85.2,91.3,84.8,85.7,93.9,87.1,92.5,75.5,Hartford School District,0640011,I,85.2,all,All,Capital Preparatory Magnet School,0646911
+84.6,92.7,81.9,91.2,86.6,85.9,90.5,94.7,90.1,90.4,Hartford School District,0640011,I,86.6,all,All,Classical Magnet School,0646411
+45.1,65.6,41.0,64.0,26.7,*,41.3,*,34.7,38.5,Hartford School District,0640011,I,41.0,all,All,Culinary Arts Academy,0646011
+,,,,,,77.3,80.4,79.2,76.2,Hartford School District,0640011,I,78.25,all,All,Great Path Academy High School at MCC,0647911
+45.1,48.8,44.3,79.1,34.4,75.8,34.4,74.2,47.6,60.0,Hartford School District,0640011,I,44.3,all,All,HPHS Academy of Engineering and Green Technology,0647211
+52.0,64.2,50.9,67.3,49.5,71.7,53.8,77.2,56.3,59.3,Hartford School District,0640011,I,52.0,all,All,HPHS Academy of Nursing and Health Science,0647511
+49.3,84.8,58.5,75.0,61.4,74.1,49.1,74.1,47.2,68.0,Hartford School District,0640011,I,49.3,all,All,HPHS Law and Government Academy,0647411
+,,,,64.0,*,72.5,67.2,50.0,81.5,Hartford School District,0640011,I,64.0,all,All,"High School, Inc.",0647611
+,,,,45.9,70.6,53.8,78.6,50.0,57.1,Hartford School District,0640011,I,50.0,all,All,Journalism and Media Academy Magnet School,0647711
+,*,38.1,*,30.2,*,32.0,*,34.3,*,Hartford School District,0640011,I,33.15,all,All,OPPortunity High School,0647811
+69.6,74.5,77.9,83.6,61.3,87.8,71.2,85.1,62.1,75.6,Hartford School District,0640011,I,69.6,all,All,Pathways Academy of Technology and Design,0646611
+76.3,89.7,67.0,84.6,73.7,84.9,83.0,74.0,75.5,78.9,Hartford School District,0640011,I,75.5,all,All,Sports and Medical Sciences Academy,0646511
+83.6,93.5,82.9,87.9,83.1,84.4,88.2,92.7,84.2,84.4,Hartford School District,0640011,I,83.6,all,All,University High School of Science and Engineering,0646711
+48.2,79.1,39.7,67.3,,,,,,,Hartford School District,0640011,I,43.95,all,All,Weaver High School,0646311
+67.3,82.9,51.0,82.4,65.2,80.2,60.1,79.8,63.7,82.5,Killingly School District,0690011,G,63.7,all,All,Killingly High School,0696111
+69.4,95.2,70.7,87.5,73.5,86.0,77.3,88.2,72.8,89.6,Lebanon School District,0710011,E,72.8,all,All,Lyman Memorial High School,0716211
+75.8,86.6,67.5,83.9,73.1,83.0,77.4,90.2,75.6,88.8,Ledyard School District,0720011,D,75.6,all,All,Ledyard High School,0726111
+79.2,85.7,83.9,87.7,81.4,92.8,71.3,88.7,85.9,89.1,Litchfield School District,0740011,E,81.4,all,All,Litchfield High School,0746111
+83.9,93.7,85.7,96.2,88.7,96.5,86.8,96.8,88.2,96.4,Madison School District,0760011,B,86.8,all,All,Daniel Hand High School,0766111
+70.9,89.0,67.2,85.6,69.4,83.0,68.3,82.0,59.3,80.3,Manchester School District,0770011,G,68.3,all,All,Manchester High School,0776111
+64.1,80.4,65.2,79.8,56.1,83.1,62.5,82.7,58.7,87.8,Meriden School District,0800011,H,62.5,all,All,Francis T. Maloney High School,0806111
+53.7,79.5,59.6,78.5,53.7,84.6,54.6,74.8,61.6,76.5,Meriden School District,0800011,H,54.6,all,All,Orville H. Platt High School,0806211
+67.9,85.4,72.7,86.5,69.0,87.2,65.3,87.9,71.2,88.6,Middletown School District,0830011,G,69.0,all,All,Middletown High School,0836211
+70.4,88.4,73.4,94.5,71.1,90.7,67.5,88.3,68.6,92.6,Milford School District,0840011,D,70.4,all,All,Jonathan Law High School,0846211
+77.3,91.5,80.1,92.9,76.2,89.9,78.0,87.2,78.9,92.3,Milford School District,0840011,D,78.0,all,All,Joseph A. Foran High School,0846311
+85.2,92.1,84.2,96.1,85.2,96.2,83.3,91.3,82.7,92.6,Monroe School District,0850011,B,84.2,all,All,Masuk High School,0856111
+75.9,82.1,73.4,82.7,66.3,85.9,69.6,89.1,64.1,87.2,Montville School District,0860011,F,69.6,all,All,Montville High School,0866111
+59.0,85.8,67.4,89.1,64.8,87.9,68.4,83.9,63.3,88.5,Naugatuck School District,0880011,G,64.8,all,All,Naugatuck High School,0886111
+55.4,78.9,57.6,79.8,57.3,79.1,57.2,76.7,62.0,79.1,New Britain School District,0890011,I,57.3,all,All,New Britain High School,0896111
+81.0,94.0,78.8,95.9,86.7,95.7,87.0,96.9,87.8,94.9,New Canaan School District,0900011,A,86.7,all,All,New Canaan High School,0906111
+81.7,88.6,80.3,91.3,84.5,92.4,83.5,92.8,84.2,94.4,New Fairfield School District,0910011,B,83.5,all,All,New Fairfield High School,0916111
+59.8,75.9,69.1,72.3,73.4,86.8,73.8,82.2,74.7,75.4,New Haven School District,0930011,I,73.4,all,All,Cooperative High School,0936411
+57.6,63.2,65.5,80.6,57.8,80.8,47.7,85.7,69.4,84.0,New Haven School District,0930011,I,57.8,all,All,High School In The Community,0936611
+75.8,85.3,80.7,86.8,82.9,85.3,77.6,82.0,77.3,81.5,New Haven School District,0930011,I,77.6,all,All,Hill Regional Career High School,0936311
+69.4,76.0,66.7,90.9,57.1,75.0,61.3,*,71.4,60.0,New Haven School District,0930011,I,66.7,all,All,"Hyde School of Health, Science and Sports Medicine",0936811
+58.9,68.5,61.1,78.8,59.5,77.7,55.5,77.4,61.1,73.4,New Haven School District,0930011,I,59.5,all,All,James Hillhouse High School,0936211
+65.5,*,62.5,60.0,75.7,64.3,60.0,77.1,68.6,67.8,New Haven School District,0930011,I,65.5,all,All,Metropolitan Business Academy,0936011
+72.2,84.6,66.0,87.9,72.7,70.8,73.2,75.6,74.2,80.4,New Haven School District,0930011,I,72.7,all,All,New Haven Academy,0937011
+15.2,*,38.3,*,26.5,*,44.0,*,40.0,*,New Haven School District,0930011,I,38.3,all,All,Riverside Education Academy,0939111
+62.2,78.6,72.7,77.5,76.3,73.8,70.3,75.0,75.0,90.0,New Haven School District,0930011,I,72.7,all,All,Sound School,0936711
+56.8,73.7,51.8,65.7,53.4,76.1,54.3,75.6,54.2,71.1,New Haven School District,0930011,I,54.2,all,All,Wilbur Cross High School,0936111
+78.6,90.2,82.5,89.4,78.9,93.3,77.5,92.2,80.7,91.8,Newington School District,0940011,D,78.9,all,All,Newington High School,0946111
+52.6,67.5,56.5,79.0,63.9,68.9,56.4,75.2,57.8,73.1,New London School District,0950011,I,56.5,all,All,New London High School,0956111
+77.0,88.5,74.6,91.7,81.4,91.3,75.2,93.2,78.0,93.4,New Milford School District,0960011,D,77.0,all,All,New Milford High School,0966111
+83.0,93.4,85.4,90.9,83.3,93.6,85.1,91.9,85.5,95.2,Newtown School District,0970011,B,85.1,all,All,Newtown High School,0976111
+81.6,94.2,79.7,93.3,80.1,94.2,79.9,93.1,73.2,87.1,North Branford School District,0990011,E,79.9,all,All,North Branford High School,0996111
+81.8,90.9,81.5,92.3,80.0,94.9,81.1,91.6,78.8,91.3,North Haven School District,1010011,D,81.1,all,All,North Haven High School,1016111
+78.8,90.2,72.1,81.8,52.1,80.0,74.5,80.0,66.1,75.7,North Stonington School District,1020011,E,72.1,all,All,Wheeler High School,1026111
+71.8,87.3,74.9,90.4,74.9,88.1,77.4,92.3,75.9,85.4,Norwalk School District,1030011,H,74.9,all,All,Brien McMahon High School,1036211
+75.8,89.9,73.9,86.7,76.0,87.9,78.5,91.8,77.5,86.5,Norwalk School District,1030011,H,76.0,all,All,Norwalk High School,1036111
+44.1,*,39.4,*,,*,,*,44.8,*,Norwalk School District,1030011,H,44.1,all,All,Norwalk Pathways Academy at Briggs,1036311
+84.0,94.0,88.5,96.0,82.6,95.6,84.2,90.2,81.3,92.3,Old Saybrook School District,1060011,D,84.0,all,All,Old Saybrook Senior High School,1066111
+73.2,92.7,79.2,90.7,80.4,95.5,83.3,91.2,83.3,91.4,Oxford School District,1080011,C,80.4,all,All,Oxford High School,1086011
+61.6,80.3,57.4,84.2,51.9,75.0,48.0,75.6,67.1,75.5,Plainfield School District,1090011,G,57.4,all,All,Plainfield High School,1096111
+70.4,87.4,71.3,85.9,71.8,84.3,78.6,89.8,76.3,85.2,Plainville School District,1100011,F,71.8,all,All,Plainville High School,1106111
+65.3,88.9,61.5,81.3,59.8,86.8,60.9,85.7,75.4,88.0,Plymouth School District,1110011,F,61.5,all,All,Terryville High School,1116111
+78.4,88.4,74.1,88.3,77.6,92.4,84.1,98.6,82.5,87.1,Portland School District,1130011,E,78.4,all,All,Portland High School,1136111
+66.7,65.4,54.8,79.4,55.0,78.8,60.8,72.9,40.0,76.9,Putnam School District,1160011,G,55.0,all,All,Putnam High School,1166111
+87.2,96.3,86.0,95.0,88.9,94.6,87.9,96.3,88.5,97.0,Ridgefield School District,1180011,A,87.9,all,All,Ridgefield High School,1186111
+82.2,89.1,81.3,90.4,80.0,92.9,83.6,91.3,78.0,91.3,Rocky Hill School District,1190011,D,81.3,all,All,Rocky Hill High School,1196111
+76.6,89.4,80.0,88.3,80.0,92.9,75.8,89.9,76.0,90.5,Seymour School District,1240011,F,76.6,all,All,Seymour High School,1246111
+76.3,89.7,75.4,91.2,75.6,91.9,80.5,88.9,76.4,91.7,Shelton School District,1260011,D,76.3,all,All,Shelton High School,1266111
+85.0,93.5,80.6,95.7,82.3,94.5,86.3,95.0,86.8,96.1,Simsbury School District,1280011,B,85.0,all,All,Simsbury High School,1286111
+81.7,94.4,78.3,92.6,78.8,95.4,81.9,94.1,81.4,98.1,Somers School District,1290011,C,81.4,all,All,Somers High School,1296111
+79.6,89.3,80.7,89.5,77.7,90.4,78.8,89.0,78.4,89.6,Southington School District,1310011,D,78.8,all,All,Southington High School,1316211
+84.6,93.3,83.1,91.8,85.5,92.3,82.3,93.0,86.4,92.7,South Windsor School District,1320011,B,84.6,all,All,South Windsor High School,1326211
+71.1,89.9,66.4,90.7,54.9,82.1,67.8,87.2,60.6,81.9,Stafford School District,1340011,F,66.4,all,All,Stafford High School,1346111
+71.6,88.4,73.5,86.6,74.9,89.6,73.9,88.0,76.8,88.5,Stamford School District,1350011,H,73.9,all,All,Stamford High School,1356111
+75.4,86.7,84.3,92.9,82.8,89.6,85.3,96.4,85.4,92.9,Stamford School District,1350011,H,84.3,all,All,The Academy of Information Technology,1356411
+67.1,89.1,70.2,88.7,72.7,91.6,71.7,89.7,71.0,85.2,Stamford School District,1350011,H,71.0,all,All,Westhill High School,1356311
+72.4,89.6,82.1,91.3,70.9,88.5,76.8,89.7,73.4,95.2,Stonington School District,1370011,D,73.4,all,All,Stonington High School,1376111
+74.2,89.0,75.9,88.4,76.4,88.4,78.2,90.4,77.2,89.0,Stratford School District,1380011,G,76.4,all,All,Bunnell High School,1386211
+65.1,83.9,71.5,82.4,68.7,86.1,68.5,89.1,71.7,87.7,Stratford School District,1380011,G,68.7,all,All,Stratford High School,1386111
+82.3,92.8,82.4,89.9,78.5,88.7,82.1,94.7,82.6,96.5,Suffield School District,1390011,C,82.3,all,All,Suffield High School,1396111
+68.4,90.8,70.4,88.4,66.3,80.0,64.9,89.6,80.0,85.7,Thomaston School District,1400011,E,68.4,all,All,Thomaston High School,1406211
+64.8,78.0,64.7,87.3,65.9,84.5,61.0,90.0,60.0,81.3,Thompson School District,1410011,F,64.7,all,All,Tourtellotte Memorial High School,1416111
+79.8,91.8,84.1,88.6,82.7,92.5,77.2,94.2,88.4,90.6,Tolland School District,1420011,C,82.7,all,All,Tolland High School,1426111
+63.2,88.4,68.2,87.0,62.1,83.1,60.2,89.4,62.7,82.2,Torrington School District,1430011,G,62.7,all,All,Torrington High School,1436111
+85.1,93.2,82.9,93.2,86.8,94.8,84.8,92.9,87.0,93.4,Trumbull School District,1440011,B,85.1,all,All,Trumbull High School,1446111
+72.1,85.1,68.7,85.6,72.1,83.4,67.5,86.3,67.7,88.2,Vernon School District,1460011,G,68.7,all,All,Rockville High School,1466111
+72.0,89.6,70.0,91.5,75.1,89.1,72.1,88.0,70.5,90.0,Wallingford School District,1480011,D,72.0,all,All,Lyman Hall High School,1486111
+76.7,88.3,77.0,93.7,80.0,89.4,80.5,95.5,69.9,90.8,Wallingford School District,1480011,D,77.0,all,All,Mark T. Sheehan High School,1486211
+51.5,80.5,53.5,77.4,52.7,81.5,53.1,76.0,58.7,73.7,Waterbury School District,1510011,I,53.1,all,All,Crosby High School,1516211
+57.4,79.7,63.5,84.2,58.7,79.1,61.5,78.0,56.1,81.6,Waterbury School District,1510011,I,58.7,all,All,John F. Kennedy High School,1516411
+69.4,82.7,72.8,89.2,87.4,85.6,70.7,87.7,76.7,83.7,Waterbury School District,1510011,I,72.8,all,All,Waterbury Arts Magnet School (High),1516011
+48.8,75.4,46.6,71.6,43.9,68.5,46.7,73.9,52.7,63.0,Waterbury School District,1510011,I,46.7,all,All,Wilby High School,1516311
+78.5,85.1,79.7,83.0,74.3,86.7,71.2,83.2,82.6,93.6,Waterford School District,1520011,D,78.5,all,All,Waterford High School,1526111
+70.8,88.9,74.5,86.6,74.0,89.5,80.7,90.5,76.7,92.9,Watertown School District,1530011,D,74.5,all,All,Watertown High School,1536111
+72.0,94.4,80.6,91.4,78.7,91.5,70.5,85.5,80.3,84.2,Westbrook School District,1540011,E,78.7,all,All,Westbrook High School,1546111
+85.6,92.4,83.7,92.7,81.3,90.7,85.7,93.7,83.2,90.1,West Hartford School District,1550011,B,83.7,all,All,Conard High School,1556111
+85.2,94.0,82.4,92.2,80.2,92.5,86.2,92.8,84.9,92.7,West Hartford School District,1550011,B,84.9,all,All,Hall High School,1556211
+70.4,83.0,66.6,84.2,65.0,82.4,62.8,80.9,63.9,87.9,West Haven School District,1560011,H,65.0,all,All,West Haven High School,1566111
+88.8,97.8,87.5,97.0,86.2,93.2,90.1,97.3,90.9,96.9,Weston School District,1570011,A,88.8,all,All,Weston High School,1576111
+84.4,96.7,79.0,96.2,85.5,96.4,88.5,97.3,90.8,96.5,Westport School District,1580011,A,85.5,all,All,Staples High School,1586111
+83.3,91.9,79.2,89.5,85.9,93.1,86.6,90.6,81.4,93.6,Wethersfield School District,1590011,D,83.3,all,All,Wethersfield High School,1596111
+85.8,96.6,87.5,96.6,89.4,97.1,85.8,96.7,87.7,96.9,Wilton School District,1610011,A,87.5,all,All,Wilton High School,1616111
+61.5,77.5,61.2,81.7,55.0,75.9,59.6,74.5,53.6,75.7,Windham School District,1630011,I,59.6,all,All,Windham High School,1636111
+71.1,87.6,72.7,85.0,69.8,83.7,75.7,90.0,76.9,83.7,Windsor School District,1640011,D,72.7,all,All,Windsor High School,1646111
+67.9,87.9,61.0,91.7,65.9,85.4,64.4,92.9,69.3,83.0,Windsor Locks School District,1650011,F,65.9,all,All,Windsor Locks High School,1656111
+75.4,93.5,74.1,89.4,81.0,87.7,78.2,90.9,76.9,89.1,Wolcott School District,1660011,F,76.9,all,All,Wolcott High School,1666111
+63.0,88.9,59.8,91.8,62.4,88.0,54.5,94.5,66.7,87.5,Regional School District 01,2010012,E,62.4,all,All,Housatonic Valley Regional High School,2016112
+72.7,86.1,69.3,92.3,74.0,91.0,75.6,89.8,77.3,93.1,Regional School District 04,2040012,C,74.0,all,All,Valley Regional High School,2046112
+87.1,96.2,83.1,94.7,83.2,93.4,88.0,94.3,86.5,95.5,Regional School District 05,2050012,B,86.5,all,All,Amity Regional High School,2056112
+66.7,94.2,72.5,89.4,76.2,89.1,71.7,89.4,79.1,88.2,Regional School District 06,2060012,E,72.5,all,All,Wamogo Regional High School,2066112
+81.8,88.2,73.8,91.9,73.3,86.8,72.4,88.6,77.4,87.5,Regional School District 07,2070012,C,73.8,all,All,Northwestern Regional High School,2076112
+83.6,96.1,84.7,93.3,86.4,93.8,79.3,95.3,83.2,95.2,Regional School District 08,2080012,C,83.6,all,All,RHAM High School,2086112
+85.7,92.4,81.1,93.0,82.9,94.8,87.1,95.4,86.1,95.7,Regional School District 09,2090012,A,85.7,all,All,Joel Barlow High School,2096112
+83.1,88.9,82.7,93.0,80.7,86.7,81.4,92.8,81.1,93.0,Regional School District 10,2100012,C,81.4,all,All,Lewis S. Mills High School,2106112
+80.0,85.7,71.4,100.0,57.1,83.3,69.4,80.0,73.5,84.0,Regional School District 11,2110012,F,71.4,all,All,Parish Hill High School,2116112
+76.0,87.7,67.9,85.5,71.9,89.1,81.0,92.2,,,Regional School District 12,2120012,C,73.95,all,All,Shepaug Valley High School,2126112
+,,,,,,,,67.1,92.5,Regional School District 12,2120012,C,67.1,all,All,Shepaug Valley School,2120312
+89.0,94.6,88.5,94.8,77.7,89.8,86.0,87.8,83.7,95.4,Regional School District 13,2130012,C,86.0,all,All,Coginchaug Regional High School,2136112
+78.0,92.9,80.0,89.3,71.2,93.4,85.8,88.5,81.3,91.7,Regional School District 14,2140012,C,80.0,all,All,Nonnewaug High School,2146112
+86.3,93.6,82.8,94.4,83.1,94.7,81.8,93.7,82.6,91.1,Regional School District 15,2150012,B,82.8,all,All,Pomperaug Regional High School,2156212
+78.2,89.0,75.8,88.9,71.9,90.2,79.1,94.3,75.9,89.4,Regional School District 16,2160012,E,75.9,all,All,Woodland Regional High School,2166012
+87.0,89.6,74.6,90.5,80.0,92.4,83.5,92.4,84.7,90.6,Regional School District 17,2170012,C,83.5,all,All,Haddam-Killingworth High School,2176112
+75.5,94.6,75.6,85.9,78.2,92.4,80.6,95.4,91.5,92.8,Regional School District 18,2180012,C,78.2,all,All,Lyme-Old Lyme High School,2186112
+69.3,92.0,73.5,94.0,73.7,90.1,75.2,93.0,69.7,88.8,Regional School District 19,2190012,C,73.5,all,All,E. O. Smith High School,2196112
+,,,,85.0,*,82.4,89.3,83.3,88.0,Capitol Region Education Council,2410014,,83.3,all,All,Academy of Aerospace and Engineering,2415114
+77.3,72.4,68.2,74.7,73.8,79.2,,,,,Capitol Region Education Council,2410014,,73.8,all,All,Great Path Academy at MCC,2416314
+,,77.6,84.2,73.0,73.8,75.3,83.6,84.0,76.5,Capitol Region Education Council,2410014,,76.45,all,All,Greater Hartford Academy of  the Arts High School - Full Time,2416414
+,,,,,,,,81.4,85.7,Capitol Region Education Council,2410014,,81.4,all,All,Medical Professions and Teacher Preparation Academy,2416514
+78.8,86.6,81.1,87.0,86.1,82.3,82.8,86.1,84.8,87.2,Capitol Region Education Council,2410014,,82.8,all,All,Metropolitan Learning Center for Global and International Studies,2416114
+,,,,,*,,*,73.7,64.3,Capitol Region Education Council,2410014,,73.7,all,All,Public Safety Academy,2415214
+,,,*,78.1,76.0,79.2,*,66.7,77.3,Eastern Connecticut Regional Educational Service Center (EASTCONN),2530014,,78.1,all,All,Arts at the Capitol Theater Magnet School (ACT),2536014
+,*,51.5,*,35.1,*,42.9,*,34.8,*,Eastern Connecticut Regional Educational Service Center (EASTCONN),2530014,,39.0,all,All,Quinebaug Middle College,2536114
+65.5,*,51.4,*,66.7,60.0,62.9,81.8,65.5,*,Common Ground High School District,2680013,,65.5,all,All,Common Ground High School,2686113
+48.4,*,79.3,78.3,69.4,80.0,75.8,60.0,87.5,82.1,The Bridge Academy District,2690013,,75.8,all,All,The Bridge Academy,2696113
+44.8,*,32.0,*,,*,34.8,*,,*,Explorations District,2720013,,34.8,all,All,Explorations,2726113
+90.9,85.0,90.5,*,,*,85.7,*,69.6,*,Amistad Academy District,2790013,,88.1,all,All,Amistad Academy,2795113
+37.5,*,45.5,*,33.3,*,,*,24.0,*,Stamford Academy District,2820013,,35.4,all,All,Stamford Academy,2826013
+55.2,71.6,54.3,69.7,55.1,74.4,52.6,76.3,60.1,62.6,Connecticut Technical High School System,9000016,,55.1,all,All,A. I. Prince Technical High School,9001516
+49.3,76.9,60.1,81.8,61.5,81.7,62.4,73.7,54.7,86.0,Connecticut Technical High School System,9000016,,60.1,all,All,Bullard-Havens Technical High School,9001116
+41.0,55.9,36.0,75.0,41.3,54.0,45.2,66.1,46.4,57.8,Connecticut Technical High School System,9000016,,41.3,all,All,E. C. Goodwin Technical High School,9001916
+36.9,80.6,46.0,71.7,56.5,64.6,33.0,48.5,32.4,67.6,Connecticut Technical High School System,9000016,,36.9,all,All,Eli Whitney Technical High School,9001416
+47.7,66.7,37.5,66.7,36.3,71.7,43.1,77.4,40.2,65.3,Connecticut Technical High School System,9000016,,40.2,all,All,Ella T. Grasso Southeastern Technical High School,9002716
+35.2,71.1,45.1,74.5,43.1,67.9,41.7,87.5,46.3,70.2,Connecticut Technical High School System,9000016,,43.1,all,All,Emmett O'Brien Technical High School,9002516
+46.8,80.8,40.7,76.4,48.5,77.3,50.8,82.2,44.2,71.1,Connecticut Technical High School System,9000016,,46.8,all,All,H. C. Wilcox Technical High School,9001716
+29.4,75.7,33.9,69.2,28.6,69.4,34.5,59.0,27.1,72.4,Connecticut Technical High School System,9000016,,29.4,all,All,H. H. Ellis Technical High School,9001316
+41.7,81.0,42.4,78.1,40.8,75.0,42.7,72.1,50.4,85.7,Connecticut Technical High School System,9000016,,42.4,all,All,Henry Abbott Technical High School,9001216
+41.7,67.9,42.9,86.0,40.7,71.9,49.7,79.3,50.3,75.6,Connecticut Technical High School System,9000016,,42.9,all,All,Howell Cheney Technical High School,9001616
+40.4,71.1,39.1,72.1,33.8,68.0,42.1,62.5,43.0,70.8,Connecticut Technical High School System,9000016,,40.4,all,All,Norwich Technical High School,9002016
+47.8,79.3,42.7,71.1,40.6,72.3,43.0,71.8,47.1,81.8,Connecticut Technical High School System,9000016,,43.0,all,All,Oliver Wolcott Technical High School,9002216
+47.1,78.6,42.9,82.9,53.8,85.1,45.4,84.9,51.7,87.7,Connecticut Technical High School System,9000016,,47.1,all,All,Platt Technical High School,9002616
+34.7,74.4,33.6,71.4,35.2,77.3,43.6,72.4,40.7,76.4,Connecticut Technical High School System,9000016,,35.2,all,All,Vinal Technical High School,9001816
+43.0,71.8,47.3,82.6,56.4,81.4,52.1,89.8,56.7,82.4,Connecticut Technical High School System,9000016,,52.1,all,All,W. F. Kaynor Technical High School,9002316
+53.2,76.3,44.2,71.7,48.5,80.0,44.6,75.9,41.4,77.4,Connecticut Technical High School System,9000016,,44.6,all,All,Windham Technical High School,9002416
+73.2,86.9,73.0,87.7,71.5,85.9,73.1,86.2,70.2,88.1,Norwich Free Academy District,9010022,G,73.0,all,All,Norwich Free Academy,9016122
+79.4,72.9,83.1,91.8,69.0,79.3,74.3,78.8,66.2,76.5,The Gilbert School District,9020022,G,74.3,all,All,The Gilbert School,9026122
+81.8,89.5,80.1,89.4,77.1,90.1,79.0,90.7,77.4,90.7,Woodstock Academy District,9030022,E,79.0,all,All,Woodstock Academy,9036122
+,,,,,,,*,70.8,84.1,Learn,2450014,,70.8,all,All,Connecticut River Academy,2456014
+,,,,,,,,78.3,*,Learn,2450014,,78.3,all,All,Marine Science Magnet High School of Southeastern Connecticut,2456114
+,,,,,,,*,67.7,61.9,Learn,2450014,,67.7,all,All,Three Rivers Middle College Magnet School,2456214

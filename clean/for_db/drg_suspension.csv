@@ -1,0 +1,361 @@
+drg,year,race,count,pct
+A,2011-12,All,391.0,2.15
+A,2011-12,American Indian or Alaska Native,0.0,
+A,2011-12,Asian,0.0,
+A,2011-12,Black or African American,0.0,
+A,2011-12,Hispanic/Latino of any race,0.0,
+A,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+A,2011-12,Two or More Races,0.0,
+A,2011-12,White,247.0,1.9
+A,2012-13,All,249.0,2.2
+A,2012-13,American Indian or Alaska Native,0.0,
+A,2012-13,Asian,0.0,
+A,2012-13,Black or African American,0.0,
+A,2012-13,Hispanic/Latino of any race,0.0,
+A,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+A,2012-13,Two or More Races,0.0,
+A,2012-13,White,147.0,2.1
+A,2013-14,All,362.0,1.85
+A,2013-14,American Indian or Alaska Native,0.0,
+A,2013-14,Asian,0.0,
+A,2013-14,Black or African American,0.0,
+A,2013-14,Hispanic/Latino of any race,0.0,
+A,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+A,2013-14,Two or More Races,0.0,
+A,2013-14,White,229.0,1.8
+A,2014-15,All,317.0,2.1
+A,2014-15,American Indian or Alaska Native,0.0,
+A,2014-15,Asian,0.0,
+A,2014-15,Black or African American,0.0,
+A,2014-15,Hispanic/Latino of any race,7.0,8.5
+A,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+A,2014-15,Two or More Races,0.0,
+A,2014-15,White,177.0,1.9
+A,2015-16,All,323.0,2.1
+A,2015-16,American Indian or Alaska Native,0.0,
+A,2015-16,Asian,0.0,
+A,2015-16,Black or African American,0.0,
+A,2015-16,Hispanic/Latino of any race,0.0,
+A,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+A,2015-16,Two or More Races,0.0,
+A,2015-16,White,210.0,2.15
+B,2011-12,All,2499.0,3.4
+B,2011-12,American Indian or Alaska Native,0.0,
+B,2011-12,Asian,15.0,5.15
+B,2011-12,Black or African American,146.0,19.6
+B,2011-12,Hispanic/Latino of any race,286.0,11.1
+B,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+B,2011-12,Two or More Races,0.0,
+B,2011-12,White,1505.0,3.35
+B,2012-13,All,2101.0,3.3
+B,2012-13,American Indian or Alaska Native,0.0,
+B,2012-13,Asian,6.0,4.2
+B,2012-13,Black or African American,173.0,14.8
+B,2012-13,Hispanic/Latino of any race,207.0,10.35
+B,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+B,2012-13,Two or More Races,0.0,
+B,2012-13,White,1296.0,3.2
+B,2013-14,All,1969.0,3.2
+B,2013-14,American Indian or Alaska Native,0.0,
+B,2013-14,Asian,6.0,4.4
+B,2013-14,Black or African American,166.0,18.9
+B,2013-14,Hispanic/Latino of any race,217.0,9.85
+B,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+B,2013-14,Two or More Races,0.0,
+B,2013-14,White,1097.0,2.7
+B,2014-15,All,1856.0,3.3
+B,2014-15,American Indian or Alaska Native,0.0,
+B,2014-15,Asian,0.0,
+B,2014-15,Black or African American,124.0,18.1
+B,2014-15,Hispanic/Latino of any race,246.0,10.1
+B,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+B,2014-15,Two or More Races,0.0,
+B,2014-15,White,1085.0,2.75
+B,2015-16,All,1950.0,3.0
+B,2015-16,American Indian or Alaska Native,0.0,
+B,2015-16,Asian,10.0,7.5
+B,2015-16,Black or African American,172.0,18.9
+B,2015-16,Hispanic/Latino of any race,238.0,11.85
+B,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+B,2015-16,Two or More Races,0.0,
+B,2015-16,White,1097.0,3.2
+C,2011-12,All,1399.0,5.2
+C,2011-12,American Indian or Alaska Native,0.0,
+C,2011-12,Asian,0.0,
+C,2011-12,Black or African American,16.0,39.1
+C,2011-12,Hispanic/Latino of any race,31.0,32.4
+C,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+C,2011-12,Two or More Races,6.0,23.1
+C,2011-12,White,856.0,5.5
+C,2012-13,All,1152.0,3.65
+C,2012-13,American Indian or Alaska Native,0.0,
+C,2012-13,Asian,0.0,
+C,2012-13,Black or African American,28.0,32.0
+C,2012-13,Hispanic/Latino of any race,15.0,15.35
+C,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+C,2012-13,Two or More Races,0.0,
+C,2012-13,White,715.0,4.0
+C,2013-14,All,1032.0,3.3
+C,2013-14,American Indian or Alaska Native,0.0,
+C,2013-14,Asian,0.0,
+C,2013-14,Black or African American,8.0,29.6
+C,2013-14,Hispanic/Latino of any race,0.0,
+C,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+C,2013-14,Two or More Races,0.0,
+C,2013-14,White,632.0,4.35
+C,2014-15,All,962.0,4.4
+C,2014-15,American Indian or Alaska Native,0.0,
+C,2014-15,Asian,0.0,
+C,2014-15,Black or African American,16.0,26.7
+C,2014-15,Hispanic/Latino of any race,15.0,22.55
+C,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+C,2014-15,Two or More Races,6.0,23.1
+C,2014-15,White,681.0,4.1
+C,2015-16,All,1084.0,4.3
+C,2015-16,American Indian or Alaska Native,0.0,
+C,2015-16,Asian,0.0,
+C,2015-16,Black or African American,22.0,27.1
+C,2015-16,Hispanic/Latino of any race,28.0,19.4
+C,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+C,2015-16,Two or More Races,0.0,
+C,2015-16,White,718.0,4.3
+D,2011-12,All,4623.0,6.8
+D,2011-12,American Indian or Alaska Native,10.0,22.2
+D,2011-12,Asian,15.0,15.25
+D,2011-12,Black or African American,527.0,28.85
+D,2011-12,Hispanic/Latino of any race,535.0,17.9
+D,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+D,2011-12,Two or More Races,0.0,
+D,2011-12,White,3010.0,6.8
+D,2012-13,All,4230.0,6.0
+D,2012-13,American Indian or Alaska Native,0.0,
+D,2012-13,Asian,0.0,
+D,2012-13,Black or African American,436.0,25.0
+D,2012-13,Hispanic/Latino of any race,484.0,18.5
+D,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+D,2012-13,Two or More Races,0.0,
+D,2012-13,White,2725.0,6.4
+D,2013-14,All,3945.0,5.0
+D,2013-14,American Indian or Alaska Native,0.0,
+D,2013-14,Asian,8.0,9.3
+D,2013-14,Black or African American,418.0,23.3
+D,2013-14,Hispanic/Latino of any race,479.0,16.7
+D,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+D,2013-14,Two or More Races,0.0,
+D,2013-14,White,2424.0,5.1
+D,2014-15,All,3728.0,5.6
+D,2014-15,American Indian or Alaska Native,0.0,
+D,2014-15,Asian,0.0,
+D,2014-15,Black or African American,361.0,23.35
+D,2014-15,Hispanic/Latino of any race,453.0,12.95
+D,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+D,2014-15,Two or More Races,17.0,36.05
+D,2014-15,White,2270.0,5.9
+D,2015-16,All,3666.0,6.1
+D,2015-16,American Indian or Alaska Native,20.0,5.6
+D,2015-16,Asian,0.0,
+D,2015-16,Black or African American,400.0,23.5
+D,2015-16,Hispanic/Latino of any race,440.0,12.7
+D,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+D,2015-16,Two or More Races,24.0,38.1
+D,2015-16,White,2206.0,5.9
+E,2011-12,All,1135.0,6.5
+E,2011-12,American Indian or Alaska Native,0.0,
+E,2011-12,Asian,0.0,
+E,2011-12,Black or African American,0.0,
+E,2011-12,Hispanic/Latino of any race,7.0,18.4
+E,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+E,2011-12,Two or More Races,0.0,
+E,2011-12,White,839.0,7.55
+E,2012-13,All,886.0,4.8
+E,2012-13,American Indian or Alaska Native,0.0,
+E,2012-13,Asian,0.0,
+E,2012-13,Black or African American,7.0,
+E,2012-13,Hispanic/Latino of any race,0.0,
+E,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+E,2012-13,Two or More Races,0.0,
+E,2012-13,White,606.0,6.4
+E,2013-14,All,738.0,5.6
+E,2013-14,American Indian or Alaska Native,0.0,
+E,2013-14,Asian,7.0,6.9
+E,2013-14,Black or African American,0.0,
+E,2013-14,Hispanic/Latino of any race,0.0,
+E,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+E,2013-14,Two or More Races,0.0,
+E,2013-14,White,544.0,5.25
+E,2014-15,All,804.0,4.9
+E,2014-15,American Indian or Alaska Native,0.0,
+E,2014-15,Asian,7.0,6.5
+E,2014-15,Black or African American,0.0,
+E,2014-15,Hispanic/Latino of any race,0.0,
+E,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+E,2014-15,Two or More Races,0.0,
+E,2014-15,White,538.0,5.9
+E,2015-16,All,768.0,4.65
+E,2015-16,American Indian or Alaska Native,0.0,
+E,2015-16,Asian,0.0,
+E,2015-16,Black or African American,0.0,
+E,2015-16,Hispanic/Latino of any race,6.0,26.1
+E,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+E,2015-16,Two or More Races,0.0,
+E,2015-16,White,571.0,4.7
+F,2011-12,All,2277.0,9.2
+F,2011-12,American Indian or Alaska Native,0.0,
+F,2011-12,Asian,0.0,
+F,2011-12,Black or African American,164.0,30.4
+F,2011-12,Hispanic/Latino of any race,174.0,24.2
+F,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+F,2011-12,Two or More Races,18.0,22.45
+F,2011-12,White,1649.0,9.65
+F,2012-13,All,1872.0,8.5
+F,2012-13,American Indian or Alaska Native,0.0,
+F,2012-13,Asian,0.0,
+F,2012-13,Black or African American,102.0,24.4
+F,2012-13,Hispanic/Latino of any race,159.0,20.0
+F,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+F,2012-13,Two or More Races,31.0,14.3
+F,2012-13,White,1302.0,8.5
+F,2013-14,All,1727.0,7.45
+F,2013-14,American Indian or Alaska Native,0.0,
+F,2013-14,Asian,0.0,
+F,2013-14,Black or African American,99.0,23.3
+F,2013-14,Hispanic/Latino of any race,144.0,19.25
+F,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+F,2013-14,Two or More Races,14.0,18.45
+F,2013-14,White,1143.0,7.15
+F,2014-15,All,1589.0,8.1
+F,2014-15,American Indian or Alaska Native,0.0,
+F,2014-15,Asian,0.0,
+F,2014-15,Black or African American,102.0,25.5
+F,2014-15,Hispanic/Latino of any race,170.0,17.9
+F,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+F,2014-15,Two or More Races,7.0,15.6
+F,2014-15,White,1036.0,7.95
+F,2015-16,All,1553.0,8.6
+F,2015-16,American Indian or Alaska Native,0.0,
+F,2015-16,Asian,6.0,12.8
+F,2015-16,Black or African American,107.0,32.1
+F,2015-16,Hispanic/Latino of any race,131.0,21.0
+F,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+F,2015-16,Two or More Races,25.0,17.5
+F,2015-16,White,1027.0,7.6
+G,2011-12,All,6291.0,8.5
+G,2011-12,American Indian or Alaska Native,18.0,26.45
+G,2011-12,Asian,21.0,6.8
+G,2011-12,Black or African American,1544.0,18.3
+G,2011-12,Hispanic/Latino of any race,1242.0,19.15
+G,2011-12,Native Hawaiian or Other Pacific Islander,6.0,11.3
+G,2011-12,Two or More Races,74.0,25.0
+G,2011-12,White,2765.0,8.0
+G,2012-13,All,6097.0,6.85
+G,2012-13,American Indian or Alaska Native,8.0,17.0
+G,2012-13,Asian,11.0,6.7
+G,2012-13,Black or African American,1577.0,17.95
+G,2012-13,Hispanic/Latino of any race,1125.0,17.4
+G,2012-13,Native Hawaiian or Other Pacific Islander,6.0,10.9
+G,2012-13,Two or More Races,75.0,25.0
+G,2012-13,White,2569.0,8.8
+G,2013-14,All,5580.0,5.75
+G,2013-14,American Indian or Alaska Native,0.0,
+G,2013-14,Asian,6.0,3.3
+G,2013-14,Black or African American,1321.0,19.1
+G,2013-14,Hispanic/Latino of any race,1111.0,13.6
+G,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+G,2013-14,Two or More Races,31.0,20.5
+G,2013-14,White,2205.0,8.65
+G,2014-15,All,5251.0,6.35
+G,2014-15,American Indian or Alaska Native,9.0,20.9
+G,2014-15,Asian,0.0,
+G,2014-15,Black or African American,1213.0,18.45
+G,2014-15,Hispanic/Latino of any race,1136.0,14.6
+G,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+G,2014-15,Two or More Races,53.0,21.05
+G,2014-15,White,1964.0,8.2
+G,2015-16,All,5128.0,7.5
+G,2015-16,American Indian or Alaska Native,0.0,
+G,2015-16,Asian,0.0,
+G,2015-16,Black or African American,1247.0,20.6
+G,2015-16,Hispanic/Latino of any race,1209.0,13.4
+G,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+G,2015-16,Two or More Races,73.0,21.1
+G,2015-16,White,1850.0,7.8
+H,2011-12,All,7152.0,5.8
+H,2011-12,American Indian or Alaska Native,0.0,
+H,2011-12,Asian,13.0,12.4
+H,2011-12,Black or African American,2108.0,20.8
+H,2011-12,Hispanic/Latino of any race,2767.0,12.1
+H,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+H,2011-12,Two or More Races,48.0,26.65
+H,2011-12,White,1449.0,12.1
+H,2012-13,All,6190.0,6.9
+H,2012-13,American Indian or Alaska Native,0.0,
+H,2012-13,Asian,62.0,9.2
+H,2012-13,Black or African American,1806.0,27.15
+H,2012-13,Hispanic/Latino of any race,2532.0,12.0
+H,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+H,2012-13,Two or More Races,40.0,23.95
+H,2012-13,White,1166.0,11.8
+H,2013-14,All,5348.0,6.35
+H,2013-14,American Indian or Alaska Native,0.0,
+H,2013-14,Asian,20.0,8.8
+H,2013-14,Black or African American,1596.0,15.5
+H,2013-14,Hispanic/Latino of any race,2215.0,12.65
+H,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+H,2013-14,Two or More Races,32.0,18.9
+H,2013-14,White,896.0,11.0
+H,2014-15,All,5131.0,5.45
+H,2014-15,American Indian or Alaska Native,0.0,
+H,2014-15,Asian,30.0,14.4
+H,2014-15,Black or African American,1432.0,16.8
+H,2014-15,Hispanic/Latino of any race,2092.0,9.8
+H,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+H,2014-15,Two or More Races,19.0,33.9
+H,2014-15,White,854.0,7.9
+H,2015-16,All,4569.0,5.85
+H,2015-16,American Indian or Alaska Native,0.0,
+H,2015-16,Asian,16.0,8.1
+H,2015-16,Black or African American,1348.0,19.35
+H,2015-16,Hispanic/Latino of any race,1835.0,11.2
+H,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+H,2015-16,Two or More Races,18.0,28.75
+H,2015-16,White,771.0,8.5
+I,2011-12,All,16978.0,13.5
+I,2011-12,American Indian or Alaska Native,38.0,26.1
+I,2011-12,Asian,47.0,22.65
+I,2011-12,Black or African American,6594.0,20.75
+I,2011-12,Hispanic/Latino of any race,7718.0,14.0
+I,2011-12,Native Hawaiian or Other Pacific Islander,0.0,
+I,2011-12,Two or More Races,136.0,31.1
+I,2011-12,White,985.0,14.1
+I,2012-13,All,15971.0,11.25
+I,2012-13,American Indian or Alaska Native,13.0,30.2
+I,2012-13,Asian,6.0,15.4
+I,2012-13,Black or African American,5871.0,18.7
+I,2012-13,Hispanic/Latino of any race,7539.0,14.2
+I,2012-13,Native Hawaiian or Other Pacific Islander,0.0,
+I,2012-13,Two or More Races,169.0,30.8
+I,2012-13,White,913.0,16.9
+I,2013-14,All,15919.0,12.3
+I,2013-14,American Indian or Alaska Native,0.0,
+I,2013-14,Asian,10.0,15.6
+I,2013-14,Black or African American,6073.0,20.5
+I,2013-14,Hispanic/Latino of any race,7581.0,13.2
+I,2013-14,Native Hawaiian or Other Pacific Islander,0.0,
+I,2013-14,Two or More Races,116.0,30.15
+I,2013-14,White,881.0,12.4
+I,2014-15,All,15297.0,12.2
+I,2014-15,American Indian or Alaska Native,0.0,
+I,2014-15,Asian,0.0,
+I,2014-15,Black or African American,5794.0,20.6
+I,2014-15,Hispanic/Latino of any race,7174.0,14.35
+I,2014-15,Native Hawaiian or Other Pacific Islander,0.0,
+I,2014-15,Two or More Races,130.0,25.0
+I,2014-15,White,807.0,15.25
+I,2015-16,All,14351.0,11.5
+I,2015-16,American Indian or Alaska Native,0.0,
+I,2015-16,Asian,7.0,10.0
+I,2015-16,Black or African American,5379.0,18.7
+I,2015-16,Hispanic/Latino of any race,6662.0,12.3
+I,2015-16,Native Hawaiian or Other Pacific Islander,0.0,
+I,2015-16,Two or More Races,112.0,19.4
+I,2015-16,White,810.0,12.45
