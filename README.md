@@ -22,4 +22,16 @@ These sparkline tables show student enrollment by race over time.
 * The Jupyter notebook [Enrollment subgroup trendsheets](pandas/Enrollment%20subgroup%20trendsheets.ipynb) contains the code to combine all of these years of data and export them to:
 * The file [clean/for_db/enrollment_trend_race.csv](clean/for_db/enrollment_trend_race.csv)
 
+#### Who teaches here?
+
+Student race data is based on above, while teacher race data comes from
+EdSight as well.
+
+* The raw data files are in the [raw](raw) folder, named
+  StaffingRace-yy-yy.csv, where yy-yy is the school year.
+* The Jupyter notebook [pandas/Staff%20race.ipynb](Staff%20race.ipynb)
+  combines these files into [clean/staff_race.csv]
+
+
+
 
