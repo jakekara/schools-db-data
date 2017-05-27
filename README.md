@@ -19,7 +19,11 @@ These sparkline tables show student enrollment by race over time.
 
 * The raw files came from [EdSight](http://edsight.ct.gov). They are in the [raw](raw) folder, titled
 "EnrollmentYearExport-YYYY-YY-Race.csv" where YYYY-YY is the school year.
-* The Jupyter notebook [Enrollment subgroup trendsheets](pandas/Enrollment%20subgroup%20trendsheets.ipynb) contains the code to combine all of these years of data and export them to:
+
+* The Jupyter notebook [Enrollment subgroup
+trendsheets](pandas/Enrollment%20subgroup%20trendsheets.ipynb) contains the
+code to combine all of these years of data and export them to:
+
 * The file [clean/for_db/enrollment_trend_race.csv](clean/for_db/enrollment_trend_race.csv)
 
 #### Who teaches here?
@@ -29,9 +33,21 @@ EdSight as well.
 
 * The raw data files are in the [raw](raw) folder, named
   StaffingRace-yy-yy.csv, where yy-yy is the school year.
+  
 * The Jupyter notebook [pandas/Staff%20race.ipynb](pandas/Staff%20race.ipynb)
-  combines these files into [clean/csv/staff_race.csv](clean/csv/staff_race.csv)
+  combines these files into
+  [clean/csv/staff_race.csv](clean/csv/staff_race.csv)
 
+#### English language learners
 
+ELL enrollment is also from EdSight.
 
+* Single year files are in the [raw](raw) folder, named
+  EnrollmentYearExport-YYYY-YY-ELL.csv where YYYY-YY is the school year.
+
+* The [same notebook used to create the race trend
+  sheets](pandas/Enrollment%20subgroup%20trendsheets.ipynb), meaning
+  multi-year spreadsheets, is also used to create the ELL trend sheet,
+  which is in
+  [clean/csv/enrollment-trend-ell.csv](clean/csv/enrollment-trend-ell.csv]
 
