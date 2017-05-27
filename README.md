@@ -29,8 +29,8 @@ EdSight as well.
 
 * The raw data files are in the [raw](raw) folder, named
   StaffingRace-yy-yy.csv, where yy-yy is the school year.
-* The Jupyter notebook [pandas/Staff%20race.ipynb](Staff%20race.ipynb)
-  combines these files into [clean/staff_race.csv]
+* The Jupyter notebook [pandas/Staff%20race.ipynb](pandas/Staff%20race.ipynb)
+  combines these files into [clean/csv/staff_race.csv](clean/csv/staff_race.csv)
 
 
 
