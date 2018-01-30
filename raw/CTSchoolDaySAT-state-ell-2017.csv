@@ -1,0 +1,10 @@
+"CT School Day SAT, 2016-17"
+"State of Connecticut, All Subjects, English Learner Status (EL)"
+
+"",,,,,,,"Level 1Not Met",,"Level 2Approaching",,"Level 3Met",,"Level 4Exceeded",,"Level 3&4Met or Exceeded",,""
+"District","Subject","ELL","Total Numberof Students","Total NumberTested","Connecticut School Day SATParticipationRate","Total Numberwith Scored Tests","Count","%","Count","%","Count","%","Count","%","Count","%","AverageScore"
+"State of Connecticut","ELA","N",38189,36771,96.3,36770,"*","*",6232,16.9,17688,48.1,"*","*","*","*",531
+"State of Connecticut","ELA","Y",1813,1650,91.0,1649,1258,76.3,298,18.1,"*","*","*","*",93,5.6,384
+"State of Connecticut","Math","N",38189,36771,96.3,36654,6969,19.0,13933,38.0,10977,29.9,4775,13.0,15752,43.0,512
+"State of Connecticut","Math","Y",1813,1650,91.0,1636,1145,70.0,432,26.4,47,2.9,12,0.7,59,3.6,387
+

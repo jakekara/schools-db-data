@@ -1,0 +1,654 @@
+"CT School Day SAT, 2016-17"
+"All Districts, All Subjects, All Students"
+
+"",,,,,,,,,"Level 1Not Met",,"Level 2Approaching",,"Level 3Met",,"Level 4Exceeded",,"Level 3&4Met or Exceeded",,""
+"District","District Code","School","School Code","Subject","Total Numberof Students","Total NumberTested","Connecticut School Day SATParticipationRate","Total Numberwith Scored Tests","Count","%","Count","%","Count","%","Count","%","Count","%","AverageScore"
+"Achievement First Hartford Academy Inc. District","""2880013""","Achievement First Hartford Academy Inc.","""2880113""","ELA",39,39,100.0,39,"*","*",10,25.6,22,56.4,"*","*","*","*",488
+"Achievement First Hartford Academy Inc. District","""2880013""","Achievement First Hartford Academy Inc.","""2880113""","Math",39,39,100.0,38,"*","*",20,52.6,13,34.2,"*","*","*","*",494
+"Amistad Academy District","""2790013""","Amistad Academy","""2795113""","ELA",50,48,96.0,47,"*","*",9,19.1,33,70.2,"*","*","*","*",511
+"Amistad Academy District","""2790013""","Amistad Academy","""2795113""","Math",50,48,96.0,47,10,21.3,28,59.6,9,19.1,0,0.0,9,19.1,467
+"Ansonia School District","""0020011""","Ansonia High School","""0026111""","ELA",124,119,96.0,119,33,27.7,25,21.0,50,42.0,11,9.2,61,51.3,482
+"Ansonia School District","""0020011""","Ansonia High School","""0026111""","Math",124,119,96.0,119,52,43.7,46,38.7,"*","*","*","*",21,17.6,447
+"Ansonia School District","""0020011""","P.A.C.E. (Positive And Creative Education)","""0020111""","ELA",8,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Ansonia School District","""0020011""","P.A.C.E. (Positive And Creative Education)","""0020111""","Math",8,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Area Cooperative Educational Services","""2440014""","Whitney High School North","""2449114""","ELA",18,15,"*",15,"*","*","*","*","*","*","*","*","*","*","*"
+"Area Cooperative Educational Services","""2440014""","Whitney High School North","""2449114""","Math",18,15,"*",13,"*","*","*","*","*","*","*","*","*","*","*"
+"Avon School District","""0040011""","Avon High School","""0046111""","ELA",283,280,98.9,280,14,5.0,19,6.8,119,42.5,128,45.7,247,88.2,603
+"Avon School District","""0040011""","Avon High School","""0046111""","Math",283,280,98.9,280,12,4.3,46,16.4,103,36.8,119,42.5,222,79.3,612
+"Berlin School District","""0070011""","Berlin High School","""0076111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Berlin School District","""0070011""","Berlin High School","""0076111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bethel School District","""0090011""","Bethel High School","""0096111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bethel School District","""0090011""","Bethel High School","""0096111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bloomfield School District","""0110011""","Bloomfield High School","""0116111""","ELA",129,126,97.7,126,31,24.6,41,32.5,47,37.3,7,5.6,54,42.9,473
+"Bloomfield School District","""0110011""","Bloomfield High School","""0116111""","Math",129,126,97.7,126,37,29.4,68,54.0,"*","*","*","*",21,16.7,450
+"Bloomfield School District","""0110011""","Global Experience Magnet School","""0116311""","ELA",27,27,100.0,27,"*","*","*","*",16,59.3,0,0.0,16,59.3,485
+"Bloomfield School District","""0110011""","Global Experience Magnet School","""0116311""","Math",27,27,100.0,27,"*","*",16,59.3,"*","*",0,0.0,"*","*",448
+"Bloomfield School District","""0110011""","Learning Academy at Bloomfield","""0116411""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bloomfield School District","""0110011""","Learning Academy at Bloomfield","""0116411""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bolton School District","""0120011""","Bolton High School","""0126111""","ELA",79,79,100.0,79,6,7.6,9,11.4,42,53.2,22,27.8,64,81.0,562
+"Bolton School District","""0120011""","Bolton High School","""0126111""","Math",79,79,100.0,79,14,17.7,26,32.9,30,38.0,9,11.4,39,49.4,521
+"Branford School District","""0140011""","Branford High School","""0146111""","ELA",202,200,99.0,200,21,10.5,33,16.5,117,58.5,29,14.5,146,73.0,530
+"Branford School District","""0140011""","Branford High School","""0146111""","Math",202,200,99.0,200,31,15.5,78,39.0,70,35.0,21,10.5,91,45.5,515
+"Branford School District","""0140011""","Branford High School Horizons Program","""0140211""","ELA",13,12,"*",12,"*","*","*","*","*","*","*","*","*","*","*"
+"Branford School District","""0140011""","Branford High School Horizons Program","""0140211""","Math",13,12,"*",12,"*","*","*","*","*","*","*","*","*","*","*"
+"Bridgeport Achievement First District","""2850013""","Achievement First Bridgeport Academy","""2850113""","ELA",36,34,94.4,34,"*","*",6,17.6,18,52.9,"*","*","*","*",508
+"Bridgeport Achievement First District","""2850013""","Achievement First Bridgeport Academy","""2850113""","Math",36,34,94.4,34,8,23.5,18,52.9,8,23.5,0,0.0,8,23.5,471
+"Bridgeport School District","""0150011""","Aerospace/Hydrospace, Engineering and Physical Sciences HS at the Fairchild-Wheeler Magnet Campus","""0150811""","ELA",123,113,91.9,113,17,15.0,20,17.7,55,48.7,21,18.6,76,67.3,531
+"Bridgeport School District","""0150011""","Aerospace/Hydrospace, Engineering and Physical Sciences HS at the Fairchild-Wheeler Magnet Campus","""0150811""","Math",123,113,91.9,111,17,15.3,42,37.8,31,27.9,21,18.9,52,46.8,528
+"Bridgeport School District","""0150011""","Bassick High School","""0156111""","ELA",209,170,81.3,170,113,66.5,40,23.5,17,10.0,0,0.0,17,10.0,399
+"Bridgeport School District","""0150011""","Bassick High School","""0156111""","Math",209,170,81.3,168,109,64.9,"*","*","*","*",0,0.0,"*","*",389
+"Bridgeport School District","""0150011""","Biotechnology, Research and Zoological Studies HS at the Fairchild-Wheeler Magnet Campus","""0150611""","ELA",114,113,99.1,113,"*","*",29,25.7,53,46.9,"*","*","*","*",476
+"Bridgeport School District","""0150011""","Biotechnology, Research and Zoological Studies HS at the Fairchild-Wheeler Magnet Campus","""0150611""","Math",114,113,99.1,113,39,34.5,51,45.1,"*","*","*","*",23,20.4,448
+"Bridgeport School District","""0150011""","Bridgeport Learning Center","""0159011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bridgeport School District","""0150011""","Bridgeport Learning Center","""0159011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bridgeport School District","""0150011""","Bridgeport Military Academy","""0151611""","ELA",86,85,98.8,85,50,58.8,23,27.1,12,14.1,0,0.0,12,14.1,410
+"Bridgeport School District","""0150011""","Bridgeport Military Academy","""0151611""","Math",86,85,98.8,85,55,64.7,30,35.3,0,0.0,0,0.0,0,0.0,384
+"Bridgeport School District","""0150011""","Career and Craftsmanship","""0152711""","ELA",15,14,"*",14,"*","*","*","*","*","*","*","*","*","*","*"
+"Bridgeport School District","""0150011""","Career and Craftsmanship","""0152711""","Math",15,14,"*",13,"*","*","*","*","*","*","*","*","*","*","*"
+"Bridgeport School District","""0150011""","Central High School","""0156211""","ELA",364,343,94.2,343,123,35.9,79,23.0,127,37.0,14,4.1,141,41.1,460
+"Bridgeport School District","""0150011""","Central High School","""0156211""","Math",364,343,94.2,343,148,43.1,135,39.4,53,15.5,7,2.0,60,17.5,438
+"Bridgeport School District","""0150011""","Harding High School","""0156311""","ELA",194,172,88.7,172,111,64.5,36,20.9,"*","*","*","*",25,14.5,403
+"Bridgeport School District","""0150011""","Harding High School","""0156311""","Math",194,172,88.7,171,123,71.9,"*","*","*","*",0,0.0,"*","*",380
+"Bridgeport School District","""0150011""","Information Technology and Software Engineering High School at the Fairchild-Wheeler Magnet Campus","""0151511""","ELA",119,117,98.3,117,23,19.7,24,20.5,53,45.3,17,14.5,70,59.8,504
+"Bridgeport School District","""0150011""","Information Technology and Software Engineering High School at the Fairchild-Wheeler Magnet Campus","""0151511""","Math",119,117,98.3,117,26,22.2,55,47.0,30,25.6,6,5.1,36,30.8,482
+"Bristol School District","""0170011""","Alternative Special Education Program (ASEP)","""0179011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bristol School District","""0170011""","Alternative Special Education Program (ASEP)","""0179011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Bristol School District","""0170011""","Bristol Central High School","""0176111""","ELA",269,264,98.1,264,57,21.6,51,19.3,128,48.5,28,10.6,156,59.1,501
+"Bristol School District","""0170011""","Bristol Central High School","""0176111""","Math",269,264,98.1,264,62,23.5,125,47.3,65,24.6,12,4.5,77,29.2,476
+"Bristol School District","""0170011""","Bristol Eastern High School","""0176211""","ELA",276,272,98.6,272,37,13.6,50,18.4,148,54.4,37,13.6,185,68.0,523
+"Bristol School District","""0170011""","Bristol Eastern High School","""0176211""","Math",276,272,98.6,272,49,18.0,129,47.4,78,28.7,16,5.9,94,34.6,497
+"Bristol School District","""0170011""","Bristol Preparatory Academy","""0173311""","ELA",11,10,"*",10,"*","*","*","*","*","*","*","*","*","*","*"
+"Bristol School District","""0170011""","Bristol Preparatory Academy","""0173311""","Math",11,10,"*",10,"*","*","*","*","*","*","*","*","*","*","*"
+"Brookfield School District","""0180011""","Brookfield High School","""0186111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Brookfield School District","""0180011""","Brookfield High School","""0186111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Canton School District","""0230011""","Canton Academy","""0230411""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Canton School District","""0230011""","Canton Academy","""0230411""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Canton School District","""0230011""","Canton High School","""0236111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Canton School District","""0230011""","Canton High School","""0236111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Capital Preparatory Harbor School Inc. District","""2970013""","Capital Preparatory Harbor School Inc.","""2970113""","ELA",33,33,100.0,33,13,39.4,9,27.3,11,33.3,0,0.0,11,33.3,448
+"Capital Preparatory Harbor School Inc. District","""2970013""","Capital Preparatory Harbor School Inc.","""2970113""","Math",33,33,100.0,33,17,51.5,"*","*","*","*",0,0.0,"*","*",419
+"Capitol Region Education Council","""2410014""","Academy of Aerospace and Engineering","""2415114""","ELA",108,106,98.1,106,8,7.5,9,8.5,50,47.2,39,36.8,89,84.0,578
+"Capitol Region Education Council","""2410014""","Academy of Aerospace and Engineering","""2415114""","Math",108,106,98.1,106,13,12.3,32,30.2,28,26.4,33,31.1,61,57.5,567
+"Capitol Region Education Council","""2410014""","Academy of Science and Innovation","""2416514""","ELA",81,81,100.0,81,"*","*",27,33.3,37,45.7,"*","*","*","*",489
+"Capitol Region Education Council","""2410014""","Academy of Science and Innovation","""2416514""","Math",81,81,100.0,81,26,32.1,40,49.4,15,18.5,0,0.0,15,18.5,449
+"Capitol Region Education Council","""2410014""","Farmington Valley Regional Diagnostic Center","""2419214""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Capitol Region Education Council","""2410014""","Farmington Valley Regional Diagnostic Center","""2419214""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Capitol Region Education Council","""2410014""","Greater Hartford Academy of  the Arts High School - Full Time","""2416414""","ELA",112,108,96.4,108,23,21.3,29,26.9,43,39.8,13,12.0,56,51.9,496
+"Capitol Region Education Council","""2410014""","Greater Hartford Academy of  the Arts High School - Full Time","""2416414""","Math",112,108,96.4,108,42,38.9,52,48.1,"*","*","*","*",14,13.0,441
+"Capitol Region Education Council","""2410014""","John J. Allison Polaris Center","""2419014""","ELA",16,8,"*",8,"*","*","*","*","*","*","*","*","*","*","*"
+"Capitol Region Education Council","""2410014""","John J. Allison Polaris Center","""2419014""","Math",16,8,"*",7,"*","*","*","*","*","*","*","*","*","*","*"
+"Capitol Region Education Council","""2410014""","Lincoln Academy Regional Interdistrict Collaborative","""2419614""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Capitol Region Education Council","""2410014""","Lincoln Academy Regional Interdistrict Collaborative","""2419614""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Capitol Region Education Council","""2410014""","Metropolitan Learning Center for Global and International Studies","""2416114""","ELA",80,78,97.5,78,10,12.8,19,24.4,41,52.6,8,10.3,49,62.8,512
+"Capitol Region Education Council","""2410014""","Metropolitan Learning Center for Global and International Studies","""2416114""","Math",80,78,97.5,78,22,28.2,41,52.6,"*","*","*","*",15,19.2,459
+"Capitol Region Education Council","""2410014""","Public Safety Academy","""2415214""","ELA",69,69,100.0,69,24,34.8,31,44.9,14,20.3,0,0.0,14,20.3,433
+"Capitol Region Education Council","""2410014""","Public Safety Academy","""2415214""","Math",69,69,100.0,69,42,60.9,"*","*","*","*",0,0.0,"*","*",401
+"Capitol Region Education Council","""2410014""","Two Rivers Magnet High School","""2416714""","ELA",96,94,97.9,94,28,29.8,21,22.3,39,41.5,6,6.4,45,47.9,475
+"Capitol Region Education Council","""2410014""","Two Rivers Magnet High School","""2416714""","Math",96,94,97.9,94,35,37.2,41,43.6,"*","*","*","*",18,19.1,451
+"Cheshire School District","""0250011""","Cheshire High School","""0256111""","ELA",329,322,97.9,322,12,3.7,32,9.9,181,56.2,97,30.1,278,86.3,575
+"Cheshire School District","""0250011""","Cheshire High School","""0256111""","Math",329,322,97.9,321,22,6.9,89,27.7,142,44.2,68,21.2,210,65.4,565
+"Cheshire School District","""0250011""","Humiston Alternative School","""0250911""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Cheshire School District","""0250011""","Humiston Alternative School","""0250911""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Clinton School District","""0270011""","The Morgan School","""0276111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Clinton School District","""0270011""","The Morgan School","""0276111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Colchester School District","""0280011""","Bacon Academy","""0286111""","ELA",217,215,99.1,215,17,7.9,32,14.9,124,57.7,42,19.5,166,77.2,541
+"Colchester School District","""0280011""","Bacon Academy","""0286111""","Math",217,215,99.1,215,25,11.6,70,32.6,93,43.3,27,12.6,120,55.8,531
+"Colchester School District","""0280011""","Bacon Academy Alternative Education","""0280511""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Colchester School District","""0280011""","Bacon Academy Alternative Education","""0280511""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Common Ground High School District","""2680013""","Common Ground High School","""2686113""","ELA",43,43,100.0,43,8,18.6,12,27.9,15,34.9,8,18.6,23,53.5,513
+"Common Ground High School District","""2680013""","Common Ground High School","""2686113""","Math",43,43,100.0,43,17,39.5,16,37.2,"*","*","*","*",10,23.3,462
+"Connecticut Technical High School System","""9000016""","A. I. Prince Technical High School","""9001516""","ELA",178,178,100.0,178,72,40.4,67,37.6,"*","*","*","*",39,21.9,430
+"Connecticut Technical High School System","""9000016""","A. I. Prince Technical High School","""9001516""","Math",178,178,100.0,178,106,59.6,"*","*","*","*",0,0.0,"*","*",395
+"Connecticut Technical High School System","""9000016""","Bullard-Havens Technical High School","""9001116""","ELA",188,188,100.0,188,"*","*",71,37.8,72,38.3,"*","*","*","*",461
+"Connecticut Technical High School System","""9000016""","Bullard-Havens Technical High School","""9001116""","Math",188,188,100.0,188,68,36.2,109,58.0,"*","*","*","*",11,5.9,432
+"Connecticut Technical High School System","""9000016""","E. C. Goodwin Technical High School","""9001916""","ELA",144,143,99.3,143,"*","*",43,30.1,61,42.7,"*","*","*","*",469
+"Connecticut Technical High School System","""9000016""","E. C. Goodwin Technical High School","""9001916""","Math",144,143,99.3,143,37,25.9,84,58.7,22,15.4,0,0.0,22,15.4,455
+"Connecticut Technical High School System","""9000016""","Eli Whitney Technical High School","""9001416""","ELA",122,122,100.0,122,55,45.1,38,31.1,29,23.8,0,0.0,29,23.8,427
+"Connecticut Technical High School System","""9000016""","Eli Whitney Technical High School","""9001416""","Math",122,122,100.0,122,68,55.7,"*","*","*","*",0,0.0,"*","*",407
+"Connecticut Technical High School System","""9000016""","Ella T. Grasso Southeastern Technical High School","""9002716""","ELA",99,99,100.0,99,24,24.2,"*","*",51,51.5,"*","*","*","*",474
+"Connecticut Technical High School System","""9000016""","Ella T. Grasso Southeastern Technical High School","""9002716""","Math",99,99,100.0,99,21,21.2,65,65.7,"*","*","*","*",13,13.1,462
+"Connecticut Technical High School System","""9000016""","Emmett O'Brien Technical High School","""9002516""","ELA",138,137,99.3,137,"*","*",42,30.7,63,46.0,"*","*","*","*",468
+"Connecticut Technical High School System","""9000016""","Emmett O'Brien Technical High School","""9002516""","Math",138,137,99.3,137,46,33.6,81,59.1,10,7.3,0,0.0,10,7.3,437
+"Connecticut Technical High School System","""9000016""","H. C. Wilcox Technical High School","""9001716""","ELA",162,162,100.0,162,23,14.2,43,26.5,86,53.1,10,6.2,96,59.3,496
+"Connecticut Technical High School System","""9000016""","H. C. Wilcox Technical High School","""9001716""","Math",162,162,100.0,161,34,21.1,97,60.2,"*","*","*","*",30,18.6,466
+"Connecticut Technical High School System","""9000016""","H. H. Ellis Technical High School","""9001316""","ELA",149,147,98.7,147,27,18.4,43,29.3,71,48.3,6,4.1,77,52.4,484
+"Connecticut Technical High School System","""9000016""","H. H. Ellis Technical High School","""9001316""","Math",149,147,98.7,147,"*","*",96,65.3,29,19.7,"*","*","*","*",476
+"Connecticut Technical High School System","""9000016""","Henry Abbott Technical High School","""9001216""","ELA",157,157,100.0,157,29,18.5,46,29.3,76,48.4,6,3.8,82,52.2,484
+"Connecticut Technical High School System","""9000016""","Henry Abbott Technical High School","""9001216""","Math",157,157,100.0,157,35,22.3,86,54.8,"*","*","*","*",36,22.9,467
+"Connecticut Technical High School System","""9000016""","Howell Cheney Technical High School","""9001616""","ELA",147,147,100.0,147,26,17.7,61,41.5,54,36.7,6,4.1,60,40.8,471
+"Connecticut Technical High School System","""9000016""","Howell Cheney Technical High School","""9001616""","Math",147,147,100.0,147,40,27.2,85,57.8,"*","*","*","*",22,15.0,459
+"Connecticut Technical High School System","""9000016""","J. M. Wright Technical High School","""9002116""","ELA",101,100,99.0,100,33,33.0,39,39.0,"*","*","*","*",28,28.0,447
+"Connecticut Technical High School System","""9000016""","J. M. Wright Technical High School","""9002116""","Math",101,100,99.0,100,33,33.0,58,58.0,"*","*","*","*",9,9.0,439
+"Connecticut Technical High School System","""9000016""","Norwich Technical High School","""9002016""","ELA",148,148,100.0,148,"*","*",40,27.0,80,54.1,"*","*","*","*",489
+"Connecticut Technical High School System","""9000016""","Norwich Technical High School","""9002016""","Math",148,148,100.0,147,"*","*",98,66.7,26,17.7,"*","*","*","*",475
+"Connecticut Technical High School System","""9000016""","Oliver Wolcott Technical High School","""9002216""","ELA",159,157,98.7,157,"*","*",45,28.7,80,51.0,"*","*","*","*",486
+"Connecticut Technical High School System","""9000016""","Oliver Wolcott Technical High School","""9002216""","Math",159,157,98.7,157,46,29.3,84,53.5,"*","*","*","*",27,17.2,464
+"Connecticut Technical High School System","""9000016""","Platt Technical High School","""9002616""","ELA",191,191,100.0,191,39,20.4,61,31.9,85,44.5,6,3.1,91,47.6,479
+"Connecticut Technical High School System","""9000016""","Platt Technical High School","""9002616""","Math",191,191,100.0,190,41,21.6,114,60.0,"*","*","*","*",35,18.4,468
+"Connecticut Technical High School System","""9000016""","Vinal Technical High School","""9001816""","ELA",105,105,100.0,105,35,33.3,"*","*",42,40.0,"*","*","*","*",465
+"Connecticut Technical High School System","""9000016""","Vinal Technical High School","""9001816""","Math",105,105,100.0,105,34,32.4,55,52.4,16,15.2,0,0.0,16,15.2,446
+"Connecticut Technical High School System","""9000016""","W. F. Kaynor Technical High School","""9002316""","ELA",177,175,98.9,175,18,10.3,41,23.4,110,62.9,6,3.4,116,66.3,500
+"Connecticut Technical High School System","""9000016""","W. F. Kaynor Technical High School","""9002316""","Math",177,175,98.9,175,"*","*",111,63.4,34,19.4,"*","*","*","*",476
+"Connecticut Technical High School System","""9000016""","Windham Technical High School","""9002416""","ELA",126,125,99.2,125,"*","*",41,32.8,54,43.2,"*","*","*","*",476
+"Connecticut Technical High School System","""9000016""","Windham Technical High School","""9002416""","Math",126,125,99.2,125,32,25.6,69,55.2,"*","*","*","*",24,19.2,465
+"Cooperative Educational Services","""2430014""","Therapeutic Day Program","""2439414""","ELA",16,15,"*",15,"*","*","*","*","*","*","*","*","*","*","*"
+"Cooperative Educational Services","""2430014""","Therapeutic Day Program","""2439414""","Math",16,15,"*",15,"*","*","*","*","*","*","*","*","*","*","*"
+"Coventry School District","""0320011""","Coventry Academy","""0320111""","ELA",6,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Coventry School District","""0320011""","Coventry Academy","""0320111""","Math",6,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Coventry School District","""0320011""","Coventry High School","""0326111""","ELA",112,110,98.2,110,9,8.2,16,14.5,53,48.2,32,29.1,85,77.3,558
+"Coventry School District","""0320011""","Coventry High School","""0326111""","Math",112,110,98.2,110,11,10.0,35,31.8,50,45.5,14,12.7,64,58.2,537
+"Cromwell School District","""0330011""","Cromwell High School","""0336111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Cromwell School District","""0330011""","Cromwell High School","""0336111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Danbury School District","""0340011""","Alternative Center For Excellence","""0346211""","ELA",20,20,100.0,20,9,45.0,"*","*","*","*",0,0.0,"*","*",433
+"Danbury School District","""0340011""","Alternative Center For Excellence","""0346211""","Math",20,20,100.0,20,11,55.0,"*","*","*","*",0,0.0,"*","*",417
+"Danbury School District","""0340011""","Danbury High School","""0346111""","ELA",672,652,97.0,652,147,22.5,127,19.5,308,47.2,70,10.7,378,58.0,497
+"Danbury School District","""0340011""","Danbury High School","""0346111""","Math",672,652,97.0,649,188,29.0,295,45.5,139,21.4,27,4.2,166,25.6,468
+"Darien School District","""0350011""","Darien High School","""0356111""","ELA",339,325,95.9,325,8,2.5,9,2.8,130,40.0,178,54.8,308,94.8,627
+"Darien School District","""0350011""","Darien High School","""0356111""","Math",339,325,95.9,324,"*","*","*","*",119,36.7,159,49.1,278,85.8,633
+"Derby School District","""0370011""","Derby High School","""0376111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Derby School District","""0370011""","Derby High School","""0376111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Derby School District","""0370011""","RAISE Academy","""0370511""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Derby School District","""0370011""","RAISE Academy","""0370511""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"East Granby School District","""0400011""","East Granby High School","""0406111""","ELA","*","*","*","*",0,0.0,"*","*","*","*","*","*","*","*","*"
+"East Granby School District","""0400011""","East Granby High School","""0406111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"East Haddam School District","""0410011""","Nathan Hale-Ray High School","""0416111""","ELA",83,80,96.4,80,10,12.5,14,17.5,41,51.3,15,18.8,56,70.0,525
+"East Haddam School District","""0410011""","Nathan Hale-Ray High School","""0416111""","Math",83,80,96.4,80,22,27.5,36,45.0,"*","*","*","*",22,27.5,474
+"East Hampton School District","""0420011""","East Hampton High School","""0426111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"East Hampton School District","""0420011""","East Hampton High School","""0426111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"East Hartford School District","""0430011""","Connecticut IB Academy","""0436311""","ELA",48,48,100.0,48,"*","*","*","*",31,64.6,10,20.8,41,85.4,568
+"East Hartford School District","""0430011""","Connecticut IB Academy","""0436311""","Math",48,48,100.0,48,"*","*",18,37.5,24,50.0,"*","*","*","*",533
+"East Hartford School District","""0430011""","East Hartford High School","""0436211""","ELA",349,344,98.6,344,106,30.8,97,28.2,115,33.4,26,7.6,141,41.0,468
+"East Hartford School District","""0430011""","East Hartford High School","""0436211""","Math",349,344,98.6,341,118,34.6,142,41.6,62,18.2,19,5.6,81,23.8,460
+"East Hartford School District","""0430011""","Stevens Alternate High School","""0436411""","ELA",36,30,83.3,30,23,76.7,"*","*","*","*",0,0.0,"*","*",390
+"East Hartford School District","""0430011""","Stevens Alternate High School","""0436411""","Math",36,30,83.3,30,24,80.0,6,20.0,0,0.0,0,0.0,0,0.0,373
+"East Hartford School District","""0430011""","Woodland School","""0439011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"East Hartford School District","""0430011""","Woodland School","""0439011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"East Haven School District","""0440011""","East Haven High School","""0446111""","ELA",225,216,96.0,216,43,19.9,57,26.4,106,49.1,10,4.6,116,53.7,487
+"East Haven School District","""0440011""","East Haven High School","""0446111""","Math",225,216,96.0,216,51,23.6,125,57.9,"*","*","*","*",40,18.5,462
+"East Lyme School District","""0450011""","Coastal Connections","""0450611""","ELA",12,9,"*",9,"*","*","*","*","*","*","*","*","*","*","*"
+"East Lyme School District","""0450011""","Coastal Connections","""0450611""","Math",12,9,"*",9,"*","*","*","*","*","*","*","*","*","*","*"
+"East Lyme School District","""0450011""","East Lyme High School","""0456111""","ELA",266,262,98.5,262,15,5.7,16,6.1,149,56.9,82,31.3,231,88.2,579
+"East Lyme School District","""0450011""","East Lyme High School","""0456111""","Math",266,262,98.5,262,21,8.0,86,32.8,90,34.4,65,24.8,155,59.2,559
+"East Windsor School District","""0470011""","East Windsor High School","""0476111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"East Windsor School District","""0470011""","East Windsor High School","""0476111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Eastern Connecticut Regional Educational Service Center (EASTCONN)","""2530014""","Arts at the Capitol Theater Magnet School (ACT)","""2536014""","ELA",31,31,100.0,31,"*","*",9,29.0,"*","*","*","*","*","*",485
+"Eastern Connecticut Regional Educational Service Center (EASTCONN)","""2530014""","Arts at the Capitol Theater Magnet School (ACT)","""2536014""","Math",31,31,100.0,31,"*","*",19,61.3,0,0.0,"*","*","*","*",434
+"Eastern Connecticut Regional Educational Service Center (EASTCONN)","""2530014""","EastConn Special Education","""2539014""","ELA",10,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Eastern Connecticut Regional Educational Service Center (EASTCONN)","""2530014""","EastConn Special Education","""2539014""","Math",10,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Eastern Connecticut Regional Educational Service Center (EASTCONN)","""2530014""","Quinebaug Middle College","""2536114""","ELA",41,38,92.7,38,12,31.6,"*","*",16,42.1,"*","*","*","*",471
+"Eastern Connecticut Regional Educational Service Center (EASTCONN)","""2530014""","Quinebaug Middle College","""2536114""","Math",41,38,92.7,38,17,44.7,"*","*","*","*","*","*","*","*",431
+"EdAdvance","""2420014""","The ACCESS School at The Danuta M. Thibodeau Education Center","""2429014""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"EdAdvance","""2420014""","The ACCESS School at The Danuta M. Thibodeau Education Center","""2429014""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Ellington School District","""0480011""","Ellington High School","""0486111""","ELA",175,174,99.4,174,10,5.7,26,14.9,108,62.1,30,17.2,138,79.3,542
+"Ellington School District","""0480011""","Ellington High School","""0486111""","Math",175,174,99.4,173,12,6.9,73,42.2,71,41.0,17,9.8,88,50.9,532
+"Elm City College Preparatory School District","""2890013""","Elm City College Preparatory School","""2890113""","ELA",29,29,100.0,29,"*","*","*","*",15,51.7,6,20.7,21,72.4,516
+"Elm City College Preparatory School District","""2890013""","Elm City College Preparatory School","""2890113""","Math",29,29,100.0,29,"*","*",12,41.4,9,31.0,"*","*","*","*",498
+"Enfield School District","""0490011""","Enfield High School","""0496111""","ELA",350,342,97.7,342,38,11.1,65,19.0,210,61.4,29,8.5,239,69.9,515
+"Enfield School District","""0490011""","Enfield High School","""0496111""","Math",350,342,97.7,342,45,13.2,170,49.7,107,31.3,20,5.8,127,37.1,501
+"Explorations District","""2720013""","Explorations","""2726113""","ELA",22,21,95.5,21,8,38.1,"*","*",7,33.3,"*","*","*","*",466
+"Explorations District","""2720013""","Explorations","""2726113""","Math",22,21,95.5,21,9,42.9,9,42.9,"*","*","*","*","*","*",458
+"Fairfield School District","""0510011""","Fairfield Ludlowe High School","""0516011""","ELA",387,377,97.4,377,17,4.5,32,8.5,193,51.2,135,35.8,328,87.0,583
+"Fairfield School District","""0510011""","Fairfield Ludlowe High School","""0516011""","Math",387,377,97.4,377,22,5.8,112,29.7,167,44.3,76,20.2,243,64.5,564
+"Fairfield School District","""0510011""","Fairfield Warde High School","""0516211""","ELA",372,367,98.7,367,23,6.3,29,7.9,182,49.6,133,36.2,315,85.8,579
+"Fairfield School District","""0510011""","Fairfield Warde High School","""0516211""","Math",372,367,98.7,367,20,5.4,116,31.6,162,44.1,69,18.8,231,62.9,557
+"Fairfield School District","""0510011""","Walter Fitzgerald Campus","""0510311""","ELA",13,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Fairfield School District","""0510011""","Walter Fitzgerald Campus","""0510311""","Math",13,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Farmington School District","""0520011""","Farmington Alternative High School","""0520611""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Farmington School District","""0520011""","Farmington Alternative High School","""0520611""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Farmington School District","""0520011""","Farmington High School","""0526111""","ELA",283,281,99.3,281,12,4.3,22,7.8,150,53.4,97,34.5,247,87.9,589
+"Farmington School District","""0520011""","Farmington High School","""0526111""","Math",283,281,99.3,280,15,5.4,75,26.8,111,39.6,79,28.2,190,67.9,580
+"Glastonbury School District","""0540011""","Glastonbury High School","""0546111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Glastonbury School District","""0540011""","Glastonbury High School","""0546111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Glastonbury School District","""0540011""","Links Academy","""0540111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Glastonbury School District","""0540011""","Links Academy","""0540111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Granby School District","""0560011""","Granby Memorial High School","""0566111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Granby School District","""0560011""","Granby Memorial High School","""0566111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Greenwich School District","""0570011""","Greenwich Alternative High School","""0571411""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Greenwich School District","""0570011""","Greenwich Alternative High School","""0571411""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Greenwich School District","""0570011""","Greenwich High School","""0576111""","ELA",610,594,97.4,594,37,6.2,51,8.6,269,45.3,237,39.9,506,85.2,587
+"Greenwich School District","""0570011""","Greenwich High School","""0576111""","Math",610,594,97.4,593,51,8.6,171,28.8,201,33.9,170,28.7,371,62.6,572
+"Griswold School District","""0580011""","Griswold Alternative School","""0580111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Griswold School District","""0580011""","Griswold Alternative School","""0580111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Griswold School District","""0580011""","Griswold High School","""0586211""","ELA",137,135,98.5,135,15,11.1,25,18.5,80,59.3,15,11.1,95,70.4,522
+"Griswold School District","""0580011""","Griswold High School","""0586211""","Math",137,135,98.5,135,"*","*",66,48.9,49,36.3,"*","*","*","*",498
+"Groton School District","""0590011""","New Beginnings Alternative Program","""0590211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Groton School District","""0590011""","New Beginnings Alternative Program","""0590211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Groton School District","""0590011""","Robert E. Fitch High School","""0596111""","ELA",231,224,97.0,224,42,18.8,34,15.2,110,49.1,38,17.0,148,66.1,522
+"Groton School District","""0590011""","Robert E. Fitch High School","""0596111""","Math",231,224,97.0,224,44,19.6,93,41.5,63,28.1,24,10.7,87,38.8,503
+"Groton School District","""0590011""","Virtual Learning Academy","""0590611""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Groton School District","""0590011""","Virtual Learning Academy","""0590611""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Guilford School District","""0600011""","Guilford High School","""0606111""","ELA",286,286,100.0,286,15,5.2,30,10.5,155,54.2,86,30.1,241,84.3,582
+"Guilford School District","""0600011""","Guilford High School","""0606111""","Math",286,286,100.0,285,29,10.2,76,26.7,114,40.0,66,23.2,180,63.2,561
+"Hamden School District","""0620011""","Hamden Collaborative Learning Center","""0620511""","ELA",10,10,"*",10,"*","*","*","*","*","*","*","*","*","*","*"
+"Hamden School District","""0620011""","Hamden Collaborative Learning Center","""0620511""","Math",10,10,"*",9,"*","*","*","*","*","*","*","*","*","*","*"
+"Hamden School District","""0620011""","Hamden High School","""0626111""","ELA",381,375,98.4,375,78,20.8,72,19.2,186,49.6,39,10.4,225,60.0,501
+"Hamden School District","""0620011""","Hamden High School","""0626111""","Math",381,375,98.4,374,91,24.3,175,46.8,95,25.4,13,3.5,108,28.9,477
+"Hartford School District","""0640011""","Bulkeley High School","""0647111""","ELA",143,119,83.2,119,83,69.7,18,15.1,"*","*","*","*",18,15.1,400
+"Hartford School District","""0640011""","Bulkeley High School","""0647111""","Math",143,119,83.2,119,84,70.6,"*","*","*","*",0,0.0,"*","*",385
+"Hartford School District","""0640011""","Capital Community College Magnet Academy","""0643911""","ELA",24,24,100.0,24,"*","*",7,29.2,12,50.0,"*","*","*","*",483
+"Hartford School District","""0640011""","Capital Community College Magnet Academy","""0643911""","Math",24,24,100.0,24,"*","*",14,58.3,"*","*",0,0.0,"*","*",456
+"Hartford School District","""0640011""","Capital Preparatory Magnet School","""0646911""","ELA",51,50,98.0,50,18,36.0,"*","*",16,32.0,"*","*","*","*",455
+"Hartford School District","""0640011""","Capital Preparatory Magnet School","""0646911""","Math",51,50,98.0,50,31,62.0,"*","*","*","*",0,0.0,"*","*",403
+"Hartford School District","""0640011""","Classical Magnet School","""0646411""","ELA",80,80,100.0,80,11,13.8,19,23.8,36,45.0,14,17.5,50,62.5,521
+"Hartford School District","""0640011""","Classical Magnet School","""0646411""","Math",80,80,100.0,80,19,23.8,45,56.3,"*","*","*","*",16,20.0,469
+"Hartford School District","""0640011""","Culinary Arts Academy at Weaver High School","""0646011""","ELA",39,34,87.2,34,21,61.8,10,29.4,"*","*","*","*","*","*",400
+"Hartford School District","""0640011""","Culinary Arts Academy at Weaver High School","""0646011""","Math",39,34,87.2,32,20,62.5,"*","*","*","*",0,0.0,"*","*",386
+"Hartford School District","""0640011""","EDP - Bulkeley High School","""0648311""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Hartford School District","""0640011""","EDP - Bulkeley High School","""0648311""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Hartford School District","""0640011""","EDP - HPHS Engineering and Green Technology Academy","""0648211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Hartford School District","""0640011""","EDP - HPHS Engineering and Green Technology Academy","""0648211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Hartford School District","""0640011""","Global Communications Academy","""0643611""","ELA",30,26,86.7,26,13,50.0,"*","*","*","*",0,0.0,"*","*",405
+"Hartford School District","""0640011""","Global Communications Academy","""0643611""","Math",30,26,86.7,26,"*","*","*","*",0,0.0,0,0.0,0,0.0,362
+"Hartford School District","""0640011""","Great Path Academy at MCC","""0647911""","ELA",55,54,98.2,54,"*","*",15,27.8,27,50.0,"*","*","*","*",490
+"Hartford School District","""0640011""","Great Path Academy at MCC","""0647911""","Math",55,54,98.2,54,"*","*",30,55.6,"*","*",0,0.0,"*","*",443
+"Hartford School District","""0640011""","HPHS Engineering and Green Technology Academy","""0647211""","ELA",62,50,80.6,50,30,60.0,"*","*","*","*",0,0.0,"*","*",398
+"Hartford School District","""0640011""","HPHS Engineering and Green Technology Academy","""0647211""","Math",62,50,80.6,50,36,72.0,"*","*","*","*",0,0.0,"*","*",390
+"Hartford School District","""0640011""","HPHS Law and Government Academy","""0647411""","ELA",67,57,85.1,57,41,71.9,"*","*","*","*",0,0.0,"*","*",368
+"Hartford School District","""0640011""","HPHS Law and Government Academy","""0647411""","Math",67,57,85.1,48,30,62.5,18,37.5,0,0.0,0,0.0,0,0.0,391
+"Hartford School District","""0640011""","HPHS Nursing and Health Sciences Academy","""0647511""","ELA",80,74,92.5,74,48,64.9,17,23.0,9,12.2,0,0.0,9,12.2,402
+"Hartford School District","""0640011""","HPHS Nursing and Health Sciences Academy","""0647511""","Math",80,74,92.5,73,46,63.0,"*","*","*","*",0,0.0,"*","*",387
+"Hartford School District","""0640011""","Hartford Magnet Trinity College Academy","""0645411""","ELA",97,96,99.0,96,23,24.0,26,27.1,40,41.7,7,7.3,47,49.0,482
+"Hartford School District","""0640011""","Hartford Magnet Trinity College Academy","""0645411""","Math",97,96,99.0,96,39,40.6,35,36.5,"*","*","*","*",22,22.9,443
+"Hartford School District","""0640011""","High School, Inc.","""0647611""","ELA",42,39,92.9,39,26,66.7,"*","*","*","*",0,0.0,"*","*",394
+"Hartford School District","""0640011""","High School, Inc.","""0647611""","Math",42,39,92.9,39,30,76.9,9,23.1,0,0.0,0,0.0,0,0.0,383
+"Hartford School District","""0640011""","Journalism and Media Academy Magnet School","""0647711""","ELA",47,36,76.6,36,15,41.7,"*","*",10,27.8,"*","*","*","*",441
+"Hartford School District","""0640011""","Journalism and Media Academy Magnet School","""0647711""","Math",47,36,76.6,36,24,66.7,"*","*","*","*",0,0.0,"*","*",396
+"Hartford School District","""0640011""","Kinsella Magnet School of Performing Arts","""0641111""","ELA",44,44,100.0,44,15,34.1,16,36.4,"*","*","*","*",13,29.5,448
+"Hartford School District","""0640011""","Kinsella Magnet School of Performing Arts","""0641111""","Math",44,44,100.0,44,"*","*",23,52.3,"*","*",0,0.0,"*","*",419
+"Hartford School District","""0640011""","Pathways Academy of Technology and Design","""0646611""","ELA",100,93,93.0,93,31,33.3,19,20.4,28,30.1,15,16.1,43,46.2,478
+"Hartford School District","""0640011""","Pathways Academy of Technology and Design","""0646611""","Math",100,93,93.0,92,36,39.1,33,35.9,"*","*","*","*",23,25.0,452
+"Hartford School District","""0640011""","Sports and Medical Sciences Academy","""0646511""","ELA",102,100,98.0,100,"*","*",25,25.0,47,47.0,"*","*","*","*",479
+"Hartford School District","""0640011""","Sports and Medical Sciences Academy","""0646511""","Math",102,100,98.0,100,"*","*",45,45.0,27,27.0,"*","*","*","*",471
+"Hartford School District","""0640011""","University High School of Science and Engineering","""0646711""","ELA",102,102,100.0,102,14,13.7,12,11.8,48,47.1,28,27.5,76,74.5,544
+"Hartford School District","""0640011""","University High School of Science and Engineering","""0646711""","Math",102,102,100.0,102,13,12.7,32,31.4,29,28.4,28,27.5,57,55.9,556
+"Highville Charter School District","""2860013""","Highville Charter School","""2860113""","ELA",22,22,100.0,22,"*","*",9,40.9,"*","*",0,0.0,"*","*",435
+"Highville Charter School District","""2860013""","Highville Charter School","""2860113""","Math",22,22,100.0,22,11,50.0,11,50.0,0,0.0,0,0.0,0,0.0,408
+"Jumoke Academy District","""2610013""","Jumoke Academy","""2610113""","ELA",12,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Jumoke Academy District","""2610013""","Jumoke Academy","""2610113""","Math",12,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Killingly School District","""0690011""","Killingly Alternative Learning Program","""0690611""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Killingly School District","""0690011""","Killingly Alternative Learning Program","""0690611""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Killingly School District","""0690011""","Killingly High School","""0696111""","ELA",179,174,97.2,174,37,21.3,37,21.3,87,50.0,13,7.5,100,57.5,496
+"Killingly School District","""0690011""","Killingly High School","""0696111""","Math",179,174,97.2,174,47,27.0,87,50.0,"*","*","*","*",40,23.0,460
+"Learn","""2450014""","Connecticut River Academy","""2456014""","ELA",103,100,97.1,100,39,39.0,28,28.0,"*","*","*","*",33,33.0,458
+"Learn","""2450014""","Connecticut River Academy","""2456014""","Math",103,100,97.1,99,42,42.4,42,42.4,"*","*","*","*",15,15.2,437
+"Learn","""2450014""","Learn Pathways Program","""2450514""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Learn","""2450014""","Learn Pathways Program","""2450514""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Learn","""2450014""","Marine Science Magnet High School of Southeastern Connecticut","""2456114""","ELA",58,57,98.3,57,"*","*","*","*",29,50.9,16,28.1,45,78.9,556
+"Learn","""2450014""","Marine Science Magnet High School of Southeastern Connecticut","""2456114""","Math",58,57,98.3,57,"*","*",24,42.1,19,33.3,"*","*","*","*",520
+"Learn","""2450014""","Three Rivers Middle College Magnet School","""2456214""","ELA","*","*","*","*",8,24.2,"*","*","*","*",9,27.3,"*","*","*"
+"Learn","""2450014""","Three Rivers Middle College Magnet School","""2456214""","Math","*","*","*","*",9,27.3,"*","*","*","*","*","*","*","*","*"
+"Lebanon School District","""0710011""","Lyman Memorial High School","""0716211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Lebanon School District","""0710011""","Lyman Memorial High School","""0716211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Ledyard School District","""0720011""","Ledyard High School","""0726111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Ledyard School District","""0720011""","Ledyard High School","""0726111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Litchfield School District","""0740011""","Litchfield High School","""0746111""","ELA",65,65,100.0,65,8,12.3,8,12.3,34,52.3,15,23.1,49,75.4,546
+"Litchfield School District","""0740011""","Litchfield High School","""0746111""","Math",65,65,100.0,65,"*","*",24,36.9,27,41.5,"*","*","*","*",538
+"Madison School District","""0760011""","Daniel Hand High School","""0766111""","ELA",294,289,98.3,289,6,2.1,19,6.6,162,56.1,102,35.3,264,91.3,592
+"Madison School District","""0760011""","Daniel Hand High School","""0766111""","Math",294,289,98.3,288,6,2.1,72,25.0,141,49.0,69,24.0,210,72.9,581
+"Manchester School District","""0770011""","Bentley Alternative Education Program","""0770211""","ELA",7,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Manchester School District","""0770011""","Bentley Alternative Education Program","""0770211""","Math",7,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Manchester School District","""0770011""","Manchester High School","""0776111""","ELA",351,323,92.0,323,90,27.9,62,19.2,144,44.6,27,8.4,171,52.9,483
+"Manchester School District","""0770011""","Manchester High School","""0776111""","Math",351,323,92.0,317,82,25.9,162,51.1,65,20.5,8,2.5,73,23.0,467
+"Manchester School District","""0770011""","Manchester Regional Academy","""0779011""","ELA",9,7,"*",7,"*","*","*","*","*","*","*","*","*","*","*"
+"Manchester School District","""0770011""","Manchester Regional Academy","""0779011""","Math",9,7,"*",7,"*","*","*","*","*","*","*","*","*","*","*"
+"Manchester School District","""0770011""","New Horizons","""0770711""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Manchester School District","""0770011""","New Horizons","""0770711""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Meriden School District","""0800011""","Francis T. Maloney High School","""0806111""","ELA",291,284,97.6,284,90,31.7,75,26.4,103,36.3,16,5.6,119,41.9,469
+"Meriden School District","""0800011""","Francis T. Maloney High School","""0806111""","Math",291,284,97.6,283,119,42.0,121,42.8,"*","*","*","*",43,15.2,440
+"Meriden School District","""0800011""","Orville H. Platt High School","""0806211""","ELA",213,206,96.7,206,81,39.3,48,23.3,63,30.6,14,6.8,77,37.4,458
+"Meriden School District","""0800011""","Orville H. Platt High School","""0806211""","Math",213,206,96.7,204,89,43.6,80,39.2,"*","*","*","*",35,17.2,439
+"Meriden School District","""0800011""","Success Academy","""0801411""","ELA",9,7,"*",7,"*","*","*","*","*","*","*","*","*","*","*"
+"Meriden School District","""0800011""","Success Academy","""0801411""","Math",9,7,"*",7,"*","*","*","*","*","*","*","*","*","*","*"
+"Meriden School District","""0800011""","Venture Academy-Meriden School District","""0801311""","ELA",9,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Meriden School District","""0800011""","Venture Academy-Meriden School District","""0801311""","Math",9,6,"*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","Evening Program - MHS","""0831611""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","Evening Program - MHS","""0831611""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","MHS - Alternative Education Program 1","""0831811""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","MHS - Alternative Education Program 1","""0831811""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","MHS - Alternative Education Program 2","""0831911""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","MHS - Alternative Education Program 2","""0831911""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","Middletown High School","""0836211""","ELA",292,292,100.0,292,67,22.9,59,20.2,119,40.8,47,16.1,166,56.8,508
+"Middletown School District","""0830011""","Middletown High School","""0836211""","Math",292,292,100.0,292,76,26.0,114,39.0,80,27.4,22,7.5,102,34.9,489
+"Middletown School District","""0830011""","Transition to Life Center","""0839111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","Transition to Life Center","""0839111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","Virtual Learning Academy - MHS","""0831711""","ELA",7,7,"*",7,"*","*","*","*","*","*","*","*","*","*","*"
+"Middletown School District","""0830011""","Virtual Learning Academy - MHS","""0831711""","Math",7,7,"*",7,"*","*","*","*","*","*","*","*","*","*","*"
+"Milford School District","""0840011""","Jonathan Law High School","""0846211""","ELA",190,184,96.8,184,24,13.0,29,15.8,97,52.7,34,18.5,131,71.2,533
+"Milford School District","""0840011""","Jonathan Law High School","""0846211""","Math",190,184,96.8,183,28,15.3,73,39.9,65,35.5,17,9.3,82,44.8,514
+"Milford School District","""0840011""","Joseph A. Foran High School","""0846311""","ELA",221,216,97.7,216,15,6.9,20,9.3,131,60.6,50,23.1,181,83.8,560
+"Milford School District","""0840011""","Joseph A. Foran High School","""0846311""","Math",221,216,97.7,216,23,10.6,78,36.1,88,40.7,27,12.5,115,53.2,533
+"Milford School District","""0840011""","The Academy","""0840311""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Milford School District","""0840011""","The Academy","""0840311""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Monroe School District","""0850011""","Masuk Alternative Program","""0850211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Monroe School District","""0850011""","Masuk Alternative Program","""0850211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Monroe School District","""0850011""","Masuk High School","""0856111""","ELA",296,291,98.3,291,13,4.5,32,11.0,160,55.0,86,29.6,246,84.5,571
+"Monroe School District","""0850011""","Masuk High School","""0856111""","Math",296,291,98.3,291,17,5.8,95,32.6,108,37.1,71,24.4,179,61.5,564
+"Montville School District","""0860011""","Montville High School","""0866111""","ELA",179,175,97.8,175,18,10.3,21,12.0,108,61.7,28,16.0,136,77.7,542
+"Montville School District","""0860011""","Montville High School","""0866111""","Math",179,175,97.8,175,23,13.1,73,41.7,65,37.1,14,8.0,79,45.1,516
+"Montville School District","""0860011""","Palmer Academy","""0869011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Montville School District","""0860011""","Palmer Academy","""0869011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Naugatuck School District","""0880011""","Genesis Academy","""0880911""","ELA",10,8,"*",8,"*","*","*","*","*","*","*","*","*","*","*"
+"Naugatuck School District","""0880011""","Genesis Academy","""0880911""","Math",10,8,"*",8,"*","*","*","*","*","*","*","*","*","*","*"
+"Naugatuck School District","""0880011""","Naugatuck High School","""0886111""","ELA",290,268,92.4,268,"*","*","*","*","*","*","*","*","*","*",480
+"Naugatuck School District","""0880011""","Naugatuck High School","""0886111""","Math",290,268,92.4,267,"*","*","*","*","*","*","*","*","*","*",456
+"New Britain School District","""0890011""","Brook Side School","""0899111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"New Britain School District","""0890011""","Brook Side School","""0899111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"New Britain School District","""0890011""","New Britain High School","""0896111""","ELA",454,412,90.7,412,177,43.0,108,26.2,113,27.4,14,3.4,127,30.8,442
+"New Britain School District","""0890011""","New Britain High School","""0896111""","Math",454,412,90.7,411,192,46.7,175,42.6,"*","*","*","*",44,10.7,428
+"New Britain School District","""0890011""","New Britain Transition Center","""0899011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"New Britain School District","""0890011""","New Britain Transition Center","""0899011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"New Britain School District","""0890011""","Satellite Careers Academy","""0899511""","ELA",61,52,85.2,52,41,78.8,"*","*","*","*",0,0.0,"*","*",391
+"New Britain School District","""0890011""","Satellite Careers Academy","""0899511""","Math",61,52,85.2,52,38,73.1,14,26.9,0,0.0,0,0.0,0,0.0,370
+"New Canaan School District","""0900011""","New Canaan High School","""0906111""","ELA",306,299,97.7,299,9,3.0,7,2.3,138,46.2,145,48.5,283,94.6,616
+"New Canaan School District","""0900011""","New Canaan High School","""0906111""","Math",306,299,97.7,298,10,3.4,43,14.4,126,42.3,119,39.9,245,82.2,614
+"New Fairfield School District","""0910011""","New Fairfield High School","""0916111""","ELA",205,202,98.5,202,15,7.4,26,12.9,119,58.9,42,20.8,161,79.7,553
+"New Fairfield School District","""0910011""","New Fairfield High School","""0916111""","Math",205,202,98.5,202,31,15.3,85,42.1,69,34.2,17,8.4,86,42.6,513
+"New Haven School District","""0930011""","Cooperative High School","""0936411""","ELA",153,148,96.7,148,37,25.0,29,19.6,74,50.0,8,5.4,82,55.4,485
+"New Haven School District","""0930011""","Cooperative High School","""0936411""","Math",153,148,96.7,148,51,34.5,72,48.6,25,16.9,0,0.0,25,16.9,447
+"New Haven School District","""0930011""","Cortlandt V.R. Creed Health and Sport Sciences High School","""0936811""","ELA",46,46,100.0,46,17,37.0,15,32.6,"*","*","*","*",14,30.4,446
+"New Haven School District","""0930011""","Cortlandt V.R. Creed Health and Sport Sciences High School","""0936811""","Math",46,46,100.0,46,27,58.7,16,34.8,"*","*","*","*","*","*",410
+"New Haven School District","""0930011""","Engineering - Science University Magnet School","""0931711""","ELA",76,74,97.4,74,10,13.5,9,12.2,33,44.6,22,29.7,55,74.3,542
+"New Haven School District","""0930011""","Engineering - Science University Magnet School","""0931711""","Math",76,74,97.4,74,10,13.5,31,41.9,21,28.4,12,16.2,33,44.6,532
+"New Haven School District","""0930011""","High School In The Community","""0936611""","ELA",54,46,85.2,46,25,54.3,"*","*",10,21.7,"*","*","*","*",446
+"New Haven School District","""0930011""","High School In The Community","""0936611""","Math",54,46,85.2,46,26,56.5,"*","*","*","*",0,0.0,"*","*",411
+"New Haven School District","""0930011""","Hill Regional Career High School","""0936311""","ELA",142,136,95.8,136,40,29.4,44,32.4,42,30.9,10,7.4,52,38.2,464
+"New Haven School District","""0930011""","Hill Regional Career High School","""0936311""","Math",142,136,95.8,136,51,37.5,67,49.3,11,8.1,7,5.1,18,13.2,447
+"New Haven School District","""0930011""","James Hillhouse High School","""0936211""","ELA",212,186,87.7,186,99,53.2,51,27.4,"*","*","*","*",36,19.4,418
+"New Haven School District","""0930011""","James Hillhouse High School","""0936211""","Math",212,186,87.7,185,113,61.1,63,34.1,"*","*","*","*",9,4.9,399
+"New Haven School District","""0930011""","Metropolitan Business Academy","""0936011""","ELA",91,89,97.8,89,"*","*",29,32.6,28,31.5,"*","*","*","*",458
+"New Haven School District","""0930011""","Metropolitan Business Academy","""0936011""","Math",91,89,97.8,89,33,37.1,43,48.3,13,14.6,0,0.0,13,14.6,439
+"New Haven School District","""0930011""","New Haven Academy","""0937011""","ELA",66,58,87.9,58,16,27.6,"*","*",27,46.6,"*","*","*","*",467
+"New Haven School District","""0930011""","New Haven Academy","""0937011""","Math",66,58,87.9,58,21,36.2,27,46.6,"*","*","*","*",10,17.2,441
+"New Haven School District","""0930011""","New Horizons High School","""0932211""","ELA",19,10,"*",10,"*","*","*","*","*","*","*","*","*","*","*"
+"New Haven School District","""0930011""","New Horizons High School","""0932211""","Math",19,10,"*",10,"*","*","*","*","*","*","*","*","*","*","*"
+"New Haven School District","""0930011""","New Light High School","""0932611""","ELA",25,11,44.0,11,"*","*","*","*","*","*","*","*","*","*","*"
+"New Haven School District","""0930011""","New Light High School","""0932611""","Math",25,11,44.0,11,"*","*","*","*","*","*","*","*","*","*","*"
+"New Haven School District","""0930011""","Riverside Education Academy","""0939111""","ELA",20,8,40.0,8,"*","*","*","*","*","*","*","*","*","*","*"
+"New Haven School District","""0930011""","Riverside Education Academy","""0939111""","Math",20,8,40.0,7,"*","*","*","*","*","*","*","*","*","*","*"
+"New Haven School District","""0930011""","Sound School","""0936711""","ELA",85,82,96.5,82,12,14.6,19,23.2,43,52.4,8,9.8,51,62.2,503
+"New Haven School District","""0930011""","Sound School","""0936711""","Math",85,82,96.5,82,"*","*",40,48.8,24,29.3,"*","*","*","*",476
+"New Haven School District","""0930011""","Wilbur Cross High School","""0936111""","ELA",313,275,87.9,275,130,47.3,74,26.9,55,20.0,16,5.8,71,25.8,443
+"New Haven School District","""0930011""","Wilbur Cross High School","""0936111""","Math",313,275,87.9,275,153,55.6,88,32.0,25,9.1,9,3.3,34,12.4,416
+"New London School District","""0950011""","New London High School","""0956111""","ELA",132,116,87.9,116,62,53.4,30,25.9,"*","*","*","*",24,20.7,421
+"New London School District","""0950011""","New London High School","""0956111""","Math",132,116,87.9,115,67,58.3,41,35.7,"*","*","*","*",7,6.1,404
+"New London School District","""0950011""","Science and Technology Magnet School of Southeastern Connecticut","""0951311""","ELA",97,97,100.0,97,9,9.3,27,27.8,46,47.4,15,15.5,61,62.9,523
+"New London School District","""0950011""","Science and Technology Magnet School of Southeastern Connecticut","""0951311""","Math",97,97,100.0,97,19,19.6,40,41.2,32,33.0,6,6.2,38,39.2,499
+"New Milford School District","""0960011""","New Milford High School","""0966111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"New Milford School District","""0960011""","New Milford High School","""0966111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Newington School District","""0940011""","Newington High School","""0946111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Newington School District","""0940011""","Newington High School","""0946111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Newtown School District","""0970011""","Newtown High School","""0976111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Newtown School District","""0970011""","Newtown High School","""0976111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"North Branford School District","""0990011""","North Branford High School","""0996111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"North Branford School District","""0990011""","North Branford High School","""0996111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"North Haven School District","""1010011""","North Haven High School","""1016111""","ELA",240,235,97.9,235,21,8.9,34,14.5,133,56.6,47,20.0,180,76.6,543
+"North Haven School District","""1010011""","North Haven High School","""1016111""","Math",240,235,97.9,235,24,10.2,97,41.3,90,38.3,24,10.2,114,48.5,523
+"North Stonington School District","""1020011""","Wheeler High School","""1026111""","ELA",43,43,100.0,43,6,14.0,6,14.0,17,39.5,14,32.6,31,72.1,558
+"North Stonington School District","""1020011""","Wheeler High School","""1026111""","Math",43,43,100.0,43,"*","*",18,41.9,13,30.2,"*","*","*","*",543
+"Norwalk School District","""1030011""","Brien McMahon High School","""1036211""","ELA",351,333,94.9,333,79,23.7,86,25.8,144,43.2,24,7.2,168,50.5,485
+"Norwalk School District","""1030011""","Brien McMahon High School","""1036211""","Math",351,333,94.9,333,92,27.6,155,46.5,64,19.2,22,6.6,86,25.8,470
+"Norwalk School District","""1030011""","Center for Global Studies","""1030511""","ELA",80,79,98.8,79,"*","*","*","*",38,48.1,32,40.5,70,88.6,600
+"Norwalk School District","""1030011""","Center for Global Studies","""1030511""","Math",80,79,98.8,79,"*","*",26,32.9,"*","*",25,31.6,"*","*",572
+"Norwalk School District","""1030011""","Norwalk High School","""1036111""","ELA",400,387,96.8,387,93,24.0,72,18.6,176,45.5,46,11.9,222,57.4,500
+"Norwalk School District","""1030011""","Norwalk High School","""1036111""","Math",400,387,96.8,387,90,23.3,173,44.7,102,26.4,22,5.7,124,32.0,484
+"Norwalk School District","""1030011""","Norwalk Pathways Academy at Briggs","""1036311""","ELA",22,16,72.7,16,"*","*","*","*","*","*","*","*","*","*","*"
+"Norwalk School District","""1030011""","Norwalk Pathways Academy at Briggs","""1036311""","Math",22,16,72.7,16,"*","*","*","*","*","*","*","*","*","*","*"
+"Norwich Free Academy District","""9010022""","Alternative Pathways to Success","""9010322""","ELA",9,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Norwich Free Academy District","""9010022""","Alternative Pathways to Success","""9010322""","Math",9,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Norwich Free Academy District","""9010022""","Night School","""9010222""","ELA",8,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Norwich Free Academy District","""9010022""","Night School","""9010222""","Math",8,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Norwich Free Academy District","""9010022""","Norwich Free Academy","""9016122""","ELA",544,526,96.7,525,113,21.5,102,19.4,234,44.6,76,14.5,310,59.0,508
+"Norwich Free Academy District","""9010022""","Norwich Free Academy","""9016122""","Math",544,526,96.7,525,134,25.5,202,38.5,137,26.1,52,9.9,189,36.0,492
+"Norwich School District","""1040011""","Virtual Learning Academy","""1049211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Norwich School District","""1040011""","Virtual Learning Academy","""1049211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Old Saybrook School District","""1060011""","Old Saybrook Senior High School","""1066111""","ELA",111,109,98.2,109,9,8.3,12,11.0,57,52.3,31,28.4,88,80.7,559
+"Old Saybrook School District","""1060011""","Old Saybrook Senior High School","""1066111""","Math",111,109,98.2,109,14,12.8,33,30.3,44,40.4,18,16.5,62,56.9,545
+"Oxford School District","""1080011""","Alternative Education","""1080411""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Oxford School District","""1080011""","Alternative Education","""1080411""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Oxford School District","""1080011""","Oxford High School","""1086011""","ELA",132,131,99.2,131,"*","*","*","*",80,61.1,36,27.5,116,88.5,571
+"Oxford School District","""1080011""","Oxford High School","""1086011""","Math",132,131,99.2,131,9,6.9,44,33.6,63,48.1,15,11.5,78,59.5,539
+"Path Academy District","""2930013""","Path Academy","""2930113""","ELA",46,20,43.5,20,14,70.0,"*","*","*","*",0,0.0,"*","*",383
+"Path Academy District","""2930013""","Path Academy","""2930113""","Math",46,20,43.5,18,"*","*","*","*","*","*","*","*","*","*","*"
+"Plainfield School District","""1090011""","Plainfield High School","""1096111""","ELA",161,149,92.5,149,32,21.5,44,29.5,57,38.3,16,10.7,73,49.0,490
+"Plainfield School District","""1090011""","Plainfield High School","""1096111""","Math",161,149,92.5,147,40,27.2,66,44.9,"*","*","*","*",41,27.9,470
+"Plainville School District","""1100011""","Plainville High School","""1106111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Plainville School District","""1100011""","Plainville High School","""1106111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Plymouth School District","""1110011""","Terryville High School","""1116111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Plymouth School District","""1110011""","Terryville High School","""1116111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Portland School District","""1130011""","Portland High School","""1136111""","ELA",86,86,100.0,86,10,11.6,10,11.6,49,57.0,17,19.8,66,76.7,542
+"Portland School District","""1130011""","Portland High School","""1136111""","Math",86,86,100.0,85,12,14.1,29,34.1,28,32.9,16,18.8,44,51.8,532
+"Putnam School District","""1160011""","PALS - Putnam Alternative Learning System","""1160111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Putnam School District","""1160011""","PALS - Putnam Alternative Learning System","""1160111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Putnam School District","""1160011""","Putnam High School","""1166111""","ELA",66,63,95.5,63,"*","*",17,27.0,27,42.9,"*","*","*","*",479
+"Putnam School District","""1160011""","Putnam High School","""1166111""","Math",66,63,95.5,63,17,27.0,34,54.0,"*","*","*","*",12,19.0,449
+"Regional School District 01","""2010012""","ALPSS","""2010512""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 01","""2010012""","ALPSS","""2010512""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 01","""2010012""","Housatonic Valley Regional High School","""2016112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 01","""2010012""","Housatonic Valley Regional High School","""2016112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 04","""2040012""","Valley Regional High School","""2046112""","ELA",155,152,98.1,152,11,7.2,10,6.6,89,58.6,42,27.6,131,86.2,570
+"Regional School District 04","""2040012""","Valley Regional High School","""2046112""","Math",155,152,98.1,152,14,9.2,60,39.5,60,39.5,18,11.8,78,51.3,527
+"Regional School District 05","""2050012""","Amity Regional High School","""2056112""","ELA",354,353,99.7,353,8,2.3,40,11.3,175,49.6,130,36.8,305,86.4,588
+"Regional School District 05","""2050012""","Amity Regional High School","""2056112""","Math",354,353,99.7,353,14,4.0,100,28.3,143,40.5,96,27.2,239,67.7,580
+"Regional School District 06","""2060012""","Wamogo Regional High School","""2066112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 06","""2060012""","Wamogo Regional High School","""2066112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 07","""2070012""","AIM","""2079112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 07","""2070012""","AIM","""2079112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 07","""2070012""","Links","""2079212""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 07","""2070012""","Links","""2079212""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 07","""2070012""","Northwestern Regional High School","""2076112""","ELA",165,165,100.0,165,8,4.8,20,12.1,88,53.3,49,29.7,137,83.0,572
+"Regional School District 07","""2070012""","Northwestern Regional High School","""2076112""","Math",165,165,100.0,165,12,7.3,44,26.7,78,47.3,31,18.8,109,66.1,557
+"Regional School District 07","""2070012""","STEP","""2079312""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 07","""2070012""","STEP","""2079312""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 08","""2080012""","RHAM High School","""2086112""","ELA",269,267,99.3,267,7,2.6,20,7.5,138,51.7,102,38.2,240,89.9,588
+"Regional School District 08","""2080012""","RHAM High School","""2086112""","Math",269,267,99.3,267,10,3.7,58,21.7,123,46.1,76,28.5,199,74.5,587
+"Regional School District 09","""2090012""","Joel Barlow High School","""2096112""","ELA",234,221,94.4,221,"*","*","*","*",111,50.2,90,40.7,201,91.0,592
+"Regional School District 09","""2090012""","Joel Barlow High School","""2096112""","Math",234,221,94.4,221,9,4.1,57,25.8,100,45.2,55,24.9,155,70.1,579
+"Regional School District 10","""2100012""","Lewis S. Mills High School","""2106112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 10","""2100012""","Lewis S. Mills High School","""2106112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 11","""2110012""","Parish Hill High School","""2116112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 11","""2110012""","Parish Hill High School","""2116112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 12","""2120012""","Shepaug Valley School","""2120312""","ELA",58,58,100.0,58,"*","*","*","*",30,51.7,18,31.0,48,82.8,574
+"Regional School District 12","""2120012""","Shepaug Valley School","""2120312""","Math",58,58,100.0,58,"*","*",22,37.9,26,44.8,"*","*","*","*",533
+"Regional School District 13","""2130012""","Coginchaug Regional High School","""2136112""","ELA",128,126,98.4,126,"*","*","*","*",87,69.0,27,21.4,114,90.5,574
+"Regional School District 13","""2130012""","Coginchaug Regional High School","""2136112""","Math",128,126,98.4,126,10,7.9,39,31.0,56,44.4,21,16.7,77,61.1,552
+"Regional School District 14","""2140012""","Nonnewaug High School","""2146112""","ELA",192,190,99.0,190,25,13.2,27,14.2,101,53.2,37,19.5,138,72.6,537
+"Regional School District 14","""2140012""","Nonnewaug High School","""2146112""","Math",192,190,99.0,190,24,12.6,69,36.3,71,37.4,26,13.7,97,51.1,529
+"Regional School District 15","""2150012""","MIJ Program","""2150112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 15","""2150012""","MIJ Program","""2150112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 15","""2150012""","Pomperaug Regional High School","""2156212""","ELA",281,279,99.3,279,11,3.9,23,8.2,164,58.8,81,29.0,245,87.8,579
+"Regional School District 15","""2150012""","Pomperaug Regional High School","""2156212""","Math",281,279,99.3,279,18,6.5,69,24.7,133,47.7,59,21.1,192,68.8,569
+"Regional School District 16","""2160012""","WRHS Alternative Education Program","""2160412""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 16","""2160012""","WRHS Alternative Education Program","""2160412""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 16","""2160012""","Woodland Regional High School","""2166012""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 16","""2160012""","Woodland Regional High School","""2166012""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 17","""2170012""","Haddam-Killingworth High School","""2176112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 17","""2170012""","Haddam-Killingworth High School","""2176112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 18","""2180012""","Alternative Program","""2180412""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 18","""2180012""","Alternative Program","""2180412""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 18","""2180012""","Lyme-Old Lyme High School","""2186112""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 18","""2180012""","Lyme-Old Lyme High School","""2186112""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 19","""2190012""","E. O. Smith High School","""2196112""","ELA",283,279,98.6,279,25,9.0,26,9.3,145,52.0,83,29.7,228,81.7,569
+"Regional School District 19","""2190012""","E. O. Smith High School","""2196112""","Math",283,279,98.6,279,19,6.8,81,29.0,107,38.4,72,25.8,179,64.2,569
+"Regional School District 19","""2190012""","E.O. Smith High School at the Depot Campus","""2190112""","ELA",13,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 19","""2190012""","E.O. Smith High School at the Depot Campus","""2190112""","Math",13,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 19","""2190012""","PM Panthers","""2190212""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Regional School District 19","""2190012""","PM Panthers","""2190212""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Ridgefield School District","""1180011""","Alternative High School","""1188011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Ridgefield School District","""1180011""","Alternative High School","""1188011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Ridgefield School District","""1180011""","Ridgefield High School","""1186111""","ELA",416,396,95.2,396,"*","*","*","*",173,43.7,197,49.7,370,93.4,615
+"Ridgefield School District","""1180011""","Ridgefield High School","""1186111""","Math",416,396,95.2,396,12,3.0,73,18.4,173,43.7,138,34.8,311,78.5,602
+"Rocky Hill School District","""1190011""","Alternative Learning Program","""1190111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Rocky Hill School District","""1190011""","Alternative Learning Program","""1190111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Rocky Hill School District","""1190011""","Pathways","""1190311""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Rocky Hill School District","""1190011""","Pathways","""1190311""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Rocky Hill School District","""1190011""","Rocky Hill High School","""1196111""","ELA",178,176,98.9,176,17,9.7,18,10.2,99,56.3,42,23.9,141,80.1,559
+"Rocky Hill School District","""1190011""","Rocky Hill High School","""1196111""","Math",178,176,98.9,176,22,12.5,50,28.4,76,43.2,28,15.9,104,59.1,542
+"Seymour School District","""1240011""","Seymour High School","""1246111""","ELA",151,149,98.7,149,17,11.4,22,14.8,83,55.7,27,18.1,110,73.8,539
+"Seymour School District","""1240011""","Seymour High School","""1246111""","Math",151,149,98.7,149,16,10.7,54,36.2,67,45.0,12,8.1,79,53.0,522
+"Shelton School District","""1260011""","Shelton High School","""1266111""","ELA",330,323,97.9,323,21,6.5,53,16.4,196,60.7,53,16.4,249,77.1,542
+"Shelton School District","""1260011""","Shelton High School","""1266111""","Math",330,323,97.9,322,33,10.2,122,37.9,120,37.3,47,14.6,167,51.9,535
+"Simsbury School District","""1280011""","Simsbury High School","""1286111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Simsbury School District","""1280011""","Simsbury High School","""1286111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Somers School District","""1290011""","Aspire","""1290511""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Somers School District","""1290011""","Aspire","""1290511""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Somers School District","""1290011""","Somers High School","""1296111""","ELA",113,113,100.0,113,13,11.5,10,8.8,59,52.2,31,27.4,90,79.6,551
+"Somers School District","""1290011""","Somers High School","""1296111""","Math",113,113,100.0,112,14,12.5,42,37.5,28,25.0,28,25.0,56,50.0,539
+"South Windsor School District","""1320011""","South Windsor High School","""1326211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"South Windsor School District","""1320011""","South Windsor High School","""1326211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Southington School District","""1310011""","Alta","""1310111""","ELA",12,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Southington School District","""1310011""","Alta","""1310111""","Math",12,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Southington School District","""1310011""","Southington High School","""1316211""","ELA",519,508,97.9,508,47,9.3,51,10.0,292,57.5,118,23.2,410,80.7,556
+"Southington School District","""1310011""","Southington High School","""1316211""","Math",519,508,97.9,507,44,8.7,148,29.2,233,46.0,82,16.2,315,62.1,548
+"Southington School District","""1310011""","Therapeutic Educational Setting (TEP)","""1311211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Southington School District","""1310011""","Therapeutic Educational Setting (TEP)","""1311211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Stafford School District","""1340011""","Stafford High School","""1346111""","ELA",84,81,96.4,81,7,8.6,15,18.5,43,53.1,16,19.8,59,72.8,547
+"Stafford School District","""1340011""","Stafford High School","""1346111""","Math",84,81,96.4,80,"*","*",25,31.3,42,52.5,"*","*","*","*",530
+"Stafford School District","""1340011""","Stafford Tutoring Program","""1340211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Stafford School District","""1340011""","Stafford Tutoring Program","""1340211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Stamford Academy District","""2820013""","Stamford Academy","""2826013""","ELA",36,26,72.2,26,"*","*","*","*",0,0.0,0,0.0,0,0.0,368
+"Stamford Academy District","""2820013""","Stamford Academy","""2826013""","Math",36,26,72.2,24,"*","*","*","*",0,0.0,0,0.0,0,0.0,360
+"Stamford School District","""1350011""","Alternate Routes To Success","""1350411""","ELA",24,10,41.7,10,"*","*","*","*","*","*","*","*","*","*","*"
+"Stamford School District","""1350011""","Alternate Routes To Success","""1350411""","Math",24,10,41.7,"*","*","*","*","*","*","*","*","*","*","*","*"
+"Stamford School District","""1350011""","Stamford High School","""1356111""","ELA",416,400,96.2,400,99,24.8,93,23.3,162,40.5,46,11.5,208,52.0,491
+"Stamford School District","""1350011""","Stamford High School","""1356111""","Math",416,400,96.2,400,105,26.3,185,46.3,75,18.8,35,8.8,110,27.5,479
+"Stamford School District","""1350011""","The Academy of Information Technology","""1356411""","ELA",157,153,97.5,153,17,11.1,19,12.4,78,51.0,39,25.5,117,76.5,550
+"Stamford School District","""1350011""","The Academy of Information Technology","""1356411""","Math",157,153,97.5,153,26,17.0,56,36.6,45,29.4,26,17.0,71,46.4,523
+"Stamford School District","""1350011""","Westhill High School","""1356311""","ELA",510,462,90.6,462,119,25.8,98,21.2,169,36.6,76,16.5,245,53.0,501
+"Stamford School District","""1350011""","Westhill High School","""1356311""","Math",510,462,90.6,462,141,30.5,164,35.5,95,20.6,62,13.4,157,34.0,487
+"Stonington School District","""1370011""","SAILS","""1370711""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Stonington School District","""1370011""","SAILS","""1370711""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Stonington School District","""1370011""","Stonington High School","""1376111""","ELA",178,172,96.6,172,9,5.2,22,12.8,91,52.9,50,29.1,141,82.0,565
+"Stonington School District","""1370011""","Stonington High School","""1376111""","Math",178,172,96.6,172,18,10.5,57,33.1,68,39.5,29,16.9,97,56.4,544
+"Stratford School District","""1380011""","ALPHA","""1380511""","ELA",12,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"Stratford School District","""1380011""","ALPHA","""1380511""","Math",12,11,"*",9,"*","*","*","*","*","*","*","*","*","*","*"
+"Stratford School District","""1380011""","Bunnell High School","""1386211""","ELA",263,259,98.5,259,35,13.5,68,26.3,133,51.4,23,8.9,156,60.2,505
+"Stratford School District","""1380011""","Bunnell High School","""1386211""","Math",263,259,98.5,259,53,20.5,118,45.6,72,27.8,16,6.2,88,34.0,492
+"Stratford School District","""1380011""","High School STEPS 9-12","""1382011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Stratford School District","""1380011""","High School STEPS 9-12","""1382011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Stratford School District","""1380011""","Stratford High School","""1386111""","ELA",245,243,99.2,243,56,23.0,63,25.9,105,43.2,19,7.8,124,51.0,489
+"Stratford School District","""1380011""","Stratford High School","""1386111""","Math",245,243,99.2,243,74,30.5,109,44.9,48,19.8,12,4.9,60,24.7,464
+"Suffield School District","""1390011""","Suffield High School","""1396111""","ELA",194,193,99.5,193,12,6.2,27,14.0,99,51.3,55,28.5,154,79.8,559
+"Suffield School District","""1390011""","Suffield High School","""1396111""","Math",194,193,99.5,193,13,6.7,71,36.8,69,35.8,40,20.7,109,56.5,550
+"The Bridge Academy District","""2690013""","The Bridge Academy","""2696113""","ELA",38,38,100.0,38,13,34.2,14,36.8,11,28.9,0,0.0,11,28.9,443
+"The Bridge Academy District","""2690013""","The Bridge Academy","""2696113""","Math",38,38,100.0,38,"*","*",22,57.9,"*","*",0,0.0,"*","*",446
+"The Gilbert School District","""9020022""","The Gilbert School","""9026122""","ELA",86,83,96.5,83,19,22.9,22,26.5,36,43.4,6,7.2,42,50.6,489
+"The Gilbert School District","""9020022""","The Gilbert School","""9026122""","Math",86,83,96.5,83,16,19.3,31,37.3,25,30.1,11,13.3,36,43.4,511
+"Thomaston School District","""1400011""","Thomaston High School","""1406211""","ELA",59,59,100.0,59,10,16.9,7,11.9,31,52.5,11,18.6,42,71.2,537
+"Thomaston School District","""1400011""","Thomaston High School","""1406211""","Math",59,59,100.0,59,"*","*",26,44.1,24,40.7,"*","*","*","*",538
+"Thompson School District","""1410011""","Tourtellotte Memorial High School","""1416111""","ELA",66,62,93.9,62,"*","*",15,24.2,30,48.4,"*","*","*","*",489
+"Thompson School District","""1410011""","Tourtellotte Memorial High School","""1416111""","Math",66,62,93.9,62,20,32.3,25,40.3,"*","*","*","*",17,27.4,467
+"Tolland School District","""1420011""","TALC","""1420311""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Tolland School District","""1420011""","TALC","""1420311""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Tolland School District","""1420011""","Tolland High School","""1426111""","ELA",206,205,99.5,205,13,6.3,16,7.8,116,56.6,60,29.3,176,85.9,568
+"Tolland School District","""1420011""","Tolland High School","""1426111""","Math",206,205,99.5,205,17,8.3,49,23.9,94,45.9,45,22.0,139,67.8,565
+"Torrington School District","""1430011""","Torrington Expulsion Program","""1431411""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Torrington School District","""1430011""","Torrington Expulsion Program","""1431411""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Torrington School District","""1430011""","Torrington High School","""1436111""","ELA",238,220,92.4,220,49,22.3,50,22.7,105,47.7,16,7.3,121,55.0,490
+"Torrington School District","""1430011""","Torrington High School","""1436111""","Math",238,220,92.4,219,62,28.3,105,47.9,44,20.1,8,3.7,52,23.7,467
+"Trumbull School District","""1440011""","REACH","""1440511""","ELA",7,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Trumbull School District","""1440011""","REACH","""1440511""","Math",7,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Trumbull School District","""1440011""","Trumbull Alternative School","""1440211""","ELA",6,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Trumbull School District","""1440011""","Trumbull Alternative School","""1440211""","Math",6,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Trumbull School District","""1440011""","Trumbull High School","""1446111""","ELA",546,544,99.6,544,23,4.2,50,9.2,294,54.0,177,32.5,471,86.6,580
+"Trumbull School District","""1440011""","Trumbull High School","""1446111""","Math",546,544,99.6,544,34,6.3,156,28.7,211,38.8,143,26.3,354,65.1,572
+"Unified School District #1","""3360015""","Bridgeport Correctional Center","""3360115""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Bridgeport Correctional Center","""3360115""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Cheshire Correctional Institution","""3360315""","ELA",6,0,"*",0,"*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Cheshire Correctional Institution","""3360315""","Math",6,0,"*",0,"*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Corrigan/Radgowski Correctional Institution","""3362415""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Corrigan/Radgowski Correctional Institution","""3362415""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Enfield Correctional Institution","""3360415""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Enfield Correctional Institution","""3360415""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Garner Correctional Institution","""3361915""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Garner Correctional Institution","""3361915""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Hartford Correctional Center","""3360615""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Hartford Correctional Center","""3360615""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","MacDougall/Walker Correctional Institution","""3362215""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","MacDougall/Walker Correctional Institution","""3362215""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Manson Youth Institution","""3361115""","ELA",49,0,0.0,0,"*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Manson Youth Institution","""3361115""","Math",49,0,0.0,0,"*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Northern Correctional Institution","""3362615""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","Northern Correctional Institution","""3362615""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","York Correctional Institution","""3362515""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #1","""3360015""","York Correctional Institution","""3362515""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #2","""3470015""","Children's Place School","""3470115""","ELA",6,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #2","""3470015""","Children's Place School","""3470115""","Math",6,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #2","""3470015""","Riverview School","""3470315""","ELA",13,13,"*",13,"*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #2","""3470015""","Riverview School","""3470315""","Math",13,13,"*",13,"*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #2","""3470015""","Walter G. Cady School","""3476715""","ELA",7,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Unified School District #2","""3470015""","Walter G. Cady School","""3476715""","Math",7,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Vernon School District","""1460011""","Rockville High School","""1466111""","ELA",204,196,96.1,196,47,24.0,45,23.0,79,40.3,25,12.8,104,53.1,495
+"Vernon School District","""1460011""","Rockville High School","""1466111""","Math",204,196,96.1,195,53,27.2,78,40.0,56,28.7,8,4.1,64,32.8,477
+"Wallingford School District","""1480011""","A.R.T.S. Academy","""1489011""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wallingford School District","""1480011""","A.R.T.S. Academy","""1489011""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wallingford School District","""1480011""","Education Enhancement Program","""1480511""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wallingford School District","""1480011""","Education Enhancement Program","""1480511""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wallingford School District","""1480011""","Lyman Hall High School","""1486111""","ELA",259,255,98.5,255,25,9.8,48,18.8,142,55.7,40,15.7,182,71.4,529
+"Wallingford School District","""1480011""","Lyman Hall High School","""1486111""","Math",259,255,98.5,255,36,14.1,119,46.7,84,32.9,16,6.3,100,39.2,504
+"Wallingford School District","""1480011""","Mark T. Sheehan High School","""1486211""","ELA",187,186,99.5,186,21,11.3,25,13.4,116,62.4,24,12.9,140,75.3,528
+"Wallingford School District","""1480011""","Mark T. Sheehan High School","""1486211""","Math",187,186,99.5,186,27,14.5,79,42.5,68,36.6,12,6.5,80,43.0,511
+"Waterbury School District","""1510011""","Bridgeport Detention Center","""3480115""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Waterbury School District","""1510011""","Bridgeport Detention Center","""3480115""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Waterbury School District","""1510011""","Crosby High School","""1516211""","ELA",263,252,95.8,252,138,54.8,59,23.4,"*","*","*","*",55,21.8,422
+"Waterbury School District","""1510011""","Crosby High School","""1516211""","Math",263,252,95.8,246,154,62.6,83,33.7,"*","*","*","*",9,3.7,401
+"Waterbury School District","""1510011""","Enlightenment School","""1519111""","ELA",26,11,42.3,11,"*","*","*","*","*","*","*","*","*","*","*"
+"Waterbury School District","""1510011""","Enlightenment School","""1519111""","Math",26,11,42.3,11,"*","*","*","*","*","*","*","*","*","*","*"
+"Waterbury School District","""1510011""","John F. Kennedy High School","""1516411""","ELA",294,276,93.9,276,142,51.4,"*","*",73,26.4,"*","*","*","*",434
+"Waterbury School District","""1510011""","John F. Kennedy High School","""1516411""","Math",294,276,93.9,276,163,59.1,91,33.0,"*","*","*","*",22,8.0,407
+"Waterbury School District","""1510011""","State Street School","""1519011""","ELA",9,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Waterbury School District","""1510011""","State Street School","""1519011""","Math",9,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"Waterbury School District","""1510011""","Waterbury Arts Magnet School (High)","""1516011""","ELA",112,112,100.0,112,20,17.9,25,22.3,58,51.8,9,8.0,67,59.8,499
+"Waterbury School District","""1510011""","Waterbury Arts Magnet School (High)","""1516011""","Math",112,112,100.0,111,31,27.9,54,48.6,"*","*","*","*",26,23.4,465
+"Waterbury School District","""1510011""","Waterbury Career Academy","""1516711""","ELA",226,226,100.0,226,43,19.0,62,27.4,109,48.2,12,5.3,121,53.5,491
+"Waterbury School District","""1510011""","Waterbury Career Academy","""1516711""","Math",226,226,100.0,226,44,19.5,133,58.8,42,18.6,7,3.1,49,21.7,471
+"Waterbury School District","""1510011""","Wilby High School","""1516311""","ELA",259,240,92.7,240,139,57.9,60,25.0,"*","*","*","*",41,17.1,419
+"Waterbury School District","""1510011""","Wilby High School","""1516311""","Math",259,240,92.7,239,154,64.4,74,31.0,11,4.6,0,0.0,11,4.6,393
+"Waterford School District","""1520011""","Waterford High School","""1526111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Waterford School District","""1520011""","Waterford High School","""1526111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Watertown School District","""1530011""","Watertown High School","""1536111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Watertown School District","""1530011""","Watertown High School","""1536111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"West Hartford School District","""1550011""","REACH","""1557311""","ELA",6,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"West Hartford School District","""1550011""","REACH","""1557311""","Math",6,6,"*",6,"*","*","*","*","*","*","*","*","*","*","*"
+"West Hartford School District","""1550011""","Conard High School","""1556111""","ELA",360,356,98.9,356,30,8.4,43,12.1,175,49.2,108,30.3,283,79.5,569
+"West Hartford School District","""1550011""","Conard High School","""1556111""","Math",360,356,98.9,356,35,9.8,101,28.4,150,42.1,70,19.7,220,61.8,555
+"West Hartford School District","""1550011""","Hall High School","""1556211""","ELA",344,342,99.4,342,20,5.8,25,7.3,163,47.7,134,39.2,297,86.8,587
+"West Hartford School District","""1550011""","Hall High School","""1556211""","Math",344,342,99.4,341,33,9.7,89,26.1,120,35.2,99,29.0,219,64.2,571
+"West Hartford School District","""1550011""","Strive-West Hartford","""1559211""","ELA",15,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"West Hartford School District","""1550011""","Strive-West Hartford","""1559211""","Math",15,11,"*",11,"*","*","*","*","*","*","*","*","*","*","*"
+"West Haven School District","""1560011""","Blended","""1560711""","ELA",9,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"West Haven School District","""1560011""","Blended","""1560711""","Math",9,"*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"West Haven School District","""1560011""","Blended (Molloy)","""1560511""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"West Haven School District","""1560011""","Blended (Molloy)","""1560511""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"West Haven School District","""1560011""","PACE","""1560211""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"West Haven School District","""1560011""","PACE","""1560211""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"West Haven School District","""1560011""","West Haven High School","""1566111""","ELA",330,318,96.4,318,85,26.7,79,24.8,138,43.4,16,5.0,154,48.4,479
+"West Haven School District","""1560011""","West Haven High School","""1566111""","Math",330,318,96.4,315,106,33.7,158,50.2,"*","*","*","*",51,16.2,450
+"Westbrook School District","""1540011""","Westbrook High School","""1546111""","ELA",88,88,100.0,88,8,9.1,11,12.5,57,64.8,12,13.6,69,78.4,544
+"Westbrook School District","""1540011""","Westbrook High School","""1546111""","Math",88,88,100.0,88,9,10.2,39,44.3,34,38.6,6,6.8,40,45.5,514
+"Weston School District","""1570011""","Weston High School","""1576111""","ELA",204,200,98.0,200,"*","*","*","*",72,36.0,113,56.5,185,92.5,626
+"Weston School District","""1570011""","Weston High School","""1576111""","Math",204,200,98.0,200,"*","*","*","*",85,42.5,79,39.5,164,82.0,613
+"Westport School District","""1580011""","Staples High School","""1586111""","ELA",464,459,98.9,459,19,4.1,16,3.5,189,41.2,235,51.2,424,92.4,616
+"Westport School District","""1580011""","Staples High School","""1586111""","Math",464,459,98.9,457,18,3.9,81,17.7,166,36.3,192,42.0,358,78.3,609
+"Wethersfield School District","""1590011""","Wethersfield High School","""1596111""","ELA",304,300,98.7,300,25,8.3,58,19.3,156,52.0,61,20.3,217,72.3,540
+"Wethersfield School District","""1590011""","Wethersfield High School","""1596111""","Math",304,300,98.7,300,48,16.0,121,40.3,93,31.0,38,12.7,131,43.7,521
+"Wilton School District","""1610011""","Wilton High School","""1616111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wilton School District","""1610011""","Wilton High School","""1616111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Windham School District","""1630011""","Windham High School","""1636111""","ELA",124,121,97.6,121,48,39.7,26,21.5,40,33.1,7,5.8,47,38.8,455
+"Windham School District","""1630011""","Windham High School","""1636111""","Math",124,121,97.6,121,47,38.8,60,49.6,"*","*","*","*",14,11.6,435
+"Windsor Locks School District","""1650011""","Pine Meadow Academy","""1650611""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Windsor Locks School District","""1650011""","Pine Meadow Academy","""1650611""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Windsor Locks School District","""1650011""","Windsor Locks High School","""1656111""","ELA",98,97,99.0,97,14,14.4,26,26.8,51,52.6,6,6.2,57,58.8,497
+"Windsor Locks School District","""1650011""","Windsor Locks High School","""1656111""","Math",98,97,99.0,97,"*","*",49,50.5,27,27.8,"*","*","*","*",491
+"Windsor School District","""1640011""","Expulsion","""1640411""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Windsor School District","""1640011""","Expulsion","""1640411""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Windsor School District","""1640011""","Spark","""1640311""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Windsor School District","""1640011""","Spark","""1640311""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Windsor School District","""1640011""","Windsor High School","""1646111""","ELA",295,283,95.9,283,35,12.4,71,25.1,142,50.2,35,12.4,177,62.5,512
+"Windsor School District","""1640011""","Windsor High School","""1646111""","Math",295,283,95.9,283,50,17.7,132,46.6,84,29.7,17,6.0,101,35.7,495
+"Wolcott School District","""1660011""","Phoenix Program","""1660411""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wolcott School District","""1660011""","Phoenix Program","""1660411""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wolcott School District","""1660011""","Wolcott High School","""1666111""","ELA","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Wolcott School District","""1660011""","Wolcott High School","""1666111""","Math","*","*","*","*","*","*","*","*","*","*","*","*","*","*","*"
+"Woodstock Academy District","""9030022""","Woodstock Academy","""9036122""","ELA",246,243,98.8,243,23,9.5,23,9.5,136,56.0,61,25.1,197,81.1,555
+"Woodstock Academy District","""9030022""","Woodstock Academy","""9036122""","Math",246,243,98.8,243,30,12.3,81,33.3,92,37.9,40,16.5,132,54.3,535
+

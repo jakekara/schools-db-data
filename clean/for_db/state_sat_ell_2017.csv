@@ -1,0 +1,5 @@
+district,subject,ell,total_numberof_students,total_numbertested,connecticut_school_day_satparticipationrate,total_numberwith_scored_tests,level_1not_met_count,level_1not_met_pct,level_2approaching_count,level_2approaching_pct,level_3met_count,level_3met_pct,level_4exceeded_count,level_4exceeded_pct,level_3_4met_or_exceeded_count,level_3_4met_or_exceeded_pct,level_3_4met_or_exceeded_averagescore,level,year,average_score
+State of Connecticut,ELA,N,38189,36771,96.3,36770,*,*,6232,16.9,17688,48.1,*,*,*,*,531,Statewide,2016-17,531
+State of Connecticut,ELA,Y,1813,1650,91.0,1649,1258,76.3,298,18.1,*,*,*,*,93,5.6,384,Statewide,2016-17,384
+State of Connecticut,Math,N,38189,36771,96.3,36654,6969,19.0,13933,38.0,10977,29.9,4775,13.0,15752,43.0,512,Statewide,2016-17,512
+State of Connecticut,Math,Y,1813,1650,91.0,1636,1145,70.0,432,26.4,47,2.9,12,0.7,59,3.6,387,Statewide,2016-17,387

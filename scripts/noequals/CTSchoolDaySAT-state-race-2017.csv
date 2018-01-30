@@ -1,0 +1,20 @@
+"CT School Day SAT, 2016-17"
+"State of Connecticut, All Subjects, Race/Ethnicity"
+
+"",,,,,,,"Level 1Not Met",,"Level 2Approaching",,"Level 3Met",,"Level 4Exceeded",,"Level 3&4Met or Exceeded",,""
+"District","Subject","Race","Total Numberof Students","Total NumberTested","Connecticut School Day SATParticipationRate","Total Numberwith Scored Tests","Count","%","Count","%","Count","%","Count","%","Count","%","AverageScore"
+"State of Connecticut","ELA","American Indian or Alaska Native",126,123,97.6,122,36,29.5,"*","*",50,41.0,"*","*","*","*",485
+"State of Connecticut","ELA","Asian",1975,1952,98.8,1952,158,8.1,237,12.1,847,43.4,710,36.4,1557,79.8,577
+"State of Connecticut","ELA","Black or African American",5179,4814,93.0,4814,1699,35.3,1344,27.9,1591,33.0,180,3.7,1771,36.8,456
+"State of Connecticut","ELA","Hispanic/Latino of any race",8122,7559,93.1,7558,2695,35.7,1869,24.7,2610,34.5,384,5.1,2994,39.6,460
+"State of Connecticut","ELA","Native Hawaiian or Other Pacific Islander",43,42,97.7,42,13,31.0,"*","*",19,45.2,"*","*","*","*",502
+"State of Connecticut","ELA","Two or More Races",825,796,96.5,796,110,13.8,142,17.8,385,48.4,159,20.0,544,68.3,529
+"State of Connecticut","ELA","White",23732,23135,97.5,23135,2056,8.9,2912,12.6,12276,53.1,5891,25.5,18167,78.5,555
+"State of Connecticut","Math","American Indian or Alaska Native",126,123,97.6,122,40,32.8,57,46.7,"*","*","*","*",25,20.5,460
+"State of Connecticut","Math","Asian",1975,1952,98.8,1949,143,7.3,509,26.1,614,31.5,683,35.0,1297,66.5,588
+"State of Connecticut","Math","Black or African American",5179,4814,93.0,4789,2068,43.2,2122,44.3,528,11.0,71,1.5,599,12.5,432
+"State of Connecticut","Math","Hispanic/Latino of any race",8122,7559,93.1,7510,3055,40.7,3216,42.8,1067,14.2,172,2.3,1239,16.5,440
+"State of Connecticut","Math","Native Hawaiian or Other Pacific Islander",43,42,97.7,42,"*","*",14,33.3,15,35.7,"*","*","*","*",490
+"State of Connecticut","Math","Two or More Races",825,796,96.5,791,153,19.3,323,40.8,214,27.1,101,12.8,315,39.8,508
+"State of Connecticut","Math","White",23732,23135,97.5,23087,2644,11.5,8124,35.2,8570,37.1,3749,16.2,12319,53.4,537
+
